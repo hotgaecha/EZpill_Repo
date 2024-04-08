@@ -1,0 +1,36 @@
+{
+    "logs": [
+        {
+            "outputFile": "com.kakao.sdk.flutter.kakao_flutter_sdk_common-merged_res-14:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/ljh/.gradle/caches/transforms-3/401b28e0bdcf855ef40173b7d4497e4d/transformed/appcompat-1.0.2/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "com.kakao.sdk.flutter.kakao_flutter_sdk_common-mergeReleaseResources-12:/values-watch-v21/values-watch-v21.xml",
+            "map": [
+                {
+                    "source": "/Users/ljh/.gradle/caches/transforms-3/401b28e0bdcf855ef40173b7d4497e4d/transformed/appcompat-1.0.2/res/values-watch-v21/values-watch-v21.xml",
+                    "from": {
+                        "startLines": "2,6,10",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,271,499",
+                        "endLines": "5,9,13",
+                        "endColumns": "12,12,12",
+                        "endOffsets": "266,494,724"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,74 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.kakao.sdk.flutter" >
+4
+5    <uses-sdk
+6        android:minSdkVersion="21"
+6-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml
+7        android:targetSdkVersion="33" />
+7-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml
+8
+9    <queries>
+9-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:17:5-30:15
+10        <package android:name="com.kakao.talk" />
+10-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:18:9-50
+10-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:18:18-47
+11        <package android:name="com.kakao.talk.alpha" />
+11-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:19:9-56
+11-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:19:18-53
+12        <package android:name="com.kakao.talk.sandbox" />
+12-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:20:9-58
+12-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:20:18-55
+13        <package android:name="com.kakao.onetalk" />
+13-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:21:9-53
+13-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:21:18-50
+14        <package android:name="com.locnall.KimGiSa" />
+14-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:22:9-55
+14-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:22:18-52
+15        <package android:name="com.lguplus.navi" />
+15-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:23:9-52
+15-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:23:18-49
+16
+17        <intent>
+17-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:25:9-29:18
+18            <action android:name="android.intent.action.VIEW" />
+18-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:26:13-65
+18-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:26:21-62
+19
+20            <category android:name="android.intent.category.BROWSABLE" />
+20-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:27:13-74
+20-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:27:23-71
+21
+22            <data android:scheme="https" />
+22-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:28:13-44
+22-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:28:19-41
+23        </intent>
+24    </queries>
+25
+26    <application>
+26-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:3:5-15:19
+27        <activity
+27-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:4:9-9:56
+28            android:name="com.kakao.sdk.flutter.TalkAuthCodeActivity"
+28-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:5:13-49
+29            android:configChanges="orientation|screenSize|keyboardHidden|uiMode"
+29-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:6:13-81
+30            android:exported="false"
+30-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:7:13-37
+31            android:launchMode="singleTask"
+31-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:8:13-44
+32            android:theme="@style/TransparentCompat" />
+32-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:9:13-53
+33        <activity
+33-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:10:9-14:56
+34            android:name="com.kakao.sdk.flutter.AuthCodeCustomTabsActivity"
+34-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:11:13-55
+35            android:exported="true"
+35-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:12:13-36
+36            android:launchMode="singleTask"
+36-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:13:13-44
+37            android:theme="@style/TransparentCompat" />
+37-->/Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/AndroidManifest.xml:14:13-53
+38    </application>
+39
+40</manifest>

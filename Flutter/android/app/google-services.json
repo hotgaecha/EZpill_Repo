@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1012172796816",
+    "project_id": "amiable-might-394815",
+    "storage_bucket": "amiable-might-394815.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012172796816:android:14394eef7269098e6cb915",
+        "android_client_info": {
+          "package_name": "com.example.second"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBu8D-OtBAB7P7OwYVvPWsoHWjYWEcvSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1012172796816:android:663e4dd803de574f6cb915",
+        "android_client_info": {
+          "package_name": "com.example.third"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBu8D-OtBAB7P7OwYVvPWsoHWjYWEcvSQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

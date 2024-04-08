@@ -1,0 +1,29 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "348c1f51b2b0dc8df1cadfd1478498aaafded69ab10eadf5582eb74d7e1753b8"
+build_start_time: [1701605337, 247031000]
+build_end_time: [1701605349, 272365000]
+inputs:
+  ? "/Users/ljh/Desktop/AWS/kakao/third 3/third/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : [1701605324, 53414657]
+  ? "/Users/ljh/Desktop/AWS/kakao/third 3/third/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : [1701605324, 54350280]
+  ? "/Users/ljh/Desktop/AWS/kakao/third 3/third/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : [1701605324, 54795987]
+  ? "/Users/ljh/Desktop/AWS/kakao/third 3/third/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : [1701605324, 55110278]
+  ? "/Users/ljh/Desktop/AWS/kakao/third 3/third/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : [1701605324, 55370319]
+  ? "/Users/ljh/Desktop/AWS/kakao/third 3/third/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : [1701605324, 55975776]
+  ? "/Users/ljh/Desktop/AWS/kakao/third 3/third/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : [1701605324, 53679906]
+  ? "/Users/ljh/Desktop/AWS/kakao/third 3/third/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift"
+  : [1701605324, 53103532]
+  ? "/Users/ljh/Desktop/AWS/kakao/third 3/third/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : [1701605324, 56144692]
+  ? "/Users/ljh/Desktop/AWS/kakao/third 3/third/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : [1701605324, 55554610]
+  ? "/Users/ljh/Desktop/AWS/kakao/third 3/third/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1701605324, 53923114]
+  ? "/Users/ljh/Desktop/AWS/kakao/third 3/third/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1701605324, 54537363]

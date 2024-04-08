@@ -1,0 +1,13 @@
+io.flutter.plugins.webviewflutter.webview_flutter_android-jetified-window-1.0.0-beta04-0 /Users/ljh/.gradle/caches/transforms-3/18aed9bf87fc054bde2369bbce815f68/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.webviewflutter.webview_flutter_android-jetified-annotation-experimental-1.1.0-1 /Users/ljh/.gradle/caches/transforms-3/33edf3ee0517c86776bd6cb7682045f3/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.webviewflutter.webview_flutter_android-webkit-1.7.0-2 /Users/ljh/.gradle/caches/transforms-3/a57c3819a0e085da1683479c788525d3/transformed/webkit-1.7.0/res
+io.flutter.plugins.webviewflutter.webview_flutter_android-jetified-window-java-1.0.0-beta04-3 /Users/ljh/.gradle/caches/transforms-3/c432125e31208403c91c32696aef3709/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.webviewflutter.webview_flutter_android-core-1.6.0-4 /Users/ljh/.gradle/caches/transforms-3/cfb1b99aff7ad9cf4c1b8532c6075063/transformed/core-1.6.0/res
+io.flutter.plugins.webviewflutter.webview_flutter_android-main-5 /Users/ljh/.pub-cache/hosted/pub.dev/webview_flutter_android-3.12.1/android/src/main/res
+io.flutter.plugins.webviewflutter.webview_flutter_android-release-6 /Users/ljh/.pub-cache/hosted/pub.dev/webview_flutter_android-3.12.1/android/src/release/res
+io.flutter.plugins.webviewflutter.webview_flutter_android-pngs-7 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/webview_flutter_android/generated/res/pngs/release
+io.flutter.plugins.webviewflutter.webview_flutter_android-resValues-8 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/webview_flutter_android/generated/res/resValues/release
+io.flutter.plugins.webviewflutter.webview_flutter_android-rs-9 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/webview_flutter_android/generated/res/rs/release
+io.flutter.plugins.webviewflutter.webview_flutter_android-mergeReleaseResources-10 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/webview_flutter_android/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.webviewflutter.webview_flutter_android-mergeReleaseResources-11 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/webview_flutter_android/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.webviewflutter.webview_flutter_android-merged_res-12 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/webview_flutter_android/intermediates/merged_res/release

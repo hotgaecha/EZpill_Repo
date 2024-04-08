@@ -1,0 +1,28 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "e186d3c4d65ec23c9646b44a21f9aedb14380b348d1c1677c225473946fa534d"
+build_start_time: [1702028567, 167710000]
+build_end_time: [1702028606, 294510000]
+inputs:
+  ? "/Users/ljh/Desktop/AWS/kakao/ezpill/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Heartbeat.swift"
+  : [1702028553, 636940903]
+  ? "/Users/ljh/Desktop/AWS/kakao/ezpill/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatController.swift"
+  : [1702028553, 637820810]
+  ? "/Users/ljh/Desktop/AWS/kakao/ezpill/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatLoggingTestUtils.swift"
+  : [1702028553, 638425970]
+  ? "/Users/ljh/Desktop/AWS/kakao/ezpill/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatStorage.swift"
+  : [1702028553, 638765675]
+  ? "/Users/ljh/Desktop/AWS/kakao/ezpill/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsBundle.swift"
+  : [1702028553, 639072380]
+  ? "/Users/ljh/Desktop/AWS/kakao/ezpill/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/HeartbeatsPayload.swift"
+  : [1702028553, 639701914]
+  ? "/Users/ljh/Desktop/AWS/kakao/ezpill/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/RingBuffer.swift"
+  : [1702028553, 637181858]
+  "/Users/ljh/Desktop/AWS/kakao/ezpill/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/Storage.swift": [1702028553, 636639281]
+  ? "/Users/ljh/Desktop/AWS/kakao/ezpill/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/StorageFactory.swift"
+  : [1702028553, 640006370]
+  ? "/Users/ljh/Desktop/AWS/kakao/ezpill/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/WeakContainer.swift"
+  : [1702028553, 639417918]
+  ? "/Users/ljh/Desktop/AWS/kakao/ezpill/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatController.swift"
+  : [1702028553, 637425689]
+  ? "/Users/ljh/Desktop/AWS/kakao/ezpill/macos/Pods/FirebaseCoreInternal/FirebaseCore/Internal/Sources/HeartbeatLogging/_ObjC_HeartbeatsPayload.swift"
+  : [1702028553, 638077182]

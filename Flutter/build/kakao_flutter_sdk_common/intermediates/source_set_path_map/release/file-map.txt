@@ -1,0 +1,16 @@
+com.kakao.sdk.flutter.kakao_flutter_sdk_common-jetified-window-1.0.0-beta04-0 /Users/ljh/.gradle/caches/transforms-3/18aed9bf87fc054bde2369bbce815f68/transformed/jetified-window-1.0.0-beta04/res
+com.kakao.sdk.flutter.kakao_flutter_sdk_common-jetified-annotation-experimental-1.1.0-1 /Users/ljh/.gradle/caches/transforms-3/33edf3ee0517c86776bd6cb7682045f3/transformed/jetified-annotation-experimental-1.1.0/res
+com.kakao.sdk.flutter.kakao_flutter_sdk_common-constraintlayout-1.1.3-2 /Users/ljh/.gradle/caches/transforms-3/3d9c298a2aa66d6487afd7103d7156ae/transformed/constraintlayout-1.1.3/res
+com.kakao.sdk.flutter.kakao_flutter_sdk_common-appcompat-1.0.2-3 /Users/ljh/.gradle/caches/transforms-3/401b28e0bdcf855ef40173b7d4497e4d/transformed/appcompat-1.0.2/res
+com.kakao.sdk.flutter.kakao_flutter_sdk_common-browser-1.0.0-4 /Users/ljh/.gradle/caches/transforms-3/412d66ba8d782f4dfb18e7c81f087115/transformed/browser-1.0.0/res
+com.kakao.sdk.flutter.kakao_flutter_sdk_common-jetified-window-java-1.0.0-beta04-5 /Users/ljh/.gradle/caches/transforms-3/c432125e31208403c91c32696aef3709/transformed/jetified-window-java-1.0.0-beta04/res
+com.kakao.sdk.flutter.kakao_flutter_sdk_common-coordinatorlayout-1.0.0-6 /Users/ljh/.gradle/caches/transforms-3/cd0ab69453c514074f2d766034fde21a/transformed/coordinatorlayout-1.0.0/res
+com.kakao.sdk.flutter.kakao_flutter_sdk_common-core-1.6.0-7 /Users/ljh/.gradle/caches/transforms-3/cfb1b99aff7ad9cf4c1b8532c6075063/transformed/core-1.6.0/res
+com.kakao.sdk.flutter.kakao_flutter_sdk_common-main-8 /Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/main/res
+com.kakao.sdk.flutter.kakao_flutter_sdk_common-release-9 /Users/ljh/.pub-cache/hosted/pub.dev/kakao_flutter_sdk_common-1.7.0/android/src/release/res
+com.kakao.sdk.flutter.kakao_flutter_sdk_common-pngs-10 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/generated/res/pngs/release
+com.kakao.sdk.flutter.kakao_flutter_sdk_common-resValues-11 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/generated/res/resValues/release
+com.kakao.sdk.flutter.kakao_flutter_sdk_common-rs-12 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/generated/res/rs/release
+com.kakao.sdk.flutter.kakao_flutter_sdk_common-mergeReleaseResources-13 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.kakao.sdk.flutter.kakao_flutter_sdk_common-mergeReleaseResources-14 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.kakao.sdk.flutter.kakao_flutter_sdk_common-merged_res-15 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_res/release

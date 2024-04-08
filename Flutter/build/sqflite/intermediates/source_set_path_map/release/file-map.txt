@@ -1,0 +1,12 @@
+com.tekartik.sqflite-jetified-window-1.0.0-beta04-0 /Users/ljh/.gradle/caches/transforms-3/18aed9bf87fc054bde2369bbce815f68/transformed/jetified-window-1.0.0-beta04/res
+com.tekartik.sqflite-jetified-annotation-experimental-1.1.0-1 /Users/ljh/.gradle/caches/transforms-3/33edf3ee0517c86776bd6cb7682045f3/transformed/jetified-annotation-experimental-1.1.0/res
+com.tekartik.sqflite-jetified-window-java-1.0.0-beta04-2 /Users/ljh/.gradle/caches/transforms-3/c432125e31208403c91c32696aef3709/transformed/jetified-window-java-1.0.0-beta04/res
+com.tekartik.sqflite-core-1.6.0-3 /Users/ljh/.gradle/caches/transforms-3/cfb1b99aff7ad9cf4c1b8532c6075063/transformed/core-1.6.0/res
+com.tekartik.sqflite-main-4 /Users/ljh/.pub-cache/hosted/pub.dev/sqflite-2.3.0/android/src/main/res
+com.tekartik.sqflite-release-5 /Users/ljh/.pub-cache/hosted/pub.dev/sqflite-2.3.0/android/src/release/res
+com.tekartik.sqflite-pngs-6 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/sqflite/generated/res/pngs/release
+com.tekartik.sqflite-resValues-7 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/sqflite/generated/res/resValues/release
+com.tekartik.sqflite-rs-8 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/sqflite/generated/res/rs/release
+com.tekartik.sqflite-mergeReleaseResources-9 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/sqflite/intermediates/incremental/release/mergeReleaseResources/merged.dir
+com.tekartik.sqflite-mergeReleaseResources-10 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/sqflite/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+com.tekartik.sqflite-merged_res-11 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/sqflite/intermediates/merged_res/release

@@ -1,0 +1,2380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<C003>
+  <total_count>34581</total_count>
+  <RESULT>
+    <CODE>INFO-000</CODE>
+    <MSG>정상처리되었습니다.</MSG>
+  </RESULT>
+  <row id="0">
+    <PRDLST_REPORT_NO>200400150395</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040302</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015039</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>영양칼슘비타민</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>물과 함께 섭취한다.1)의약품과 함께 섭취하지 마세요
+2)특이체질 등 알러지 체질의 경우 성분을 확인 후 섭취하세요</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>고려인삼과학주식회사</BSSH_NM>
+    <STDR_STND>1. 성상 : 녹색의 경질캅셀로 이미, 이취가 없어야 한다
+2. 대장균군 : 음성
+3. 붕해시험 : 건강기능식품공전 III.2 붕해도 시험의 캅셀제품 시험법에 따라 20분내에 붕해
+4. 칼슘 : 표시량(285.9mg/1500mg)의 80~150%
+5. 비타민B1 : 표시량(1.875mg/1500mg)의 80~180%
+6. 비타민C : 표시량(49.5mg/1500mg)의 80~150%
+7. 판토텐산 칼슘 : 표시량(4.5mg/1500mg)의 80~180%
+8. 나이아신 : 표시량(13.5mg/1500mg)의 80~150%</STDR_STND>
+    <DISPOS>불투명의 녹색 경질캅셀</DISPOS>
+    <PRIMARY_FNCLTY>①뼈와 치아 형성에 필요②신경과 근육 기능 유지에 필요③정상적인 혈액응고에 필요④청년기 이전에 적절한 운동과 건강한 식습관을 유지하면서 충분한 칼슘을 섭취하면 향후 골다공증발생의 위험을 감소시킬 수 있음&#xD;
+①탄수화물과 에너지 대사에 필요&#xD;
+①결합조직 형성과 기능유지에 필요②철의 흡수에 필요③유해산소로부터 세포를 보호하는데 필요&#xD;
+①뼈와 치아 형성에 필요②신경과 근육 기능 유지에 필요③정상적인 혈액응고에 필요④청년기 이전에 적절한 운동과 건강한 식습관을 유지하면서 충분한 칼슘을 섭취하면 향후 골다공증발생의 위험을 감소시킬 수 있음&#xD;
+①체내 에너지 생성에 필요</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회, 1회2캡슐(250mg/1캡슐) 식전 또는 식후에 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>유청칼슘(칼슘함량20%이상),비타민B1질산염,비타민C(함량 100%),판토텐산칼슘,나이아신(함량 100%),카제인포스포펩타이드(c.pp)</RAWMTRL_NM>
+  </row>
+  <row id="1">
+    <PRDLST_REPORT_NO>200400150396</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040302</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015039</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>해조칼슘비타민</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>물과 함께 섭취한다.1)의약품과 함께 섭취하지 마세요
+2)특이체질 등 알러지 체질의 경우 성분을 확인 후 섭취하세요</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>고려인삼과학주식회사</BSSH_NM>
+    <STDR_STND>1. 성상 : 백색의 경질캅셀로 이미, 이취가 없어야 한다
+2. 대장균군 : 음성
+3. 붕해시험 : 건강기능식품공전 III.2 붕해도 시험의 캅셀제품 시험법에 따라 20분내에 붕해
+4. 칼슘 : 표시량(426.2mg/1500mg)의 80~150%
+5. 비타민B1 : 표시량(1.875mg/1500mg)의 80~180%
+6. 비타민C : 표시량(57mg/1500mg)의 80~150%
+7. 판토텐산 칼슘 : 표시량(6mg/1500mg)의 80~180%
+8. 나이아신 : 표시량(13.5mg/1500mg)의 80~150%</STDR_STND>
+    <DISPOS>백색의 경질캅셀</DISPOS>
+    <PRIMARY_FNCLTY>①뼈와 치아 형성에 필요②신경과 근육 기능 유지에 필요③정상적인 혈액응고에 필요④청년기 이전에 적절한 운동과 건강한 식습관을 유지하면서 충분한 칼슘을 섭취하면 향후 골다공증발생의 위험을 감소시킬 수 있음&#xD;
+①탄수화물과 에너지 대사에 필요&#xD;
+①결합조직 형성과 기능유지에 필요②철의 흡수에 필요③유해산소로부터 세포를 보호하는데 필요&#xD;
+①뼈와 치아 형성에 필요②신경과 근육 기능 유지에 필요③정상적인 혈액응고에 필요④청년기 이전에 적절한 운동과 건강한 식습관을 유지하면서 충분한 칼슘을 섭취하면 향후 골다공증발생의 위험을 감소시킬 수 있음&#xD;
+①체내 에너지 생성에 필요</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회, 1회 2캡슐(250mg/1캡슐) 식전 또는 식후에 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>나이아신(함량100%),해조칼슘(칼슘함량30%이상),비타민B1질산염,비타민C(함량 100%),판토텐산칼슘,카제인포스포펩타이드(C.P.P)</RAWMTRL_NM>
+  </row>
+  <row id="2">
+    <PRDLST_REPORT_NO>200400150703</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040324</PRMS_DT>
+    <LAST_UPDT_DTM>20210324</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015070</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>지근억비피더스</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>(가) 질환이 있거나 의약품 복용 시 전문가와 상담할 것
+(나) 알레르기 체질 등은 개인에 따라 과민반응을 나타낼 수 있음
+(다) 어린이가 함부로 섭취하지 않도록 일일섭취량 방법을 지도할 것
+(라) 이상사례 발생 시 섭취를 중단하고 전문가와 상담할 것</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)비피도</BSSH_NM>
+    <STDR_STND>1)성상 : 고유의 색택과 향미를 가지며 이미, 이취가 없어야 함&#xD;
+2)프로바이오틱스수 : 100,000,000 cfu/g 이상&#xD;
+3)대장균군 : 음성</STDR_STND>
+    <DISPOS>미황색의 분말</DISPOS>
+    <PRIMARY_FNCLTY>①유산균 증식 ②유해균 억제 및 배변활동 원활③장건강에 도움을 줄 수 있음주된 기능성-③장건강에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하고 습기가 없는 서늘한 곳에 보관</CSTDY_MTHD>
+    <NTK_MTHD>1일 1회, 1회 1포를 식후에 물이나 음용수와 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>Lactobacillus acidophilus(고시형),Bifidobacterium longum(고시형),Bifidobacterium bifidum(고시형),덱스트린,구연산,비타민 C,스테아린산마그네슘,당류가공품,말토오스,말티톨시럽,올리고당가공품,팔라티노스,말티톨시럽,갈락토올리고당,올리고당가공품,말티톨시럽,프락토올리고당,덱스트린,아라비아검,요구르트향분말,요구르트향혼합제제,덱스트린,구연산,요구르트향베이스,가공유지,오렌지오일,템플오렌지플레버,오렌지오일,에탄올,초산에틸,초산게라닐,초산부틸,초산시트로넬릴</RAWMTRL_NM>
+  </row>
+  <row id="3">
+    <PRDLST_REPORT_NO>200400150704</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040324</PRMS_DT>
+    <LAST_UPDT_DTM>20210324</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015070</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>지근억비피더스베이비</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>(가) 질환이 있거나 의약품 복용 시 전문가와 상담할 것
+(나) 알레르기 체질 등은 개인에 따라 과민반응을 나타낼 수 있음
+(다) 어린이가 함부로 섭취하지 않도록 일일섭취량 방법을 지도할 것
+(라) 이상사례 발생 시 섭취를 중단하고 전문가와 상담할 것</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)비피도</BSSH_NM>
+    <STDR_STND>1)성상 : 고유의 색택과 향미를 가지며 이미, 이취가 없어야 함&#xD;
+2)프로바이오틱스수 : 100,000,000 cfu/g 이상&#xD;
+3)대장균군 : 음성</STDR_STND>
+    <DISPOS>미황색의 분말</DISPOS>
+    <PRIMARY_FNCLTY>①유산균 증식 ②유해균 억제 및 배변활동 원활③장건강에 도움을 줄 수 있음주된 기능성-③장건강에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하고 습기가 없는 서늘한 곳에 보관</CSTDY_MTHD>
+    <NTK_MTHD>1일 1회, 1회 1포를 식후에 물이나 음용수와 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>Lactobacillusacidophilus(고시형),Bifidobacteriumlongum(고시형),Bifidobacteriumbifidum(고시형),덱스트린,올리고당가공품,말티톨시럽,프락토올리고당,알파옥수수분말,당류가공품,말토오스,말티톨시럽,올리고당가공품,팔라티노스,말티톨시럽,갈락토올리고당,해조분말,비타민무기질혼합제제,제이인산칼슘,산화마그네슘,비타민 C,비타민 E 혼합제제분말,d-α-토코페릴아세테이트,변성전분,덱스트린,이산화규소,비타민 B12 혼합제제분말,덱스트린,구연산삼나트륨,구연산,비타민 B12,니코틴산아미드,환원철,산화아연,비타민 D3 혼합제제분말,아라비아검,기타가공품,옥수수전분,글리세린지방산에스테르,비타민 D3,비타민 E,분말비타민A혼합제제,덱스트린,아라비아검,옥수수전분,비타민A초산염,비타민 E,비타민 B6 염산염,비타민 B1염산염,비타민 B2,엽산,아라비아검</RAWMTRL_NM>
+  </row>
+  <row id="4">
+    <PRDLST_REPORT_NO>2004001510027</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040413</PRMS_DT>
+    <LAST_UPDT_DTM>20170411</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015100</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>고려홍삼분말캡슐</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>1. 의약품(당뇨치료제, 혈액항응고제) 복용 시 섭취에 주의&#xD;
+2. 제품 개봉 또는 섭취 시 포장재에 의한 상처 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)일화</BSSH_NM>
+    <STDR_STND>1. 성상 : 미황색의 홍삼분말이 충전된 캡슐로 이미, 이취가 없어야 함
+2. 진세노사이드 Rg1, Rb1 및 Rg3 의 합 : 표시량(9.0mg/2.25g)의 80% 이상
+3. 대장균군 : 음성
+4. 붕해도 : 건강기능식품공전 III.2 붕해도 시험의 캡슐제품 시험법에 따라 20분내에 붕해</STDR_STND>
+    <DISPOS>투명한 경질캡슐</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진②피로개선③혈소판 응집 억제를 통한 혈액흐름에 도움④기억력 개선⑤항산화에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회, 1회 3캡슐을 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>홍삼분말(진세노사이드 Rg1,Rb1 및 Rg3의 합 0.4%),젤라틴</RAWMTRL_NM>
+  </row>
+  <row id="5">
+    <PRDLST_REPORT_NO>2004001510030</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040413</PRMS_DT>
+    <LAST_UPDT_DTM>20150924</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>정</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015100</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>고려홍삼정(錠)</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>1. 의약품(당뇨치료제, 혈액항응고제)복용 시 섭취에 주의&#xD;
+2. 제품 개봉 또는 섭취시 포장재에 의한 상처 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)일화</BSSH_NM>
+    <STDR_STND>1. 성상 : 회백색을 가진 삼각형 모양의 정제로서 이미, 이취가 없어야 함&#xD;
+2. 진세노사이드 Rg1과 Rb1 및 Rg3의 합 : 표시량(3.24mg/2.25g)의 80% 이상&#xD;
+3. 대장균군 : 음성&#xD;
+4. 붕해도 : 건강기능식품공전 III.2 붕해도 시험의 정제품 시험법에 따라 30분내에 붕해</STDR_STND>
+    <DISPOS>회백색을 가진 삼각형 모양의 정제</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진②피로개선③혈소판 응집 억제를 통한 혈액흐름에 도움④기억력 개선⑤항산화에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>습기와 직사광선을 피하고 서늘한 곳에 보관</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회, 1회 3정을 물과 함께 섭취하십시오.</NTK_MTHD>
+    <RAWMTRL_NM>홍삼농축액(진세노사이드 Rg1, Rb1 및 Rg3의 합 0.7%),유당혼합분말,결정셀룰로오스,영지농축액,스테아린산마그네슘,유당,덱스트린</RAWMTRL_NM>
+  </row>
+  <row id="6">
+    <PRDLST_REPORT_NO>2004001510021</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040413</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015100</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>인삼정골드캡슐</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>제품 개봉 또는 섭취시 포장재에 의한 상처 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)일화</BSSH_NM>
+    <STDR_STND>1. 성상 : 황갈색의 내용물이 든 녹색과 연녹색의 불투명연질 캡슐로서 이미. 이취가 없어야 함.&#xD;
+2. 진세노사이드 Rg1과 Rb1의 합 : 표시량(5.4mg/1.6g)의 80% 이상 &#xD;
+3. 대장균군 : 음성&#xD;
+4. 붕해도 : 건강기능식품공전 III.2 붕해도 시험의 캡슐제품 시험법에 따라 20분내에 붕해</STDR_STND>
+    <DISPOS>녹색과 연녹색의 불투명 연질캡슐</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진②피로회복</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 2회 1회 1캡슐을 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>인삼(인삼농축액분말(진세노사이드 Rg1과 Rb1의 합 2.5%),젤라틴,글리세린,이산화티타늄,에칠바닐린,식용색소황색제4호,식용색소황색제5호,식용색소청색제1호,식용색소적색제40호,옥배유,팜유,밀납,대두 레시틴,d-α-토코페롤,비타민B1,비타민B2,혼합농축액분말(녹용 38.4, 영지 23.6, 당귀 22.8, 구기자 15.2)</RAWMTRL_NM>
+  </row>
+  <row id="7">
+    <PRDLST_REPORT_NO>2004001510015</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040413</PRMS_DT>
+    <LAST_UPDT_DTM>20231116</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>액상</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015100</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>일화고려인삼농축액</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>제품 개봉 또는 섭취시 포장재에 의한 상처 주의, 섭취 후 뚜껑 봉함1) 의약품(당뇨치료제, 혈액항응고제) 복용 시 섭취에 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)일화</BSSH_NM>
+    <STDR_STND>1) 성상: 흑갈색의 점조성 농축액, 육안 및 관능으로 관찰
+    2) 진세노사이드 Rg1과 Rb1 의 합: 최종제품: 45.0 ㎎/3g (표시량의 80 % 이상) 
+        원료성 제품: 45.0 ㎎/3g (표시량의 100 % 이상) 
+ 건강기능식품공전 Ⅲ.3.7.1 진세노사이드 Rg1과 Rb1 시험법
+    3) 세균수: 1 ㎖당 3,000 이하, 식품공전 제10.일반시험법, 3.미생물시험법 5)세균수 시험법 
+    4) 대장균군: 음성, 식품공전 제10.일반시험법, 3.미생물시험법 7)대장균군 시험법</STDR_STND>
+    <DISPOS>흑갈색의 점조성 농축액</DISPOS>
+    <PRIMARY_FNCLTY>(가)면역력증진, 피로개선, 뼈건강에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 3년</POG_DAYCNT>
+    <CSTDY_MTHD>습기와 직사광선을 피하여 서늘한 장소에 보관</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회 1회 1g을 물 또는 벌꿀, 감미료 등을 넣어 섭취</NTK_MTHD>
+    <RAWMTRL_NM>인삼(진세노사이드 Rg1과 Rb1의 합 1.5%)</RAWMTRL_NM>
+  </row>
+  <row id="8">
+    <PRDLST_REPORT_NO>2004001510016</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040413</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015100</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>일화고려인삼농축액분말</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>⑴ 의약품(당뇨치료제, 혈액항응고제) 복용 시 섭취에 주의하시기 바랍니다.&#xD;
+⑵ 알레르기 체질이신 분은 섭취 전에 원료명을 반드시 확인하시기 바랍니다.&#xD;
+⑶ 유통기한이 경과된 제품은 섭취하지 마십시오.&#xD;
+⑷ 제품 개봉 또는 섭취 시 포장재에 의한 상처 주의하시기 바랍니다</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)일화</BSSH_NM>
+    <STDR_STND>⑴ 성상: 고유의 색택과 향미를 가지며 이미, 이취가 없는 미갈색의 인삼농축액 분말제품(시험방법: 관능검사를 실시하여 성상 변화 여부 확인)&#xD;
+⑵ 진세노사이드 Rg1과 Rb1의 합(시험방법: 건강기능식품공전 Ⅲ.3.7.1 진세노사이드 Rg1과 Rb1)&#xD;
+- 인삼(원료성): 표시량(25 ㎎/g)의 100 % 이상&#xD;
+- 인삼(최종제품): 표시량(25 ㎎/g)의 80 % 이상&#xD;
+⑶ 대장균군: 음성(시험방법: 식품공전 제10. 일반시험법 3.8 대장균)</STDR_STND>
+    <DISPOS>고유의 색택과 향미를 가지며 이미, 이취가 없는 미갈색의 인삼농축액 분말</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진②피로회복</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>습기와 직사광선을 피하여 서늘한 장소에 보관</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회, 1회 1g를 물에 녹여 섭취</NTK_MTHD>
+    <RAWMTRL_NM>인삼(진세노사이드 Rg1과 Rb1의 합 2.5%)</RAWMTRL_NM>
+  </row>
+  <row id="9">
+    <PRDLST_REPORT_NO>2004001510017</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040413</PRMS_DT>
+    <LAST_UPDT_DTM>20180410</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015100</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>일화고려인삼분말</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>제품 개봉 또는 섭취시 포장재에 의한 상처 주의, 섭취 후 마개 봉함의약품(당뇨치료제, 혈액항응고제) 복용시 섭취에 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)일화</BSSH_NM>
+    <STDR_STND>1.성상 : 미황색의 인삼분말로서 이미. 이취가 없어야 함.
+2. 진세노사이드 Rg1과 Rb1의 합 : 
+1) 최종제품: 표시량(30mg/6.0g)의 80% 이상
+2) 원료성 : 표시량(30mg/6.0g)의 100% 이상
+3. 대장균군 : 음성</STDR_STND>
+    <DISPOS>미황색의 인삼분말</DISPOS>
+    <PRIMARY_FNCLTY>면역력 증진에 도움을 줄 수 있음&#xD;
+피로개선에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로보터 24개월</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회 1회 2g을 물 또는 벌꿀, 감미료 등을 넣어 섭취</NTK_MTHD>
+    <RAWMTRL_NM>인삼(진세노사이드 Rg1과 Rb1의 합 0.5%)</RAWMTRL_NM>
+  </row>
+  <row id="10">
+    <PRDLST_REPORT_NO>2004001510019</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040413</PRMS_DT>
+    <LAST_UPDT_DTM>20190828</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015100</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>일화고려인삼분말캡슐</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>제품 개봉 또는 섭취 포장재에 의한 상처 주의[인삼제품] 의약품(당뇨치료제, 혈액항응고제)복용 시 섭취에 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)일화</BSSH_NM>
+    <STDR_STND>1. 성상 : 미황색의 인삼분말이 충전된 투명한 캡슐로서 이미. 이취가 없어야 함.&#xD;
+2. 진세노사이드 Rg1과 Rb1의 합 : 표시량(5mg/1.0g)의 80% 이상&#xD;
+3. 대장균군 : 음성&#xD;
+4. 붕해도 : 건강기능식품공전 III.2 붕해도 시험의 캡슐제품 시험법에 따라 20분내에 붕해</STDR_STND>
+    <DISPOS>미황색의 인삼분말이 충전된 투명한 캡슐로서 이미. 이취가 없어야 함.</DISPOS>
+    <PRIMARY_FNCLTY>[인삼제품] ①면역력증진 ②피로개선에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 24개월</POG_DAYCNT>
+    <CSTDY_MTHD>습기와 직사광선을 피하여 서늘한 곳에 보관하십시오</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회 1회 1캡슐을 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>인삼(진세노사이드 Rg1과 Rb1의 합 0.5%),젤라틴</RAWMTRL_NM>
+  </row>
+  <row id="11">
+    <PRDLST_REPORT_NO>2004001510025</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040413</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>정</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015100</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>일화고려인삼정(錠)</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>제품 개봉 또는 섭취시 포장재에 의한 상처 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)일화</BSSH_NM>
+    <STDR_STND>1. 성상 : 회백색을 가진 삼각형 모양의 정제로서 이미. 이취가 없어야 함.&#xD;
+2. 진세노사이드 Rg1과 Rb1의 합 : 표시량(12.3mg/2.25g)의 80% 이상&#xD;
+3. 대장균군 : 음성&#xD;
+4. 붕해도 : 건강기능식품공전 III.2 붕해도 시험의 정제품 시험법에 따라 30분내에 붕해</STDR_STND>
+    <DISPOS>회백색을 가진 삼각형 모양의 정제</DISPOS>
+    <PRIMARY_FNCLTY />
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회 1회 3정을 물과 함께 또는 직접 씹어 섭취</NTK_MTHD>
+    <RAWMTRL_NM>인삼(진세노사이드 Rg1과 Rb1의 합 2.5%)
+,결정셀룰로오스,영지농축액(고형분65%이상),스테아린산마그네슘,유당</RAWMTRL_NM>
+  </row>
+  <row id="12">
+    <PRDLST_REPORT_NO>2004001510023</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040413</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>과립</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015100</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>일화고려인삼차</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>제품 개봉 또는 섭취시 포장재에 의한 상처 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)일화</BSSH_NM>
+    <STDR_STND>1. 성상 : 연갈색의 과립으로서 이미. 이취가 없어야 함.&#xD;
+2. 진세노사이드 Rg1과 Rb1의 합 : 표시량(21.6mg/9.0g)의 80% 이상&#xD;
+3. 대장균군 : 음성</STDR_STND>
+    <DISPOS>연갈색의 과립</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진②피로회복</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회 1회 1포를 벌꿀, 감미료 등을 넣어 섭취</NTK_MTHD>
+    <RAWMTRL_NM>인삼(진세노사이드 Rg1과 Rb1의 합 2.4%),포도당,유당,덱스트린</RAWMTRL_NM>
+  </row>
+  <row id="13">
+    <PRDLST_REPORT_NO>2004001510026</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040413</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>액상</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015100</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>일화고려홍삼농축액</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>⑴ 의약품(당뇨치료제, 혈액항응고제) 복용 시 섭취에 주의하시기 바랍니다.&#xD;
+⑵ 알레르기 체질이신 분은 섭취 전에 원료명을 반드시 확인하시기 바랍니다.&#xD;
+⑶ 유통기한이 경과된 제품은 섭취하지 마십시오.&#xD;
+(4)제품 개봉 또는 섭취 시 포장재에 의한 상처 주의하시기 바랍니다.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)일화</BSSH_NM>
+    <STDR_STND>⑴ 성상: 흑갈색의 점조성 액상(시험방법: 관능검사를 실시하여 성상 변화 여부 확인)&#xD;
+⑵ 진세노사이드 Rg1, Rb1 및 Rg3 의 합(시험방법: 건강기능식품공전 Ⅲ.3.7.1 진세노사이드 Rg1, Rb1 및 Rg3)&#xD;
+- 홍삼(원료성): 표시량(5.0 ㎎/ g)의 100 % 이상&#xD;
+- 홍삼(최종제품): 표시량(15.0 ㎎/3 g)의 80 % 이상&#xD;
+⑶ 세균수(CFUs): 3,000/mL 이하(시험방법: 식품공전 제10. 일반시험법 3.5 세균수)&#xD;
+⑷ 대장균군: 음성(시험방법: 식품공전 제10. 일반시험법 3.8 대장균)</STDR_STND>
+    <DISPOS>흑갈색의 점조성 액상</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진②피로개선③혈소판 응집 억제를 통한 혈액흐름에 도움④기억력 개선⑤항산화에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 3년</POG_DAYCNT>
+    <CSTDY_MTHD>습기와 직사광선을 피하여 서늘한 장소에 보관</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회, 1회 1g을 물 또는 벌꿀, 감미료등을 넣어 섭취</NTK_MTHD>
+    <RAWMTRL_NM>홍삼농축액(진세노사이드 Rg1, Rb1 및 Rg3의 합 0.5%)</RAWMTRL_NM>
+  </row>
+  <row id="14">
+    <PRDLST_REPORT_NO>2004001510028</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040413</PRMS_DT>
+    <LAST_UPDT_DTM>20160211</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015100</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>일화고려홍삼분말</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>제품 개봉 또는 섭취시 포장재에 의한 상처 주의, 섭취 후 뚜껑 봉함</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)일화</BSSH_NM>
+    <STDR_STND>1. 성상 : 미황색의 홍삼분말로서 이미, 이취가 없어야 함
+2-1. 진세노사이드 Rg1, Rb1 및 Rg3 의 합 : 표시량(24mg/6.0g)의 80% 이상
+2-2. 진세노사이드 Rg1, Rb1 및 Rg3 의 합 : 표시량(4mg/g) 이상(원료성)
+3. 대장균군 : 음성</STDR_STND>
+    <DISPOS>미황색의 홍삼분말</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진②피로개선③혈소판 응집 억제를 통한 혈액흐름에 도움④기억력 개선⑤항산화에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회, 1회 2g을 물 또는 벌꿀, 감미료 등을 넣어서 섭취</NTK_MTHD>
+    <RAWMTRL_NM>홍삼분말(진세노사이드 Rg1, Rb1 및 Rg3의 합 0.4%)</RAWMTRL_NM>
+  </row>
+  <row id="15">
+    <PRDLST_REPORT_NO>2004001510029</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040413</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>과립</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015100</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>일화고려홍삼차</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>제품 개봉 또는 섭취시 포장재에 의한 상처 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)일화</BSSH_NM>
+    <STDR_STND>1. 성상 : 연갈색의 과립으로서 이미, 이취가 없어야 함&#xD;
+2. 진세노사이드 Rg1과 Rb1 및 Rg3의 합 : 표시량(4.5mg/9.0g)의 80% 이상&#xD;
+3. 대장균군 : 음성</STDR_STND>
+    <DISPOS>연갈색의 과립</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진②피로개선③혈소판 응집 억제를 통한 혈액흐름에 도움④기억력 개선⑤항산화에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 3년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회, 1회 1포를 물 또는 벌꿀, 감미료 등을 넣어서 섭취</NTK_MTHD>
+    <RAWMTRL_NM>홍삼농축액(진세노사이드 Rg1, Rb1 및 Rg3의 합 0.5%),포도당,유당,덱스트린</RAWMTRL_NM>
+  </row>
+  <row id="16">
+    <PRDLST_REPORT_NO>2004001510022</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040413</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>과립</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015100</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>일화인삼차</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>제품 개봉 또는 섭취시 포장재에 의한 상처 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)일화</BSSH_NM>
+    <STDR_STND>1. 성상 : 적갈색의 과립으로서 이미. 이취가 없어야 함.&#xD;
+2. 진세노사이드 Rg1과 Rb1의 합 : 표시량(38.9mg/9.0g)의 80% 이상&#xD;
+3. 대장균군 : 음성</STDR_STND>
+    <DISPOS>연갈색의 과립</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진②피로회복</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로보터 3년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회 1회 1포를 물 또는 벌꿀, 감미료 등을 넣어 섭취</NTK_MTHD>
+    <RAWMTRL_NM>인삼(진세노사이드 Rg1과 Rb1의 합 2.4%),포도당,유당,덱스트린</RAWMTRL_NM>
+  </row>
+  <row id="17">
+    <PRDLST_REPORT_NO>200400151042</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040413</PRMS_DT>
+    <LAST_UPDT_DTM>20200909</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>환</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015104</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>조인트코어</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>(가) 임산부 및 수유부는 섭취를 피할 것
+(나) 간·심장질환, 수술 전후, 고혈압, 당뇨 및 천식이 있거나 의약품(항응고제 등) 복용 시 전문가와 상담할 것
+(다) 게 또는 새우에 알레르기가 있는 사람은 섭취에 주의할 것(게 또는 새우를 원재료로 사용한 경우)
+(라) 이상사례 발생 시 섭취를 중단하고 전문가와 상담할 것</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>주식회사 네추럴웨이</BSSH_NM>
+    <STDR_STND>①성상 : 갈색의 환으로 이미·이취가 없어야 함
+②글루코사민염산염 : 1.5g/6g (표시량의 80~120%)
+③대장균군 : 음성
+④붕해도 : 건강기능식품공전 III.2.1 붕해도 시험의 환 제품 방법에 따라 1액에서 (60분간). 시료의 잔류물이 유리관 내에 남아 있을 때에는 계속하여 제 2액에서 60분간 이내 붕해
+⑤납(mg/kg) : 5.0 이하
+⑥카드뮴(mg/kg) : 1.5 이하
+⑦수은(mg/kg) : 1.0 이하
+⑧비소(mg.kg) : 4.0 이하</STDR_STND>
+    <DISPOS>갈색의 환으로 이미·이취가 없어야 함</DISPOS>
+    <PRIMARY_FNCLTY>①관절 및 연골 건강에 도움</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회, 1회 1포(2g)씩 식사 후에 물과 함께 섭취하십시오.</NTK_MTHD>
+    <RAWMTRL_NM>글루코사민염산염분말 (글루코사민염산염 99% 이상),맥아분말,덱스트린,삼백초농축액(고형분 20%이상),상어연골,유청칼슘,감마오리자놀,소맥분,작약 등 복합추출물,작약농축액,감초농축액,가시오갈피농축액,식품첨가물혼합제제,카복시메틸셀룰로스나트륨,덱스트린,포도당,레시틴,구연산삼나트륨,히드록시프로필메틸셀룰로스,글리세린</RAWMTRL_NM>
+  </row>
+  <row id="18">
+    <PRDLST_REPORT_NO>200400151074</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040420</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>정</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015107</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>맛있는 칼슘</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>① 우유알레르기 체질이신 경우 성분을 확인 한 후 섭취하시기 바랍니다
+② 제품개봉 또는 섭취시 포장재에 의해 상처를 입을 수 있으니 주의하시기 바랍니다</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)유유헬스케어</BSSH_NM>
+    <STDR_STND>1. 성상 : 백색의 정제로 이미 이취가 없어야 함&#xD;
+2. 칼슘 : 표시량(322.5mg/3000mg)의 80~150%&#xD;
+3. 대장균군 : 음성</STDR_STND>
+    <DISPOS>백색의 정제</DISPOS>
+    <PRIMARY_FNCLTY>①뼈와 치아 형성에 필요②신경과 근육 기능 유지에 필요③정상적인 혈액응고에 필요④청년기 이전에 적절한 운동과 건강한 식습관을 유지하면서 충분한 칼슘을 섭취하면 향후 골다공증발생의 위험을 감소시킬 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피해 서늘한 곳에 보관하십시오&#xD;
+제품의 향미에 영향을 줄 수 있는 다른 식품 또는 첨가물과 분리하여 보관하십시오</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회, 1회 2정을 씹어서 섭취하십시오.</NTK_MTHD>
+    <RAWMTRL_NM>유청칼슘(칼슘 25%이상),요구르트혼합분말(농후발효유 50%, 설탕 29.5%, 말토덱스트린 10%, 정제가공유지 10%, 글리세린지방산에스테르 0.5%),스테아린산마그네슘,스테비오사이드,비타민D3혼합제제(비타민D3 0.25%, DL-알파-토코페롤0.2%, 가공유지 7.5%, 아라비아검 38%, 설탕 38%, 옥수수전분 16.05%),정제포도당,D-소르비톨,자일리톨,유당혼합제제(유당95%, 덱스트린 5%),탈지분유,유단백가수분해물,구연산</RAWMTRL_NM>
+  </row>
+  <row id="19">
+    <PRDLST_REPORT_NO>200400150709</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040501</PRMS_DT>
+    <LAST_UPDT_DTM>20230914</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015070</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>비피더스균 롱검 보리</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>살아있는 유산균이므로 37도가 넘는 뜨거운 물은 사용에 주의.특이체질이거나 알레르기체질 등이 있는 분은 섭취금지&#xD;
+포장 끝이 날카로워 베일 수 있으니 주의.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)비피도</BSSH_NM>
+    <STDR_STND>1)성상 : 고유의 색택과 향미를 가지며 이미, 이취가 없어야 함&#xD;
+2)프로바이오틱스수 : 100,000,000 cfu/g 이상&#xD;
+3)대장균군 : 음성</STDR_STND>
+    <DISPOS>미갈색의 분말</DISPOS>
+    <PRIMARY_FNCLTY>①유익한 유산균 증식②유해균 억제 또는 배변활동 원활</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 2회, 1회 1g를 식후에 물이나 음용수와 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>Bifidobacterium longum(고시형)</RAWMTRL_NM>
+  </row>
+  <row id="20">
+    <PRDLST_REPORT_NO>200400150708</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040501</PRMS_DT>
+    <LAST_UPDT_DTM>20230914</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015070</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>비피더스균 비피덤 비지엔4</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>살아있는 유산균이므로 37도가 넘는 뜨거운 물은 사용에 주의.특이체질이거나 알레르기체질 등이 있는 분은 섭취금지&#xD;
+포장끝이 날카로워 베일 수 있으니 주의.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)비피도</BSSH_NM>
+    <STDR_STND>1)성상 : 고유의 색택과 향미를 가지며 이미, 이취가 없어야 함&#xD;
+2)프로바이오틱스 수 : 100,000,000 cfu/g 이상&#xD;
+3)대장균군 : 음성</STDR_STND>
+    <DISPOS>미갈색의 분말</DISPOS>
+    <PRIMARY_FNCLTY>①유익한 유산균 증식②유해균 억제 또는 배변활동 원활</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 2회, 1회 1g를 식후에 물이나 음용수와 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>Bifidobacterium bifidum(고시형)</RAWMTRL_NM>
+  </row>
+  <row id="21">
+    <PRDLST_REPORT_NO>2004001518911</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040708</PRMS_DT>
+    <LAST_UPDT_DTM>20210625</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015189</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>홍삼분말</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>제품 개봉시 분말이 쏟아질 수 있으니 주의.
+의약품(당뇨치료제, 혈액항응고제) 복용 시 섭취에 주의
+알러지등 특이체질이신 분은 성분을 확인 후 섭취하시기 바랍니다.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>강원인삼농협</BSSH_NM>
+    <STDR_STND>1. 성상 : 고유의 향미가 있고 이미·이취가 없는 연한 노랑색의 분말
+2. 진세노사이드 Rg1과 Rb1 및 Rg3의 합: 표시량(17mg/6g)의 80% 이상
+3. 대장균군 : 음성</STDR_STND>
+    <DISPOS>고유의 향미가 있고 이미·이취가 없는 연한 노랑색의 분말</DISPOS>
+    <PRIMARY_FNCLTY>[홍삼제품]①면역력 증진에 도움을 줄 수 있음②피로개선에 도움을 줄 수 있음③혈소판 응집 억제를 통한 혈액흐름에 도움을 줄 수 있음④기억력 개선에 도움을 줄 수 있음⑤항산화에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회 1회 2g을 온수에 용해하여 섭취</NTK_MTHD>
+    <RAWMTRL_NM>홍삼(진세노사이드Rg1,Rb1 및 Rg3의 합0.29%)</RAWMTRL_NM>
+  </row>
+  <row id="22">
+    <PRDLST_REPORT_NO>200400151897</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040708</PRMS_DT>
+    <LAST_UPDT_DTM>20230721</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>액상</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015189</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>홍삼차</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>· 의약품(당뇨치료제 및 혈액항응고제) 복용 시 섭취에 주의하십시오.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>강원인삼농협</BSSH_NM>
+    <STDR_STND>1. 성상 : 고유의 향미가 있고 이미·이취가 없는 연한 황갈색의 과립
+2. 진세노사이드 Rg1과 Rb1 및 Rg3의 합: 표시량(5.5mg/9g)의 80% 이상
+3. 대장균군 : 음성</STDR_STND>
+    <DISPOS>고유의 향미가 있고 이미·이취가 없는 연한 황갈색의 과립</DISPOS>
+    <PRIMARY_FNCLTY>[홍삼제품]①면역력 증진에 도움을 줄 수 있음②피로개선에 도움을 줄 수 있음③혈소판 응집 억제를 통한 혈액흐름에 도움을 줄 수 있음④기억력 개선에 도움을 줄 수 있음⑤항산화에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회 1회 1포을 냉.온수에 넣고 희석하여 음용</NTK_MTHD>
+    <RAWMTRL_NM>홍삼농축액(진세노사이드Rg1,Rb1 및 Rg3의 합0.59%),유당,포도당</RAWMTRL_NM>
+  </row>
+  <row id="23">
+    <PRDLST_REPORT_NO>2004001505519</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040714</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>액상</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015055</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>고센난황레시틴</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기 체질이신 경우 성분을 확인 하신 후, 섭취</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)고센바이오텍</BSSH_NM>
+    <STDR_STND>(1) 성상 : 황갈색의 액상으로 이미·이취가 없어야 함
+(2) 인지질
+ (가) 원료성제품 : 표시량(1.8g/5.0g)이상
+ (나) 최종제품 : 표시량(1.8g/5.0g)이상의 80~120%
+(3) 인지질중 포스파티딜콜린
+ (가) 원료성제품 : 표시량(1.08g/1.8g)이상
+ (나) 최종제품 : 표시량(1.08g/1.8g)이상의 80~120%
+(4) 콜레스테롤(mg/kg) : 10,000이하
+(5)대장균군 : 음성
+(6) 세균수(1mL당) : 100이하</STDR_STND>
+    <DISPOS>황갈색의 액상 제품</DISPOS>
+    <PRIMARY_FNCLTY>①콜레스테롤 개선</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 1년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 2회, 1회 2.5g 섭취</NTK_MTHD>
+    <RAWMTRL_NM>난황레시틴,달맞이꽃종자유</RAWMTRL_NM>
+  </row>
+  <row id="24">
+    <PRDLST_REPORT_NO>2004001503924</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040802</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>액상</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015039</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>고려홍삼성분액골드</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기 체질이신 경우 성분을 확인하신 후 섭취. 제품 개봉 또는 섭취시 포장재에 의해 상처를 입을 수 있으니 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>고려인삼과학주식회사</BSSH_NM>
+    <STDR_STND>1. 성상 : 연갈색의 액상파우치제품 으로서 이미, 이취가 없어야 함&#xD;
+2. 진세노사이드 Rg1, Rb1 및 Rg3의 합 : 표시량 35mg/50ml 의 80~150%&#xD;
+3. 대장균군 : 음성&#xD;
+4. 세균수 : 100이하/ml</STDR_STND>
+    <DISPOS>연갈색의 액상 파우치</DISPOS>
+    <PRIMARY_FNCLTY>[홍삼제품]①면역력 증진에 도움을 줄 수 있음②피로개선에 도움을 줄 수 있음③혈소판 응집 억제를 통한 혈액흐름에 도움을 줄 수 있음④기억력 개선에 도움을 줄 수 있음⑤항산화에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 18개월</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 1회, 1회 1포(50ml/1포) 을 식전 또는 식후에 섭취하세요</NTK_MTHD>
+    <RAWMTRL_NM>홍삼농축액(진세노사이드 Rg1과 Rb1 및 Rg3의 합 7mg/g),홍삼추출액(홍삼사포닌 0.05mg/g이상, 고형분 0.25%이상)</RAWMTRL_NM>
+  </row>
+  <row id="25">
+    <PRDLST_REPORT_NO>2004001510033</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040802</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015100</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>일화고려홍삼성분캡슐골드</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>제품 개봉 또는 섭취시 포장재에 의한 상처 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)일화</BSSH_NM>
+    <STDR_STND>1. 성상 : 적갈색의 불투명한 연질캡슐로 이미, 이취가 없어야 함 &#xD;
+2. 진세노사이드 Rg1과 Rb1 및 Rg3의 합 : 표시량(3.60mg/2.4g)의 80% 이상&#xD;
+3. 대장균군 : 음성&#xD;
+4. 붕해도 : 건강기능식품공전 III.2 붕해도 시험의 캡슐제품 시험법에 따라 20분내에 붕해</STDR_STND>
+    <DISPOS>적갈색의 불투명한 연질캡슐</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진②피로개선③혈소판 응집 억제를 통한 혈액흐름에 도움④기억력 개선⑤항산화에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 2회, 1회 1캡슐을 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>홍삼농축액(진세노사이드 Rg1, Rb1 및 Rg3의 합 0.5%),젤라틴,글리세린,D-소르비톨액,식용색소적색제40호,이산화티타늄,에틸바닐린,식용색소청색제1호,대두유,팜유,밀납,D-알파-토코페롤</RAWMTRL_NM>
+  </row>
+  <row id="26">
+    <PRDLST_REPORT_NO>2004001516210</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040803</PRMS_DT>
+    <LAST_UPDT_DTM>20161228</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>정</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015162</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>에이드칼슘</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN />
+    <BSSH_NM>(주)허브큐어</BSSH_NM>
+    <STDR_STND>1. 성상 : 회백색의 정제로서 이미.이취가 없어야 함.&#xD;
+2. 칼슘 : 표시량( 270mg/1500mg)의 80~150%&#xD;
+3. 대장균군 : 음성&#xD;
+4. 붕해도 : 건강기능식품공전 III.2 정제제품시험법에 따라 30분내에 붕해</STDR_STND>
+    <DISPOS>회백색의 정제</DISPOS>
+    <PRIMARY_FNCLTY>①뼈와 치아 형성에 필요②신경과 근육 기능 유지에 필요③정상적인 혈액응고에 필요④골다공증발생 위험 감소에 도움을 줌</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>상온 보관</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회 1회3정씩 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>해조분말,옥수수전분,칼슘 (유청칼슘(칼슘24%이상),칼슘 (해조칼슘(칼슘함량 30%이상),건조효모분말(가루, 과립),산화마그네슘,비타민C,산화아연,스테아린산마그네슘,비타민B6염산염,비타민D3혼합제제분말,아라비아검,설탕,옥수수전분,팜유,비타민D3 분말,이산화규소,DL-알파-토코페롤(고시형)</RAWMTRL_NM>
+  </row>
+  <row id="27">
+    <PRDLST_REPORT_NO>200400151628</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040803</PRMS_DT>
+    <LAST_UPDT_DTM>20161220</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>정</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015162</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>이엔지키토산</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>게에 알레르기가 있으신 분은 섭취시 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)허브큐어</BSSH_NM>
+    <STDR_STND>1. 성상 : 흰노랑 또는 연노랑, 크림색의 정제로서 이미, 이취가 없어야 함
+2. 키토산 : 표시량(400mg/1200mg)의 80~120%
+3. 납(mg/kg) : 3.0 이하
+4. 카드뮴(mg/kg) 1.0이하
+5. 총수은(mg/kg) 1.0이하
+6. 대장균군 : 음성</STDR_STND>
+    <DISPOS>흰노랑 또는 연노랑, 크림색</DISPOS>
+    <PRIMARY_FNCLTY>1. 콜레스테롤 개선&#xD;
+①콜레스테롤 개선</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회 1회 6정씩 씹어서 섭취</NTK_MTHD>
+    <RAWMTRL_NM>키토산분말(글루코사민으로서 함량 80%이상),키토올리고당분말(함량 50%이상),식용건조효모,폴리덱스트로스,비타민C,스테아린산마그네슘,니코틴산,비타민B1염산염,비타민B2(Riboflavin),비타민B6염산염</RAWMTRL_NM>
+  </row>
+  <row id="28">
+    <PRDLST_REPORT_NO>200400151627</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040803</PRMS_DT>
+    <LAST_UPDT_DTM>20160810</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>정</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015162</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>정스피루리나</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>본 원료에 알레르기가 있으신 분은 섭취시 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)허브큐어</BSSH_NM>
+    <STDR_STND>1. 성상 : 진녹색의 정제로서 이미, 이취가 없어야 함.
+2.  총엽록소 :  표시량(24mg/3000mg)의 80~120%
+3. 납(mg/kg) : 3.0이하
+4.카드뮴(mg/kg) : 1.0이하
+5.총수은(mg/kg) : 0.5이하
+6.총 페오포르바이드(mg/kg) : 1,000이하
+7. 대장균군 : 음성</STDR_STND>
+    <DISPOS>진녹색의 정제</DISPOS>
+    <PRIMARY_FNCLTY>1. 피부건강에 도움  2. 항산화작용</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회 1회 5정씩 씹어서 섭취</NTK_MTHD>
+    <RAWMTRL_NM>스피루리나(고시형),유청칼슘(함량 24%이상)</RAWMTRL_NM>
+  </row>
+  <row id="29">
+    <PRDLST_REPORT_NO>200400152012</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040809</PRMS_DT>
+    <LAST_UPDT_DTM>20221214</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015201</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>단백질보충용파워시그마80</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>특정 단백질에 알레르기를 나타내는 경우에는 섭취 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)파시코</BSSH_NM>
+    <STDR_STND>1. 성상 : 노랑하양색의 고운분말로 이미이취가 없음
+2. 조단백질 : 표시량(24g/30g)의 80~120%
+3. 대장균군 : 음성</STDR_STND>
+    <DISPOS>고유의 향미가 있고 이미이취가 없는 노란하양색의 분말</DISPOS>
+    <PRIMARY_FNCLTY>①근육, 결합조직 등 신체조직의 구성성분②효소, 호르몬, 항체의 구성에 필요③체내 필수 영양성분이나 활성물질의 운반과 저장에 필요④체액, 산-염기의 균형 유지에 필요⑤에너지, 포도당, 지질의 합성에 필요</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>물이나 우유, 음료에 혼합하여 섭취</NTK_MTHD>
+    <RAWMTRL_NM>분리대두단백(함량 90%이상),유청단백(함량 80%이상),난백단백(함량 80%이상),결정과당,혼합제제[비타민A팔미테이트 0.3456%, 비타민C 3.4992%, 비타민B1염산염 0.0594%, 비타민B2 0.0518%, 비타민B6염산염 0.079%, 비타민B12 0.0324%, 비타민D3(비타민D3 0.025% 함유) 0.0648%, 비타민E-초산에스테르 1.,바닐라향분말,효소처리스테비아,구아검,수크랄로스</RAWMTRL_NM>
+  </row>
+  <row id="30">
+    <PRDLST_REPORT_NO>2004001503927</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040819</PRMS_DT>
+    <LAST_UPDT_DTM>20210524</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>액상</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015039</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>고려홍삼정프리미엄</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기 체질이신 경우 성분을 확인하신 후 섭취제품 개봉 또는 섭취시 포장재에 의한 상처를 입을 수 있으니 주의하시기 바랍니다.&#xD;
+제품의 섭취시 섭취량 및 섭취방법을 확인하고 섭취하여 주십시오.&#xD;
+의약품(당뇨치료제, 혈액항응고제) 복용시 섭취에 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>고려인삼과학주식회사</BSSH_NM>
+    <STDR_STND>1. 성상 : 진한 갈색의 점도가 있는 액상 농축액으로 이미.이취가 없어야함.
+2. 진세노사이드 Rg1, Rb1 및 Rg3의 합 : 표시량(30㎎/3g)의 80%이상
+3. 대장균군 : 음성
+4. 세균수 : 1㎖당 3,000이하</STDR_STND>
+    <DISPOS>진한 갈색의 점도가 있는 액상 농축액으로 이미.이취가 없어야함.</DISPOS>
+    <PRIMARY_FNCLTY>[홍삼제품]①면역력 증진에 도움을 줄 수 있음②피로개선에 도움을 줄 수 있음③혈소판 응집 억제를 통한 혈액흐름에 도움을 줄 수 있음④기억력 개선에 도움을 줄 수 있음⑤항산화에 도움을 줄 수 있음면역력 증진, 피로회복, 혈소판 응집 억제를 통한 혈액흐름에 도움, 기억력 개선에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터36개월까지</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>① (유리병)1일 3회, 1회 2스푼 (0.5g/1스푼)식전또는 식후에 섭취하세요② (PE포장)1일 1회, 1포씩 온수 또는 냉수에 타거나 직접 섭취하십시오 1일 3회, 1회 2스푼 (0.5g/1스푼)식전또는 식후에 섭취하세요</NTK_MTHD>
+    <RAWMTRL_NM>홍삼농축액(고시형)</RAWMTRL_NM>
+  </row>
+  <row id="31">
+    <PRDLST_REPORT_NO>2004001503928</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040819</PRMS_DT>
+    <LAST_UPDT_DTM>20180917</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>액상</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015039</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>황제의기</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기 체질이신 경우 성분을 확인 하신 후 섭취
+제품 개봉 또는 섭취시 포장재에 의해 상처를 입을 수 있으니 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>고려인삼과학주식회사</BSSH_NM>
+    <STDR_STND>1.성상: 미황색의 액상제품으로서 이미,이취가 없어야 함.
+2.식이섬유:표시량:10g/15g의 80%이상
+3.대장균군:음성
+4.잔류용매(mg/kg)50.0이하</STDR_STND>
+    <DISPOS>미황색의 과립제품</DISPOS>
+    <PRIMARY_FNCLTY>①식이섬유 보충&#xD;
+①식이섬유 보충&#xD;
+①식이섬유 보충&#xD;
+①식이섬유 보충&#xD;
+①식이섬유 보충</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 2회, 1회 1포(7.5g/1포)를 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>글루코만난(식이섬유90% 이상),결정셀룰로오스(식이섬유90% 이상),폴리덱스트로스(식이섬유90% 이상),차전자피(식이섬유80% 이상),갈락토만난(식이섬유80% 이상),L-카르니틴,딸기향분말[딸기향키베이스(초산에틸 22%, 페닐초산에틸 26%, 이소유게놀 23%, 바닐린 8%, 에틸포메이트19%, 낙산에틸 2%) 10%, 덱스트린 36%, 유당 4%, 펙틴 0.2%, 고급케톤류(에틸말톨) 0.7%, 프로필렌,해조칼슘(칼슘함량 20%이상),유당,피로인산제이철혼합제제(피로인산제이철 26.6%, 덱스트린 59.7%, 글리세린지방산 5.3%, 염화나트륨 7.1%, 효소가수분해레시틴 1.3%),스테아린산마그네슘,아스파탐,비타민C,DL-알파-토코페릴 초산염,분말비타민A(97.5mg/g),비타민B1염산염,비타민B2,비타민B6,니코틴산아미드,엽산,비타민D3(2.5mg/g)</RAWMTRL_NM>
+  </row>
+  <row id="32">
+    <PRDLST_REPORT_NO>200400151048</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040827</PRMS_DT>
+    <LAST_UPDT_DTM>20231101</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>환</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015104</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>티세이칼슘</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>화분, 대두, 우유, 밀에 알레르기를 일으키기 쉬운 체질을 갖고 계신 분은 섭취를 금함.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>주식회사 네추럴웨이</BSSH_NM>
+    <STDR_STND>①성상 : 진한 갈색의 환으로 이미·이취가 없어야 함
+②*칼슘 : 표시량(220mg/2g)의 80~150%
+③대장균군 : 음성
+④붕해도 : 건강기능식품공전 III.2.1 붕해도 시험의 환 제품 방법에 따라 1액에서 (60분간). 시료의 잔류물이 유리관 내에 남아 있을 때에는 계속하여 제 2액에서 60분간 이내 붕해.
+(* : 규격 추가 및 range 변경 항목)</STDR_STND>
+    <DISPOS>진한 갈색의 환으로 이미, 이취가 없어야 함</DISPOS>
+    <PRIMARY_FNCLTY>①뼈와 치아 형성에 필요②신경과 근육 기능 유지에 필요③정상적인 혈액응고에 필요④청년기 이전에 적절한 운동과 건강한 식습관을 유지하면서 충분한 칼슘을 섭취하면 향후 골다공증발생의 위험을 감소시킬 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회 1회 1포(2g)씩 식사후에 섭취.</NTK_MTHD>
+    <RAWMTRL_NM>패각칼슘(비소성, 칼슘함량 35%이상),비타민B1염산염,비타민B2,비타민 B6 염산염,혼합제제,카복시메틸셀룰로스나트륨,덱스트린,포도당,레시틴,구연산삼나트륨,히드록시프로필메틸셀룰로스,글리세린,코코아분말,화분추출물분말(화분추출물분말 80%, 덱스트린 20%),맥주효모추출물,맥아분말,덱스트린,타우린,삼백초농축액,유청단백분말,상어연골분말,유단백가수분해물,기타가공품,클로렐라추출물,비타민C,감마오리자놀,작약 등 복합추출물,작약뿌리,감초,가시오갈피줄기,스테비올배당체,중력분,산화아연,니코틴산아미드</RAWMTRL_NM>
+  </row>
+  <row id="33">
+    <PRDLST_REPORT_NO>2004001510035</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040913</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>환</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015100</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>고려홍삼정환골드</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>제품 개봉 또는 섭취시 포장재에 의한 상처 주의, 섭취 후 뚜껑 봉할 것⑴ 의약품(당뇨치료제, 혈액항응고제) 복용 시 섭취에 주의하시기 바랍니다.&#xD;
+⑵ 알레르기 체질이신 분은 섭취 전에 원료명을 반드시 확인하시기 바랍니다.&#xD;
+⑶ 유통기한이 경과된 제품은 섭취하지 마십시오</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)일화</BSSH_NM>
+    <STDR_STND>⑴ 성상: 고유의 색택과 향미를 가지며 이미, 이취가 없는 흑갈색의 환&#xD;
+     (실험방법: 관능검사를 실시하여 성상 변화 여부 확인)&#xD;
+  ⑵ 진세노사이드 Rg1과 Rb1 및 Rg3의 합: 표시량(3.88 mg/2.25 g)의 80 % 이상&#xD;
+     (실험방법: 건강기능식품공전 Ⅲ.3.7.1 진세노사이드 Rg1과 Rb1 및 Rg3)&#xD;
+  ⑶ 대장균군: 음성&#xD;
+     (실험방법: 식품공전 제10. 일반실험법 3.7 대장균군)&#xD;
+  ⑷ 붕해도: 제1액에서 60분 하고, 시료의 잔류물이 유리관 내에 남아 있을 때에는 계속하여 제2액에서 60분간 시험한다. (실험방법: 건강기능식품공전 Ⅲ.2.1. 붕해시험)</STDR_STND>
+    <DISPOS>흑갈색의 환</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진②피로개선③혈소판 응집 억제를 통한 혈액흐름에 도움④기억력 개선⑤항산화에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>습기와 직사광선을 피하여 서늘한 장소에 보관</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회, 1회 5환을 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>홍삼농축액(진세노사이드 Rg1과 Rb1의 합 0.5%),쌀가루,옥수수전분,찹쌀가루,벌꿀,결정셀룰로오스,클로렐라추출액(고형분 2% 이상),프락토올리고당,카르복시메틸셀룰로오스칼슘,카르복시메틸셀룰로오스나트륨</RAWMTRL_NM>
+  </row>
+  <row id="34">
+    <PRDLST_REPORT_NO>2004001520117</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040914</PRMS_DT>
+    <LAST_UPDT_DTM>20221214</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015201</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>단백질보충용파워소이테인</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기 체질이신 경우 성분을 확인 하신 후 섭취</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)파시코</BSSH_NM>
+    <STDR_STND>1. 성상 : 고유의 색택과 향미를 가지며 이미, 이취가 없어야 함
+2. 조단백질 : 표시량(24g/30g)의 80~120%
+3. 대장균군 : 음성</STDR_STND>
+    <DISPOS>고유의 향미가 있고 이미·이취가 없는 흰노랑색의 분말</DISPOS>
+    <PRIMARY_FNCLTY>①근육, 결합조직 등 신체조직의 구성성분②효소, 호르몬, 항체의 구성에 필요③체내 필수 영양성분이나 활성물질의 운반과 저장에 필요④체액, 산-염기의 균형 유지에 필요⑤에너지, 포도당, 지질의 합성에 필요</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>물이나 우유, 음료에 혼합하여 섭취</NTK_MTHD>
+    <RAWMTRL_NM>분리대두단백(함량 90%이상),L-글루타민,덱스트린,타우린,헤이즐넛향분말,혼합제제[비타민A팔미테이트 0.3456%, 비타민C 3.4992%, 비타민B1염산염 0.0594%, 비타민B2 0.0518%, 비타민B6염산염 0.079%, 비타민B12 0.0324%, 비타민D3(비타민D3 0.025% 함유) 0.0648%, 비타민E-초산에스테르 1.,구아검,효소처리스테비아,바닐라향분말,수크랄로스</RAWMTRL_NM>
+  </row>
+  <row id="35">
+    <PRDLST_REPORT_NO>2004001520118</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040914</PRMS_DT>
+    <LAST_UPDT_DTM>20221214</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015201</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>단백질보충용파워에그테인</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>특정 단백질에 알레르기를 나타내는 경우에는 섭취 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)파시코</BSSH_NM>
+    <STDR_STND>1. 성상 : 노랑하양색의 고운분말로 이미이취가 없음
+2. 조단백질 : 표시량(22g/30g)의 80~120%
+3. 대장균군 : 음성</STDR_STND>
+    <DISPOS>고유의 향미가 있고 이미·이취가 없는 노란 하양색의 분말</DISPOS>
+    <PRIMARY_FNCLTY>①근육, 결합조직 등 신체조직의 구성성분②효소, 호르몬, 항체의 구성에 필요③체내 필수 영양성분이나 활성물질의 운반과 저장에 필요④체액, 산-염기의 균형 유지에 필요⑤에너지, 포도당, 지질의 합성에 필요</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>물이나 우유, 음료에 혼합하여 섭취</NTK_MTHD>
+    <RAWMTRL_NM>분리대두단백(함량 90%이상),난백단백(함량 80%이상),식물성크림분말,헤이즐럿향분말,L-글루타민,바닐라향분말,구아검,혼합제제[비타민A팔미테이트 0.3456%, 비타민C 3.4992%, 비타민B1염산염 0.0594%, 비타민B2 0.0518%, 비타민B6염산염 0.079%, 비타민B12 0.0324%, 비타민D3(0.025%) 0.0648%, 비타민E초산에스테르 1.2874%, 엽산 0.0648,구연산,효소처리스테비아,수크랄로스</RAWMTRL_NM>
+  </row>
+  <row id="36">
+    <PRDLST_REPORT_NO>2004001520115</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040914</PRMS_DT>
+    <LAST_UPDT_DTM>20221214</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015201</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>단백질보충용파워유청단백</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기 체질이신 경우 성분을 확인 하신 후 섭취</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)파시코</BSSH_NM>
+    <STDR_STND>1. 성상 : 회황색의 고운분말로 이미이취가 없음
+2. 조단백질 : 표시량(23g/30g)의 80~120%
+3. 대장균군 : 음성</STDR_STND>
+    <DISPOS>고유의 향미가 있고 이미·이취가 없는 노란회색의 분말</DISPOS>
+    <PRIMARY_FNCLTY>①근육, 결합조직 등 신체조직의 구성성분②효소, 호르몬, 항체의 구성에 필요③체내 필수 영양성분이나 활성물질의 운반과 저장에 필요④체액, 산-염기의 균형 유지에 필요⑤에너지, 포도당, 지질의 합성에 필요</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>물이나 우유, 음료에 혼합하여 섭취</NTK_MTHD>
+    <RAWMTRL_NM>유청단백분말,코코아분말,효소처리스테비아,수크랄로스</RAWMTRL_NM>
+  </row>
+  <row id="37">
+    <PRDLST_REPORT_NO>2004001520116</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040914</PRMS_DT>
+    <LAST_UPDT_DTM>20221214</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015201</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>단백질보충용파워유청단백V</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기 체질이신 경우 성분을 확인 하신 후 섭취</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)파시코</BSSH_NM>
+    <STDR_STND>1. 성상 : 고유의 색택과 향미를 가지며 이미, 이취가 없어야 함
+2. 조단백질 : 표시량(23g/30g)의 80~120%
+3. 대장균군 : 음성</STDR_STND>
+    <DISPOS>고유의 향미가 있고 이미·이취가 없는 흰노랑색의 분말</DISPOS>
+    <PRIMARY_FNCLTY>①근육, 결합조직 등 신체조직의 구성성분②효소, 호르몬, 항체의 구성에 필요③체내 필수 영양성분이나 활성물질의 운반과 저장에 필요④체액, 산-염기의 균형 유지에 필요⑤에너지, 포도당, 지질의 합성에 필요</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>물이나 우유, 음료에 혼합하여 섭취</NTK_MTHD>
+    <RAWMTRL_NM>유청단백분말,바닐라향분말,효소처리스테비아,수크랄로스</RAWMTRL_NM>
+  </row>
+  <row id="38">
+    <PRDLST_REPORT_NO>2004001520114</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20040914</PRMS_DT>
+    <LAST_UPDT_DTM>20221214</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015201</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>단백질보충용파워프로틴2000</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기 체질이신 경우 성분을 확인 하신 후 섭취</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)파시코</BSSH_NM>
+    <STDR_STND>1. 성상 : 고유의 색택과 향미를 가지며 이미, 이취가 없어야 함
+2. 조단백질 : 표시량(15g/30g)의 80~120%
+3. 대장균군 : 음성</STDR_STND>
+    <DISPOS>고유의 향미가 있고 이미 이취가 없는 흐린 황갈색의 분말</DISPOS>
+    <PRIMARY_FNCLTY />
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>물이나 우유, 음료에 혼합하여 섭취</NTK_MTHD>
+    <RAWMTRL_NM>분리대두단백(함량 90%이상),유청단백(함량 80%이상),분말결정포도당,결정과당,덱스트린,코코아분말,혼합제제[비타민A팔미테이트 0.3456%, 비타민C 3.4992%, 비타민B1염산염 0.0594%, 비타민B2 0.0518%, 비타민B6염산염 0.079%, 비타민B12 0.0324%, 비타민D3(비타민D3 0.025% 함유) 0.0648%, 비타민E-초산에스테르 1.,코코아향분말,구아검,효소처리스테비아</RAWMTRL_NM>
+  </row>
+  <row id="39">
+    <PRDLST_REPORT_NO>2004001510722</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20041007</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>정</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015107</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>유청칼슘</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기 체질인 경우 성분을 확인 한 후 섭취여부를 결정.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)유유헬스케어</BSSH_NM>
+    <STDR_STND>1)성상 : 백색의 정제로 고유의 색택과 향미를 가지며 이미, 이취가 없어야 함
+2)대장균군 : 음성
+3)칼슘 : 표시량(337.5mg/3000mg)의 80~150%</STDR_STND>
+    <DISPOS>백색의 정제</DISPOS>
+    <PRIMARY_FNCLTY>①뼈와 치아 형성에 필요②신경과 근육 기능 유지에 필요③정상적인 혈액응고에 필요④청년기 이전에 적절한 운동과 건강한 식습관을 유지하면서 충분한 칼슘을 섭취하면 향후 골다공증발생의 위험을 감소시킬 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피해 서늘한 곳에 보관하십시오</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회, 1회 2정을 식사후 씹어서 섭취.</NTK_MTHD>
+    <RAWMTRL_NM>유청칼슘(비소성, 칼슘 25%이상),팔라티노스,D-소르비톨,스테아린산마그네슘,자일리톨,혼합유당(유당 95%, 덱스트린 5%),탈지분유,글루코사민황산염분말,유단백가수분해물,구연산,요구르트향분말(저당 76.5%, 아라비아검 10.0%, 프로필렌글리콜 7.4%, 천연오렌지오일 3.0%, 초산 1.0%, 낙산 0.5%, 천연레몬오일 0.5%, 에틸알코올(주정) 0.4%, 데카노익엑시드 0.3%, 델타-도데카락톤 0.1,식용건조효모,상어연골분말,효소처리스테비아,비타민 D3 혼합제제(비타민D3 0.25%, DL-알파-토코페롤 0.2%, 가공유지 7.5%, 아라비아검 38%, 설탕 38%, 옥수수전분 15.55%, 이산화규소 0.5%),버드나무껍질추출분말</RAWMTRL_NM>
+  </row>
+  <row id="40">
+    <PRDLST_REPORT_NO>2004001510410</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20041018</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>환</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015104</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>조인트파워플러스</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>화분, 우유, 밀에 알레르기가 있으신 분은 섭취를 금함.새우, 게, 우유, 밀등에 알레르기를 나타내는 사람은 섭취에 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>주식회사 네추럴웨이</BSSH_NM>
+    <STDR_STND>①성상 : 갈색의 환으로 이미·이취가 없어야 함
+②*글루코사민염산염 : 표시량(550mg/2g)의 80~120%
+③대장균군 : 음성
+④붕해도 : 건강기능식품공전 III.2.1 붕해도 시험의 환 제품 방법에 따라 1액에서 (60분간). 시료의 잔류물이 유리관 내에 남아 있을 때에는 계속하여 제 2액에서 60분간 이내 붕해
+⑤*납(mg/kg) : 5.0 이하
+⑥*카드뮴(mg/kg) : 1.5 이하
+⑦*총수은(mg/kg) : 1.0 이하
+(* : 규격 추가 및 range 변경 항목)</STDR_STND>
+    <DISPOS>갈색의 환제품</DISPOS>
+    <PRIMARY_FNCLTY>①관절 및 연골 건강에 도움</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>건조하고 서늘한 곳에 보관</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회 1회 1포(2g)씩 식사 후에 섭취.</NTK_MTHD>
+    <RAWMTRL_NM>글루코사민염산염분말(글루코사민 99%이상),맥아분말,감마오리자놀,식용건조효모,소맥분,감초농축액(고형분 20%이상),msm(dimethylsulfone),덱스트린,삼백초농축액(고형분 20%이상),작약농축액 (고형분 20%이상),오가피농축액(고형분 20%이상),오징어연골키토산,두충농축액(고형분 20%이상)</RAWMTRL_NM>
+  </row>
+  <row id="41">
+    <PRDLST_REPORT_NO>200400152922</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20041115</PRMS_DT>
+    <LAST_UPDT_DTM>20210406</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015292</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>진생사이언스인삼농축액분말</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>인삼제품에 알러지가 있는 분이나 특이체질인 경우 섭취시 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)진생사이언스</BSSH_NM>
+    <STDR_STND>1. 성상 : 인삼특이취를 가진 갈색의 고운 분말
+2. 진세노사이드 Rg1과 Rb1의 합 : 표시량(12mg/g) 이상
+3. 대장균군 : 음성</STDR_STND>
+    <DISPOS>인삼특이취를 가진 갈색의 고운분말</DISPOS>
+    <PRIMARY_FNCLTY />
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>건강기능식품의 제조 원료로 사용한다.</NTK_MTHD>
+    <RAWMTRL_NM>인삼(진세노사이드 Rg1과 Rb1의 합 1.2%)</RAWMTRL_NM>
+  </row>
+  <row id="42">
+    <PRDLST_REPORT_NO>2004001503932</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20041203</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>액상</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015039</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>로우펫식이섬유플러스</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>① 알레르기 체질이신 경우 성분을 확인 하신 후 섭취 ② 제품 개봉 또는 섭취시 포장재에 의해 상처를 입을 수 있으니 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>고려인삼과학주식회사</BSSH_NM>
+    <STDR_STND>1. 성상 : 미황색의 액상제품 으로서 이미, 이취가 없어야 함
+2. 식이섬유 : 표시량 7g/100ml 의 80%이상 
+3. 대장균군 :  음성
+4. 세균수 : 100이하/ml</STDR_STND>
+    <DISPOS>미황색의 액상</DISPOS>
+    <PRIMARY_FNCLTY>①배변활동 원활</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 1회, 1회 1포(80ml/1포)섭취하세요</NTK_MTHD>
+    <RAWMTRL_NM>폴리덱스트로스(식이섬유함량 90%이상),비타민C(L-Ascorbic acid),정제수,복숭아향[복숭아향베이스1(에스테르&lt;낙산에틸, 초산에틸&gt; 5.5, 락톤&lt;감마운데카락톤, 델타데카락톤&gt; 3.1, 알콜류&lt;리나룰, 시스-3헥세놀&gt; 4.3, 지방산&lt;낙산, 2-메틸부티릭산&gt; 5.5, 알데히드&lt;벤즈알 ,난소화성말토덱스트린,구연산,복숭아농축액(고형분 60%이상),액상과당,L-카르니틴,덱스트린,스테비오사이드</RAWMTRL_NM>
+  </row>
+  <row id="43">
+    <PRDLST_REPORT_NO>200400152926</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050110</PRMS_DT>
+    <LAST_UPDT_DTM>20190711</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015292</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>선인삼성분골드</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>인삼제품에 알러지가 있는 분이나 특이체질인 경우 섭취시 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)진생사이언스</BSSH_NM>
+    <STDR_STND>1. 성상 : 갈색의 분말을 함유한 중갈색의 경질캅셀
+2. 진세노사이드 Rg1과 Rb1의 합 :
+    표시량(36mg/6캅셀(4.2g))의 80%이상 
+3. 대장균군 : 음성
+4. 붕해도 : 건강기능식품공전 III.2 붕해도 시험의 캅셀제품
+               시험법에 따라 20분내에 붕해</STDR_STND>
+    <DISPOS>갈색의 분말을 함유한 중갈색의 경질캅셀</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진②피로회복</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 3년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회 1회 2캅셀을 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>인삼농축액분말(진세노사이드 Rg1과 Rb1의 합 1.2%),이산화규소,스테아린산마그네슘,결정셀룰로오스,자당지방산에스테르,빙초산,정제수,식용색소적색제3호,식용색소청색제1호,식용색소적색제40호,이산화티타늄,식용색소황색제4호,젤라틴</RAWMTRL_NM>
+  </row>
+  <row id="44">
+    <PRDLST_REPORT_NO>200400152925</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050110</PRMS_DT>
+    <LAST_UPDT_DTM>20190711</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015292</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>선인삼성분클래식</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>인삼제품에 알러지가 있는 분이나 특이체질인 경우 섭취에 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)진생사이언스</BSSH_NM>
+    <STDR_STND>1. 성상 : 갈색의 분말을 함유한 중갈색의 경질캅셀
+2. 진세노사이드 Rg1과 Rb1의 합 : 표시량(18mg/6캅셀 (2.88g)의 80%이상
+3. 대장균군 : 음성
+4. 붕해도 : 건강기능식품공전 III.2 붕해도 시험의 캅셀제품
+               시험법에 따라 20분내에 붕해</STDR_STND>
+    <DISPOS />
+    <PRIMARY_FNCLTY>①면역력 증진②피로회복</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 3년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회 1회 2캅셀을 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>인삼농축액분말(진세노사이드 Rg1과 Rb1의 합 1.2%),결정셀룰로오스,스테아린산마그네슘,이산화규소,자당지방산에스테르,이산화티타늄,정제수,젤라틴,식용색소적색제40호,식용색소청색제1호,식용색소적색제3호,식용색소황색제4호,빙초산</RAWMTRL_NM>
+  </row>
+  <row id="45">
+    <PRDLST_REPORT_NO>2004001509423</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050117</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>액상</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015094</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>고려태극삼농축액</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기 체질인 경우에는 성분을 확인한 후 섭취</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)화인내츄럴</BSSH_NM>
+    <STDR_STND>1,성상: 고유의 색택과 향미를 가지며, 이미,이취가 없어야 함&#xD;
+2. 진세노사이드 Rg1과 Rb1의 합: 표시량(8mg/2g)의 80~150%&#xD;
+3. 세균수: 1ml당 3,000이하&#xD;
+4. 대장균군:음성</STDR_STND>
+    <DISPOS>태극삼의 향취미가 있는 흑갈색의 농축액</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진②피로회복</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 3년</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 실온 보관, 유통</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회 1회 1g을 온수나 냉수 80ml에 넣어 잘 저은 후 음용함</NTK_MTHD>
+    <RAWMTRL_NM>태극삼농축액(진세노사이드 Rg1과 Rb1의 합 0.4%)100%</RAWMTRL_NM>
+  </row>
+  <row id="46">
+    <PRDLST_REPORT_NO>2004001509422</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050117</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015094</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>고려태극삼분말</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기 체질인 경우에는 성분을 확인한 후 섭취</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)화인내츄럴</BSSH_NM>
+    <STDR_STND>1.성상: 고유의 색택과 향미를 가지며 이미,이취가 없어야 함&#xD;
+2. 진세노사이드 Rg1과 Rb1의 합:(8mg/4g)의 80~150%&#xD;
+3. 대장균군:음성</STDR_STND>
+    <DISPOS>태극삼 고유의 연갈색상과 향취, 맛을 지닌 분말</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진②피로회복</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 3년</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 실온 보관, 유통</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회 1회 2g 을 온수나 냉수 80ml에 넣어 잘 저은 후 음용함</NTK_MTHD>
+    <RAWMTRL_NM>태극삼분말(진세노사이드 Rg1과 Rb1의 합 0.2%)100%</RAWMTRL_NM>
+  </row>
+  <row id="47">
+    <PRDLST_REPORT_NO>2004001510746</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050119</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>정</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015107</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>웰러스 뼈로가는 유청칼슘</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기 체질인 경우 성분을 확인 한 후 섭취여부를 결정.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)유유헬스케어</BSSH_NM>
+    <STDR_STND>1. 성상 : 백색의 정제로 고유의 색택과 향미를 가지며 이미.이취가 없어야 함
+2. 대장균군 : 음성
+3. 칼슘 : 표시량(322.5mg/3g)의 80~150%</STDR_STND>
+    <DISPOS>백색의 정제</DISPOS>
+    <PRIMARY_FNCLTY>①뼈와 치아 형성에 필요②신경과 근육 기능 유지에 필요③정상적인 혈액응고에 필요④청년기 이전에 적절한 운동과 건강한 식습관을 유지하면서 충분한 칼슘을 섭취하면 향후 골다공증발생의 위험을 감소시킬 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 서늘한 곳에 보관하십시오</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회, 1회 2정을 씹어서 섭취.</NTK_MTHD>
+    <RAWMTRL_NM>유청칼슘(비소성, 칼슘함량 25%이상),정제포도당,자일리톨,D-소르비톨,유당,탈지분유,유단백가수분해물(CPP, 13%이상),구연산,딸기향분말,스테아린산마그네슘,아스파탐,비타민D3(2.6mg/g이상),딸기맛분말</RAWMTRL_NM>
+  </row>
+  <row id="48">
+    <PRDLST_REPORT_NO>2004001505541</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050128</PRMS_DT>
+    <LAST_UPDT_DTM>20200527</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>액상</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015055</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>GL-40E난황레시틴</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기 체질이신 경우 성분을 확인 하신 후, 섭취</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)고센바이오텍</BSSH_NM>
+    <STDR_STND>(1) 성상 : 황갈색의 액상으로 이미·이취가 없어야 함
+(2) 인지질 : 표시량(720mg/2.0g)이상
+(3) 인지질중 포스파티딜콜린 : 표시량(432mg/720mg)이상
+(4) 콜레스테롤(mg/kg) : 10,000이하
+(5) 납(mg/kg) : 2.0 이하 
+(6)대장균군 : 음성
+(7) 세균수(1mL당) : 100이하</STDR_STND>
+    <DISPOS>황갈색의 액상 제품</DISPOS>
+    <PRIMARY_FNCLTY />
+    <POG_DAYCNT>제조일로부터 1년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>건강기능식품원료 사용</NTK_MTHD>
+    <RAWMTRL_NM>난황레시틴,가공유지,가공유지</RAWMTRL_NM>
+  </row>
+  <row id="49">
+    <PRDLST_REPORT_NO>2004001505543</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050128</PRMS_DT>
+    <LAST_UPDT_DTM>20220930</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015055</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>올데이 난황레시틴플러스</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>[레시틴 제품]대두나 난황에 알레르기를 나타내는 사람은 섭취에 주의
+① 난황 알레르기를 나타내는 사람은 섭취에 주의.
+② 제품 개봉 또는 섭취시 포장재에 의해 상처를 입힐 수 있으니 주의.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)고센바이오텍</BSSH_NM>
+    <STDR_STND>(1) 성상 : 무색의 연질캅셀로서 이미·이취가 없어야 함
+(2) 인지질 : 표시량(720mg/2.0g)의 80~120%
+(3) 인지질중 포스파티딜콜린 : 표시량(540mg/720mg)의 80~120%
+(4) 콜레스테롤(mg/kg) : 10,000이하
+(5) 대장균군 : 음성
+(6) 붕해도 : 건강기능식품공전 III.2.1 붕해시험법의 시험법에 따라 20분내에 붕해
+(7) 납(mg/kg) : 2.0이하</STDR_STND>
+    <DISPOS>무색의 연질캅셀</DISPOS>
+    <PRIMARY_FNCLTY>①콜레스테롤 개선</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 2회, 1회 1캡슐을 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>난황레시틴,젤라틴,글리세린,에틸바닐린,d-토코페롤(혼합형),비타민C,포스파티딜세린(고시형),L-아르지닌,가공유지,EPA 및 DHA 함유 유지(고시형)</RAWMTRL_NM>
+  </row>
+  <row id="50">
+    <PRDLST_REPORT_NO>2004001510415</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050221</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>정</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015104</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>스피루리나</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기체질인 경우  섭취에 주의.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>주식회사 네추럴웨이</BSSH_NM>
+    <STDR_STND>① 성상 : 진녹색의 정제로 이미·이취가 없어야 함
+② *총엽록소 : 표시량(18mg/2g)의 80~120%
+③ 대장균군 : 음성
+④ 붕해도 : 건강기능식품공전 III.2 붕해도 시험의 정제제품 시험법에 따라 30분 내에 붕해
+⑤*납(mg/kg) : 3.0 이하
+⑥*카드뮴(mg/kg) : 1.0 이하
+⑦*총수은(mg/kg) : 0.5 이하
+⑧*총페오포르바이드(mg/kg) : 1,000 이하
+(* : 규격 추가 및 range 변경 항목)</STDR_STND>
+    <DISPOS>진녹색의 정제품</DISPOS>
+    <PRIMARY_FNCLTY>1. 피부건강에 도움  2. 항산화작용  3. 혈중 콜레스테롤 수치개선에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회, 1회 10정(2g)씩 식사 후에 섭취</NTK_MTHD>
+    <RAWMTRL_NM>스피루리나원말(총엽록소 9mg/g이상),스테아린산마그네슘</RAWMTRL_NM>
+  </row>
+  <row id="51">
+    <PRDLST_REPORT_NO>2004001510414</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050221</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>정</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015104</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>카트맥스 칼슘</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기체질인 경우 섭취에 주의.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>주식회사 네추럴웨이</BSSH_NM>
+    <STDR_STND>①성상 : 백색의 정제로 이미·이취가 없어야 함&#xD;
+②*칼슘 : 표시량(210mg/1.2g)의 80~150%&#xD;
+③대장균군 : 음성&#xD;
+④붕해도 : 건강기능식품공전 III.2.1 붕해도 시험의 정제제품 시험법에 따라 30분내에 붕해&#xD;
+(* : 규격 추가 및 range 변경 항목)</STDR_STND>
+    <DISPOS>백색의 정제품</DISPOS>
+    <PRIMARY_FNCLTY>①뼈와 치아 형성에 필요②신경과 근육 기능 유지에 필요③정상적인 혈액응고에 필요④청년기 이전에 적절한 운동과 건강한 식습관을 유지하면서 충분한 칼슘을 섭취하면 향후 골다공증발생의 위험을 감소시킬 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하고 서늘한 곳에 보관</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회, 1회 2정(1.2g)씩 식사 후에 섭취.</NTK_MTHD>
+    <RAWMTRL_NM>상어연골분말(칼슘함량 20%이상),우슬추출분말(우슬추출고형분 30%, 덱스트린 70%),구연산,DL-사과산</RAWMTRL_NM>
+  </row>
+  <row id="52">
+    <PRDLST_REPORT_NO>2004001503940</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050223</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>과립</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015039</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>고려인삼차골드</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기 체질이신 경우 성분을 확인하신 후 섭취</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>고려인삼과학주식회사</BSSH_NM>
+    <STDR_STND>1. 성상 : 연갈색의 과립제품으로서 이미, 이취가 없어야 함
+2. 진세노사이드 Rg1과 Rb1의합 : 표시량 7.2mg/9g 의 80~150%
+3. 대장균군 : 음성</STDR_STND>
+    <DISPOS>연갈색의 과립제품</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진②피로회복</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하고 서늘한 곳에 보관하세요.</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회, 1회 1포(3g)씩 냉·온수에 타서 섭취</NTK_MTHD>
+    <RAWMTRL_NM>인삼농축액(진세노사이드 Rg1과 Rb1의 합 8mg/g),무수포도당</RAWMTRL_NM>
+  </row>
+  <row id="53">
+    <PRDLST_REPORT_NO>2004001503939</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050223</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>과립</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015039</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>고려홍삼차골드</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기 체질이신 경우 성분을 확인하신 후 섭취</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>고려인삼과학주식회사</BSSH_NM>
+    <STDR_STND>1. 성상 : 연갈색의 과립제품으로서 이미, 이취가 없어야 함&#xD;
+2. 진세노사이드 Rg1, Rb1 및 Rg3의 합 : 표시량 6.3mg/9g 의 80~150%&#xD;
+3. 대장균군 : 음성</STDR_STND>
+    <DISPOS>연갈색의 과립제품</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진②피로회복③혈소판 응집 억제를 통한 혈액흐름에 [홍삼제품]①면역력 증진에 도움을 줄 수 있음②피로개선에 도움을 줄 수 있음③혈소판 응집 억제를 통한 혈액흐름에 도움을 줄 수 있음④기억력 개선에 도움을 줄 수 있음⑤항산화에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하고 서늘한 곳에 보관하세요.</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회, 1회 1포(3g)씩 냉·온수에 타서 섭취</NTK_MTHD>
+    <RAWMTRL_NM>홍삼농축액(진세노사이드 Rg1과 Rb1 및 Rg3의 합 7mg/g),무수포도당,비타민C(L-Ascorbic acid)</RAWMTRL_NM>
+  </row>
+  <row id="54">
+    <PRDLST_REPORT_NO>2004001505549</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050311</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>액상</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015055</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>오르난황레시틴</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>계란 알레르기 체질이신 경우 성분을 확인 하신 후, 섭취</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)고센바이오텍</BSSH_NM>
+    <STDR_STND>(1) 성상 : 황갈색의 액상으로 이미·이취가 없어야 함
+(2) 인지질
+ (가) 원료성제품 : 표시량(1.8g/5.0g)이상
+ (나) 최종제품 : 표시량(1.8g/5.0g)이상의 80~120%
+(3) 인지질중 포스파티딜콜린
+ (가) 원료성제품 : 표시량(1.08g/1.8g)이상
+ (나) 최종제품 : 표시량(1.08g/1.8g)이상의 80~120%
+(4) 콜레스테롤(mg/kg) : 10,000이하
+(5)대장균군 : 음성
+(6) 세균수(1mL당) : 100이하</STDR_STND>
+    <DISPOS>황갈색의 액상제품</DISPOS>
+    <PRIMARY_FNCLTY>①콜레스테롤 개선</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 1년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 2회, 1회 2.5g 섭취</NTK_MTHD>
+    <RAWMTRL_NM>오리난황레시틴,달맞이꽃종자유,난황유</RAWMTRL_NM>
+  </row>
+  <row id="55">
+    <PRDLST_REPORT_NO>2004001516220</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050314</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015162</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>헬스감마리놀렌산</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기가 있으신 분은 섭취시 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)허브큐어</BSSH_NM>
+    <STDR_STND>1. 성상 :고유의 색택과 향미를 가지며 이미, 이취가 없어야 함.
+2. 감마리놀렌산 : 표시량 (120mg/1500mg) 의 80~120%
+3. 대장균군 : 음성
+4. 붕해도 : 건강기능식품공전 III.2 캅셀제품시험법에 따라 20분내에 붕해</STDR_STND>
+    <DISPOS>미황색의 내용물이 들어 있는 연질캅셀</DISPOS>
+    <PRIMARY_FNCLTY>1. 콜레스테롤 개선  2. 혈행개선</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 2회 1회 3캅셀을 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>감마리놀렌산함량 8.5%이상,글리세린,D-솔비톨액,젤라틴,비타민E</RAWMTRL_NM>
+  </row>
+  <row id="56">
+    <PRDLST_REPORT_NO>2004001508330</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050404</PRMS_DT>
+    <LAST_UPDT_DTM>20211020</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015083</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>한미글루코사민100</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>(가) 임산부 및 수유부는 섭취를 피할 것
+(나) 간·심장질환, 수술 전후, 고혈압, 당뇨 및 천식이 있거나 의약품(항응고제 등) 복용 시 전문가와 상담할 것
+(다) 게 또는 새우에 알레르기가 있는 사람은 섭취에 주의할 것(게 또는 새우를 원재료로 사용한 경우)
+(라) 이상사례 발생 시 섭취를 중단하고 전문가와 상담할 것
+(마) 제품 개봉 또는 섭취시 포장재에 의해 상처를 입을 수 있으니 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>주식회사한미양행</BSSH_NM>
+    <STDR_STND>1)성상 : 흰색의 내용물을 함유한 투명의 경질캡슐
+2)글루코사민염산염 : 표시량(1,500mg/1,530.6mg)의 80~120%
+3)납(mg/kg) : 5.0 이하
+4)카드뮴(mg/kg) : 1.5 이하
+5)비소(mg/kg) : 4.0 이하
+6)수은(mg/kg) : 1.0 이하
+7)대장균군 : 음성
+8)붕해시험 : 적합</STDR_STND>
+    <DISPOS>흰색의 내용물을 함유한 투명의 경질캡슐</DISPOS>
+    <PRIMARY_FNCLTY>관절 및 연골 건강에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>고온다습한 곳이나 직사광선을 피하여 서늘한 곳에 보관.</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회, 1회 1캅셀을 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>글루코사민분말(글루코사민염산염으로서 98%이상),빙초산,정제수,젤라틴,자당지방산에스테르</RAWMTRL_NM>
+  </row>
+  <row id="57">
+    <PRDLST_REPORT_NO>2004001503943</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050414</PRMS_DT>
+    <LAST_UPDT_DTM>20150907</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015039</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>글루코사민100</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>제품 개봉 또는 섭취시 포장재에 의한 상처를 입을 수 있으니 주의하시기 바랍니다.
+제품의 섭취시 섭취량 및 섭취방법을 확인하고 섭취하여 주십시오.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>고려인삼과학주식회사</BSSH_NM>
+    <STDR_STND>1. 성상 : 백색의 경질캅셀제품 으로서 이미, 이취가 없어야함
+2. 글루코사민 : 표시량 1.47g/1500mg 의 80~120%
+3. 납(mg/kg) : 5.0 이하
+4. 카드뮴(mg/kg) : 1.5 이하
+5. 총수은(mg/kg) : 1.0 이하
+6. 대장균군 : 음성
+7. 붕해도 : 건강기능식품공전 III.2 붕해도 시험의 캅셀제품 시험법에 따라 20분내에 붕해</STDR_STND>
+    <DISPOS>백색의 경질캅셀</DISPOS>
+    <PRIMARY_FNCLTY>①관절 및 연골 건강에 도움</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회, 1회에 2캡슐(250mg/1캡슐) 물과 함께 섭취하세요</NTK_MTHD>
+    <RAWMTRL_NM>글루코사민분말(글루코사민함량 98%이상),젤라틴,정제수,이산화티타늄,빙초산,자당지방산에스테르</RAWMTRL_NM>
+  </row>
+  <row id="58">
+    <PRDLST_REPORT_NO>2004001509429</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050421</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>액상</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015094</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>인삼농축액골드</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>제품 개봉시 농축액이 흐를 수 있으니 주의. 
+정해진 섭취방법을 준수하시기 바랍니다.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)화인내츄럴</BSSH_NM>
+    <STDR_STND>1,성상: 고유의 색택과 향미를 가지며, 이미,이취가 없어야 함&#xD;
+2. 진세노사이드 Rg1과 Rb1의 합: 표시량(12mg/2g)의 80~150%(최종제품), 표시량(6mg/g)이상(원료성제품)&#xD;
+3. 세균수: 1ml 당 3,000이하&#xD;
+4. 대장균군:음성</STDR_STND>
+    <DISPOS>흑갈색의 농축액으로 인삼의 향취미가 있음.</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진②피로회복</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 서늘한 곳에 보관, 유통</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회, 1회 1g을 온수나 냉수 80 ml에 넣어 잘 저은후 음용함.</NTK_MTHD>
+    <RAWMTRL_NM>인삼농축액 (진세노사이드 Rg1과 Rb1의 합 0.6%)</RAWMTRL_NM>
+  </row>
+  <row id="59">
+    <PRDLST_REPORT_NO>2004001509430</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050421</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015094</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>인삼분말골드</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>제품 개봉시 분말이 흐를 수 있으니 주의. 
+정해진 섭취방법을 준수하시기 바랍니다.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)화인내츄럴</BSSH_NM>
+    <STDR_STND>1,성상: 고유의 색택과 향미를 가지며,이미 이취가 없어야 함&#xD;
+2. 진세노사이드Rg1과 Rb1의 합: 표시량(12mg/4g)의 80~150%(최종제품), 표시량(3mg/g)이상(원료성제품)&#xD;
+3. 대장균군:음성</STDR_STND>
+    <DISPOS>인삼고유의 연갈색과 향취, 맛을 지닌 분말</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진②피로회복</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 서늘한 곳에 보관, 유통</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회, 1회 2g을 온수나 냉수 80 ml에 넣어 잘 저은 후 음용함.</NTK_MTHD>
+    <RAWMTRL_NM>인삼분말(진세노사이드 Rg1과 Rb1의 합: 0.3%)</RAWMTRL_NM>
+  </row>
+  <row id="60">
+    <PRDLST_REPORT_NO>2004001509433</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050421</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>액상</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015094</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>홍삼농축액</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>제품 개봉시 농축액이 흐를 수 있으니 주의.
+정해진 섭취방법을 준수하시기 바랍니다.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)화인내츄럴</BSSH_NM>
+    <STDR_STND>1,성상: 고유의 색택과 향미를 가지며, 이미,이취가 없어야 함&#xD;
+2. 진세노사이드 Rg1과 Rb1 및 Rg3의 합: 표시량(6mg/2g)의 80~150%(최종제품), 표시량(3mg/g)이상(원료성제품)&#xD;
+3. 세균수: 1ml 당 3,000이하&#xD;
+4. 대장균군:음성</STDR_STND>
+    <DISPOS>흑갈색의 농축액으로 홍삼의 향취미가 있음</DISPOS>
+    <PRIMARY_FNCLTY>[홍삼제품]①면역력 증진에 도움을 줄 수 있음②피로개선에 도움을 줄 수 있음③혈소판 응집 억제를 통한 혈액흐름에 도움을 줄 수 있음④기억력 개선에 도움을 줄 수 있음⑤항산화에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 서늘한 곳에 보관, 유통</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회, 1회 1g을 온수나 냉수 80ml에 잘 넣어 혼합한 후 음용</NTK_MTHD>
+    <RAWMTRL_NM>홍삼농축액[진세노사이드 Rg1과 Rb1 및 Rg3의 합 0.3%] 100%</RAWMTRL_NM>
+  </row>
+  <row id="61">
+    <PRDLST_REPORT_NO>2004001519110</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050602</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>액상</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015191</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>원큐(식이섬유)</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>①알레르기 체질인 경우 성분을 확인 한 후 섭취여부를 결정
+②임산부·성장기 여성의 경우는 섭취시 주의가 필요함</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)팜텍코리아</BSSH_NM>
+    <STDR_STND>1. 성상 : 고유의 색택과 향미를 가지고 이미 이취가 없어야 함
+2. 식이섬유(%) : 표시량(5.85g/75ml)의 80%이상 
+3. 대장균군 : 음성</STDR_STND>
+    <DISPOS>미황색의 액상</DISPOS>
+    <PRIMARY_FNCLTY>배변활동 원활</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일1회, 1회 1병을 섭취</NTK_MTHD>
+    <RAWMTRL_NM>폴리덱스트로스(식이섬유함량 90%이상),식물추출음료[(고형분4%이상) 퉁퉁마디추출물 22%, 무추출물 13%, 칡추출물 4.8%, 무화과추출물 4.5%, 인진쑥추출물 3.7% 이소말토올리고당 30%, 프락토올리고당 22%, 계100%],정제수</RAWMTRL_NM>
+  </row>
+  <row id="62">
+    <PRDLST_REPORT_NO>2004001508355</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050602</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>정</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015083</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>칼슘골드</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>제품 개봉 또는 섭취시 포장재에 의해 상처를 입을 수 있으니 주의.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>주식회사한미양행</BSSH_NM>
+    <STDR_STND>1)성상 : 흰색의 삼각형 정제
+2)칼슘 : 표시량(230mg/1300mg)의 80~150%
+3)납(mg/kg) : 3.0 이하
+4)대장균군 : 음성
+5)붕해시험 : 건강기능식품공전 III.2 붕해도 시험의 정제제품 시험법에 따라 30분내에 붕해</STDR_STND>
+    <DISPOS>흰색의  삼각형 정제</DISPOS>
+    <PRIMARY_FNCLTY>①뼈와 치아 형성에 필요②신경과 근육 기능 유지에 필요③정상적인 혈액응고에 필요④골다공증발생 위험 감소에 도움을 줌</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선 및 고온다습한 곳을 피하여 서늘한 곳에 보관.</CSTDY_MTHD>
+    <NTK_MTHD>1일 1회, 1회 2정씩 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>칼슘(탄산칼슘(칼슘34%이상)),칼슘(해조칼슘(칼슘32%이상)),타피오카전분,정제포도당,상어연골분말,스테아린산마그네슘,녹색입홍합분말,비타민C(L-Ascorbic acid),우유단백가수분해물분말,산화아연,비타민 D3 혼합제제(아라비아검 38%, 설탕 38%, 옥수수전분 15.55%, 가공유지 7.5%, 이산화규소 0.5%, 비타민D3 0.25%, DL-알파-토코페롤 0.2%)</RAWMTRL_NM>
+  </row>
+  <row id="63">
+    <PRDLST_REPORT_NO>200400151072</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050609</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015107</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>파코스키토올리고당100</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기 체질인 경우 성분을 확인 한 후 섭취여부를 결정.게 또는 새우에 알레르기를 나타내는 사람은 섭취에 주의 추가</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)유유헬스케어</BSSH_NM>
+    <STDR_STND>1.성상 : 미황색의 경질캅셀로 고유의 색택과 향미를 가지며 이미. 이취가 없어야 함
+2. 키토산 또는 키토올리고당
+   :표시량(1,200mg/1,500mg)의 80~120%
+3. 중금속
+        (가) 납(mg/kg) : 3.0 이하
+        (나) 카드뮴(mg/kg) : 1.0 이하
+        (다) 총수은(mg/kg) : 1.0 이하
+4. 대장균군 : 음성
+5. 붕해도 : 적합 (건강기능식품공전 III.2 붕해도 시험의 캅셀제품 시험법에 따라 20분내에 붕해)</STDR_STND>
+    <DISPOS>미황색의 경질캅셀</DISPOS>
+    <PRIMARY_FNCLTY>①콜레스테롤 개선</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 서늘한 곳에 보관하십시오.</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회, 1회 2캅셀 섭취.</NTK_MTHD>
+    <RAWMTRL_NM>키토올리고당분말(키토올리고당 함량 80%이상),젤라틴,자당지방산에스테르,빙초산,이산화티타늄,식용색소황색제4호,정제수</RAWMTRL_NM>
+  </row>
+  <row id="64">
+    <PRDLST_REPORT_NO>2004001510771</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050614</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015107</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>보타닉식이섬유</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>3)제품의 내용물은 물에 타면 단시간내 걸쭉해지므로, 충분한 물로 내용물을 완전히 부풀린 후 섭취할 것
+4)찬물이나 찬 음료에 타서 섭취하시는 것이 좋습니다.
+5)입에 직접 털어 먹지 마십시오1) 체질에 맞지 않는 경우 섭취를 즉시 중단하십시오.
+2) 수분흡수력이 강하여 응고 되었을 때는 물 또는 음료수를 더 타서 섭취하십시오.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)유유헬스케어</BSSH_NM>
+    <STDR_STND>1) 성상 : 엷은 황갈색의 분말로 고유의 색택과 향미를 가지며 이미, 이취가 없어야 함&#xD;
+2) 대장균군 : 음성&#xD;
+3) 식이섬유 : 표시량(8.8g/12g)의 80% 이상</STDR_STND>
+    <DISPOS>엷은 황갈색 분말.</DISPOS>
+    <PRIMARY_FNCLTY>1. 콜레스테롤 개선  2. 배변활동 원활</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 3년</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 서늘한 곳에 보관하십시오.</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회, 1회 6g을 물 또는 음료수(약 200ml)와 함께 저은 후 즉시 섭취.</NTK_MTHD>
+    <RAWMTRL_NM>차전자피분말(식이섬유함량 98%이상),무수결정포도당,구연산,스테비오사이드</RAWMTRL_NM>
+  </row>
+  <row id="65">
+    <PRDLST_REPORT_NO>2004001510782</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050906</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015107</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>글루코사민100</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>임산부, 수유부, 환자, 영유아, 알레르기체질은 의사와 상담 후 섭취.게 또는 새우에 알레르기를 나타내는 사람은 섭취에 주의 추가</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)유유헬스케어</BSSH_NM>
+    <STDR_STND>1.성상 : 미황색의 경질캅셀로 고유의 색택과 향미를 가지며 이미. 이취가 없어야 함
+2. 글루코사민염산염 : 표시량(1,650mg/1,650mg)의 80~120%
+3. 중금속
+        (가) 납(mg/kg) : 5.0 이하
+        (나) 카드뮴(mg/kg) : 1.5 이하
+        (다) 총수은(mg/kg) : 1.0 이하
+4. 대장균군 : 음성
+5. 붕해도 : 적합 (건강기능식품공전 III.2 붕해도 시험의 캅셀제품 시험법에 따라 20분내에 붕해)</STDR_STND>
+    <DISPOS>미황색의 경질캅셀</DISPOS>
+    <PRIMARY_FNCLTY>①관절 및 연골 건강에 도움</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 1회, 1회 3캅셀을 물과 함께 섭취.</NTK_MTHD>
+    <RAWMTRL_NM>글루코사민염산염분말,젤라틴,이산화티타늄,글리세린,빙초산,식용색소황색제4호</RAWMTRL_NM>
+  </row>
+  <row id="66">
+    <PRDLST_REPORT_NO>2004001508383</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050906</PRMS_DT>
+    <LAST_UPDT_DTM>20211125</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015083</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>솔빛M</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>제품 개봉 또는 섭취시 포장재에 의해 상처를 입을 수 있으니 주의.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>주식회사한미양행</BSSH_NM>
+    <STDR_STND>1)성상 : 흑색의 연질캡슐&#xD;
+2)마그네슘 : 표시량(122mg/1700mg)의 80~150%&#xD;
+3)대장균군 : 음성&#xD;
+4)붕해시험 : 20분내에 붕해</STDR_STND>
+    <DISPOS>흑색의 연질캡슐</DISPOS>
+    <PRIMARY_FNCLTY>①에너지 이용에 필요②신경과 근육 기능 유지에 필요</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>고온다습한 곳이나 직사광선을 피하여 서늘한 곳에 보관.</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회, 1회 1캅셀을 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>쌀발효분말,마그네슘(산화마그네슘(마그네슘함량48%이상)),젤라틴 ,오징어먹물색소,글리세린 ,에틸바닐린,이산화티타늄,덱스트린,갈대뿌리,정제수,갈대뿌리추출물,갈대뿌리추출분말,유단백가수분해물,엽산,비타민B1염산염 ,비타민 B6 염산염,비타민B2 ,밀납,대두레시틴,덱스트린,포도씨유 ,쌀발효추출물분말,쌀,덱스트린,미강유,모과분말,모과농축액</RAWMTRL_NM>
+  </row>
+  <row id="67">
+    <PRDLST_REPORT_NO>2004001503948</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050916</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>액상</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015039</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>고려홍삼사포닌골드</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>① 알레르기 체질이신 경우 성분을 확인하신 후 섭취
+② 제품 개봉 또는 섭취시 포장재에 의해 상처를 입을 수 있으니 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>고려인삼과학주식회사</BSSH_NM>
+    <STDR_STND>1. 성상: 연갈색의 액상파우치제품으로 이미.이취가 없어야 함&#xD;
+2. 진세노사이드 Rg1, Rb1 및 Rg3의 합: 표시량 46.2mg/60ml의 80~150%&#xD;
+3. 대장균군:음성&#xD;
+4. 세균수: 100이하/ml</STDR_STND>
+    <DISPOS>연갈색의 액상 파우치</DISPOS>
+    <PRIMARY_FNCLTY>[홍삼제품]①면역력 증진에 도움을 줄 수 있음②피로개선에 도움을 줄 수 있음③혈소판 응집 억제를 통한 혈액흐름에 도움을 줄 수 있음④기억력 개선에 도움을 줄 수 있음⑤항산화에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 1회, 1회 1포(60ml/1포) 을 식전 또는 식후에 섭취하십시오</NTK_MTHD>
+    <RAWMTRL_NM>홍삼농축액(진세노사이드 Rg1과 Rb1 및 Rg3의 합 7mg/g),홍삼추출액</RAWMTRL_NM>
+  </row>
+  <row id="68">
+    <PRDLST_REPORT_NO>2004001503949</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20050916</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>액상</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015039</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>천지양뿌리깊은홍삼정마일드</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>1) 알레르기 체질이신 경우 성분을 확인하신 후 섭취&#xD;
+2) 제품 개봉 또는 섭취시 포장재에 의한 상처를 입을 수 있으니 주의하시기 바랍니다.&#xD;
+3) 제품의 섭취시 섭취량 및 섭취방법을 확인하고 섭취하여 주십시오.4) 의약품(당뇨치료제, 혈액항응고제) 복용 시 섭취에 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>고려인삼과학주식회사</BSSH_NM>
+    <STDR_STND>1) 성상: 점성을 가진 액상제품으로 이미,이취가 없어야 함&#xD;
+2) 진세노사이드 Rg1, Rb1 및 Rg3의 합: 표시량(4.41mg/6g)의 80%이상&#xD;
+3) 대장균군: 음성&#xD;
+4) 세균수: 1㎖당 100이하</STDR_STND>
+    <DISPOS>점성을 가진 액상제품으로 이미,이취가 없어야 함</DISPOS>
+    <PRIMARY_FNCLTY>[홍삼제품]①면역력 증진에 도움을 줄 수 있음②피로개선에 도움을 줄 수 있음③혈소판 응집 억제를 통한 혈액흐름에 도움을 줄 수 있음④기억력 개선에 도움을 줄 수 있음⑤항산화에 도움을 줄 수 있음면역력 증진, 피로회복, 혈소판 응집 억제를 통한 혈액흐름에 도움, 기억력 개선에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>습기와 직사광선을 피하고 건냉한 장소에 보관하십시오</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회, 1회 4스푼(0.5g/스푼) 을 식전 또는 식후에 섭취하십시오</NTK_MTHD>
+    <RAWMTRL_NM>홍삼농축액(진세노사이드 Rg1과 Rb1및 Rg3의 합 7mg/g),이소말토올리고당,대보농축액(고형분55%이상: 당귀(국산) 12.67%, 황기(국산) 12.66%, 감초 12.64%, 계피 12.63%, 백출 11.49%, 천궁 10.34%, 숙지황 10.34%, 작약 9.49%, 백복령 5.74%, 녹용 2%, 계100%),말토덱스트린,비타민C</RAWMTRL_NM>
+  </row>
+  <row id="69">
+    <PRDLST_REPORT_NO>2004001503953</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20051020</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015039</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>고삼력홍삼캡슐32-오리지널</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>①알레르기 체질이신 경우 성분을 확인 하신 후 섭취하여 주시기 바랍니다.
+②제품 개봉 또는 섭취시 포장재에 의해 상처를 입을 수 있으니 주의하시기 바랍니다.
+③충분한 물과 함께 섭취</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>고려인삼과학주식회사</BSSH_NM>
+    <STDR_STND>1. 성상:암갈색의 불투명 연질캅셀제품으로서 이미,이취가 없어야함&#xD;
+2. 진세노사이드 Rg1, Rb1 및 Rg3의 합: 표시량 3.36mg/1,800mg의 80~150%&#xD;
+3. 대장균군:음성&#xD;
+4. 붕해도: 건강기능식품공전 III.2. 붕해도 시험의 캅셀제품 시험법에 따라 20분내에 붕해</STDR_STND>
+    <DISPOS>암갈색의 불투명 연질캅셀</DISPOS>
+    <PRIMARY_FNCLTY>[홍삼제품]①면역력 증진에 도움을 줄 수 있음②피로개선에 도움을 줄 수 있음③혈소판 응집 억제를 통한 혈액흐름에 도움을 줄 수 있음④기억력 개선에 도움을 줄 수 있음⑤항산화에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 3년</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 서늘한 곳에 보관·유통</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회, 1회 3캅셀(300mg/1캡슐) 물과 함께 섭취하십시오</NTK_MTHD>
+    <RAWMTRL_NM>홍삼농축액(진세노사이드 Rg1과 Rb1및 Rg3의 합 7mg/g),젤라틴,액상카라멜,글리세린,팜유,대두유,산호칼슘분말(소성), L-카르니틴,밀납,생로얄제리,대두레시틴, 비타민B1염산염,비타민B2, 비타민B12</RAWMTRL_NM>
+  </row>
+  <row id="70">
+    <PRDLST_REPORT_NO>2004001503952</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20051020</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015039</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>고삼력홍삼캡슐골드32</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>①알레르기 체질이신 경우 성분을 확인 하신 후 섭취하여 주시기 바랍니다.
+②제품 개봉 또는 섭취시 포장재에 의해 상처를 입을 수 있으니 주의하시기 바랍니다.
+③충분한 물과 함께 섭취</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>고려인삼과학주식회사</BSSH_NM>
+    <STDR_STND>1.성상:암갈색의 불투명 연질캅셀제품으로서 이미,이취가 없어야함&#xD;
+2. 진세노사이드 Rg1, Rb1 및 Rg3의 합: 표시량 3.92mg/2,400mg의 80~150%&#xD;
+3. 대장균군:음성&#xD;
+4. 붕해도: 건강기능식품공전 III.2. 붕해도 시험의 캅셀제품 시험법에 따라 20분내에 붕해</STDR_STND>
+    <DISPOS>암갈색의 불투명 연질캅셀</DISPOS>
+    <PRIMARY_FNCLTY>[홍삼제품]①면역력 증진에 도움을 줄 수 있음②피로개선에 도움을 줄 수 있음③혈소판 응집 억제를 통한 혈액흐름에 도움을 줄 수 있음④기억력 개선에 도움을 줄 수 있음⑤항산화에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 3년</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 서늘한 곳에 보관·유통</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회, 1회 4캅셀(300mg/1캡슐) 물과 함께 섭취하십시오</NTK_MTHD>
+    <RAWMTRL_NM>홍삼농축액(진세노사이드 Rg1과 Rb1및 Rg3의 합 7mg/g),젤라틴,글리세린, 액상카라멜,대두레시틴,비타민B1염산염, 비타민B2,비타민B12,밀납,생로얄제리,산인삼추출물(고형분 10.0%이상),팜유,대두유,산호칼슘분말(소성), L-카르니틴</RAWMTRL_NM>
+  </row>
+  <row id="71">
+    <PRDLST_REPORT_NO>2004001510787</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20051121</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>정</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015107</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>스피루리나</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>질병을 치료 중이거나 특이체질인 경우 의사와 상담 후 섭취여부를 결정.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)유유헬스케어</BSSH_NM>
+    <STDR_STND>1, 성상 : 녹색의 정제로 고유의 색택과 향미를 가지며 이미. 이취가 없어야 함
+2. 대장균군 : 음성
+3. 총엽록소a : 표시량(10mg/2g, 15mg/3g) 80~120%
+4. 총페오포르바이드(mg/kg) : 1,000이하
+5. 중금속 :
+          (가) 납(mg/kg) : 3.0 이하
+          (나) 카드뮴(mg/kg) : 1.0 이하
+          (다)  총수은(mg/kg) : 0.5 이하</STDR_STND>
+    <DISPOS>녹색의 정제</DISPOS>
+    <PRIMARY_FNCLTY>1. 피부건강에 도움  2. 항산화작용</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 24개월</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하고 서늘한 곳에 보관.</CSTDY_MTHD>
+    <NTK_MTHD>200mg일 경우 : 1일 3회, 1회 5정을 씹어서 섭취
+500mg일 경우 : 1일 2회, 1회 2정을 씹어서 섭취</NTK_MTHD>
+    <RAWMTRL_NM>유기농스피루리나원말</RAWMTRL_NM>
+  </row>
+  <row id="72">
+    <PRDLST_REPORT_NO>2004001503957</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20051202</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015039</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>고려인삼분말캡슐</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>① 알레르기 체질이신 경우 성분을 확인 하신 후 섭취.
+② 제품 개봉 또는 섭취 시 포장재에 의해 상처를 입을 수 있으니 주의.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>고려인삼과학주식회사</BSSH_NM>
+    <STDR_STND>1.성상:백색의 불투명한 경질캅셀로서 이미,이취가 없어야함 
+2. 진세노사이드 Rg1과 Rb1의 합: 표시량 6mg/1,500mg의 80~150%
+3. 대장균군:음성
+4. 붕해도: 건강기능식품공전 III.2. 붕해도 시험의 캅셀제품 시험법에 따라 20분내에 붕해</STDR_STND>
+    <DISPOS>백색의 불투명한 경질캡슐</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진②피로회복</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 36개월</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 서늘한 곳에 보관 · 유통.</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회,1회 2캅셀(250 mg/1캅셀)식전 또는 식후에 섭취하십시오.</NTK_MTHD>
+    <RAWMTRL_NM>인삼(진세노사이드 Rg1과 Rb1의 합 4mg/g),정제수,자당지방산에스테르,빙초산,이산화티타늄,젤라틴</RAWMTRL_NM>
+  </row>
+  <row id="73">
+    <PRDLST_REPORT_NO>2004001503956</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20051202</PRMS_DT>
+    <LAST_UPDT_DTM>20180206</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>정</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015039</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>밝은사랑비타민A</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>① 섭취시 정제가 기도에 걸릴수 있으니 유의하시기 바랍니다.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>고려인삼과학주식회사</BSSH_NM>
+    <STDR_STND>1.성상:분홍색의 정제로서 이미,이취가 없어야 함
+2. 비타민A: 표시량 410.4ugRE/1,800mg의 80~150%
+3. 대장균군:음성
+4. 붕해도: 건강기능식품공전 III. 2 붕해도 시험의 제피정제 시험법에 따라 60분내에 붕해</STDR_STND>
+    <DISPOS>분홍색의 정제</DISPOS>
+    <PRIMARY_FNCLTY>①어두운 곳에서 시각 적응을 위해 필요②피부와 점막을 형성하고 기능을 유지하는데 필요③상피세포의 성장과 발달에 필요</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 서늘한 곳에 보관·유통</CSTDY_MTHD>
+    <NTK_MTHD>1일3회 1회 1정(600mg/1정)물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>분말비타민A(비타민A로서 9.75%함유),정제포도당,딸기맛분말&lt;딸기엑기스분말 45%, 백설탕 40%, 덱스트린 10%, 구연산 4.4%, 스테비오사이드 0.5%, 잔탄검 0.1% 계100%&gt;,자일리톨,태극삼분말,딸기엑기스분말&lt;딸기엑기스93%, 덱스트린 7% 계100%&gt;,말토덱스트린,구연산,비타민C,결정셀룰로오스,딸기향분말딸기향키베이스 〔에틸부티레이트 23%, 에틸2-메틸부티레이트 6.6%, 에틸 메틸페닐글리세테이트 3.8%, 에틸이소발레르에이트0.6%,이소아밀 이소발레르에이트 2.7%,  벤질프로피오네  ,베타카로틴분말(베타카로틴 1.1, 아라비아검 45, 설탕 45, 정제수 5, 대두유 2.7, 토코페롤(혼합형) 0.4, 구연산 0.4, 비타민C 0.4),스테아린산마그네슘,당귀추출분말(당귀추출분말 30, 덱스트린 70),감초추출분말(감초추출분말 40, 덱스트린 60),결명자추출분말(결명자추출분말 40, 덱스트린 60),아스파탐(페닐알라닌함유)</RAWMTRL_NM>
+  </row>
+  <row id="74">
+    <PRDLST_REPORT_NO>20040015083103</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20051213</PRMS_DT>
+    <LAST_UPDT_DTM>20210511</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015083</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>철맥</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>특히 6세 이하는 과량섭취하지 않도록 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>주식회사한미양행</BSSH_NM>
+    <STDR_STND>1) 성상: 흑갈색의 타원형 연질캡슐
+2) 철: 표시량(8mg/1000mg)의 80~150%
+3) 대장균군: 음성
+4)붕해시험: 20분이내</STDR_STND>
+    <DISPOS>흑갈색의 타원형 연질캡슐</DISPOS>
+    <PRIMARY_FNCLTY>①체내 산소운반과 혈액생성에 필요②에너지 생성에 필요</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 24개월</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 2회, 1회 1캅셀을 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>헴철(철함량 1%이상),젖산철(철-16%),식용색소황색제4호,식용색소적색제2호,젤라틴,식용색소청색제1호,식용색소적색제40호,식용색소황색제5호,이산화티타늄,에틸바닐린,D-소르비톨액,글리세린,미강유,포도씨유,다슬기추출물,다슬기추출물,덱스트린,쌀(알곡)발효 추출물 분말(쌀 90%, 덱스트린 10%),비타민C,굴패각칼슘(칼슘함량 38%이상),대두레시틴,밀납,비타민B2,비타민B6염산염,비타민B1염산염,엽산,갈대뿌리추출분말,갈대뿌리추출물,덱스트린</RAWMTRL_NM>
+  </row>
+  <row id="75">
+    <PRDLST_REPORT_NO>2004001510793</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20051227</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015107</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>식이섬유화이버캡</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>질병을 치료 중이거나 알레르기 체질인 경우 의사와 상담 후 섭취여부를 결정.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)유유헬스케어</BSSH_NM>
+    <STDR_STND>1)성상 : 엷은 흰색분말 내용물의 경질캅셀로 고유의 색택과 향미를 가지며 이미, 이취가 없어야 함&#xD;
+2)대장균군 : 음성&#xD;
+3)차전자피 식이섬유 : 차전자피 식이섬유로써(5.1g/6g)의 80~120%&#xD;
+4)붕해도 : 적합(건강기능식품공전 III.2 붕해도 시험의 캅셀제품 시험법에 따라 20분내에 붕해)</STDR_STND>
+    <DISPOS>옅은 황색분말을 내용물로 한 경질캅셀</DISPOS>
+    <PRIMARY_FNCLTY>배변활동 원활</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 24개월</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하고 서늘한 곳에 보관.</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회, 1회 6캅셀을 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>차전자피분말(식이섬유함량 85%),젤라틴,정제수,빙초산,자당지방산에스테르</RAWMTRL_NM>
+  </row>
+  <row id="76">
+    <PRDLST_REPORT_NO>2004001503959</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20060228</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015039</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>고려홍삼분말캡슐</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>① 알레르기 체질이신 경우 성분을 확인 하신 후 섭취.
+② 제품 개봉 또는 섭취 시 포장재에 의해 상처를 입을 수 있으니 주의.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>고려인삼과학주식회사</BSSH_NM>
+    <STDR_STND>1.성상:적갈색의 불투명한 경질캅셀로서 이미,이취가 없어야함 &#xD;
+2. 진세노사이드 Rg1, Rb1 및 Rg3의 합: 표시량 6mg/1500mg의 80~150%&#xD;
+3. 대장균군:음성&#xD;
+4. 붕해도: 건강기능식품공전 III.2. 붕해도 시험의 캅셀제품 시험법에 따라 20분내에 붕해</STDR_STND>
+    <DISPOS>적갈색의 불투명한 경질캅셀</DISPOS>
+    <PRIMARY_FNCLTY>[홍삼제품]①면역력 증진에 도움을 줄 수 있음②피로개선에 도움을 줄 수 있음③혈소판 응집 억제를 통한 혈액흐름에 도움을 줄 수 있음④기억력 개선에 도움을 줄 수 있음⑤항산화에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 36개월까지</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 서늘한 곳에 보관·유통.</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회, 1회 2캅셀(250 mg/1캅셀) 식전 또는 식후에 섭취하세요</NTK_MTHD>
+    <RAWMTRL_NM>홍삼분말(진세노사이드 Rg1과 Rb1및 Rg3의 합 4mg/g),젤라틴,자당지방산에스테르,빙초산,이산화티타늄,식용색소적색제40호,식용색소황색제5호,식용색소청색제1호,정제수</RAWMTRL_NM>
+  </row>
+  <row id="77">
+    <PRDLST_REPORT_NO>2004001503961</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20060324</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015039</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>고려인삼분말</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>① 알레르기 체질이신 경우 성분을 확인 하신 후 섭취.
+② 제품 개봉 또는 섭취 시 포장재에 의해 상처를 입을 수 있으니 주의.
+③ 제품의 섭취 시 섭취량 및 섭취방법을 확인하고 섭취하여 주십시오.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>고려인삼과학주식회사</BSSH_NM>
+    <STDR_STND>1.성상: 미황색의 분말으로서 이미 이취가 없어야 함
+2. 진세노사이드 Rg1과 Rb1의 합: 표시량 24mg/ 6g의 80~150%
+3. 대장균군:음성</STDR_STND>
+    <DISPOS>미황색의 분말</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진②피로회복</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 36개월</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 서늘한 곳에 보관 · 유통.</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회, 1회 2스푼(1g/1스푼) 식전 또는 식후에 섭취하십시오</NTK_MTHD>
+    <RAWMTRL_NM>인삼분말(진세노사이드 Rg1과 Rb1의 합 4mg/g)</RAWMTRL_NM>
+  </row>
+  <row id="78">
+    <PRDLST_REPORT_NO>200600151445</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20060529</PRMS_DT>
+    <LAST_UPDT_DTM>20220121</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20060015144</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>홍삼분말골드</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>1. 당뇨치료제 및 혈액항응고제 복용 시 섭취에 주의
+2. 알레르기 체질 등은 개인에 따라 과민반응을 나타낼 수 있음
+3. 이상사례 발생 시 섭취를 중단하고 전문가와 상담할 것
+4. 포장재의 모서리에 손이 다치지 않도록 주의하십시오.
+본 제품은 건강기능식품으로 질병의 예방 및 치료를 위한 의약품이 아닙니다.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>포천인삼영농조합법인</BSSH_NM>
+    <STDR_STND>1. 성상 : 고유의 향미가 있고 이미, 이취가 없는 연노랑의 분말
+2. 진세노사이드 Rg1과 Rb1 및 Rg3의 합 : 표시량(48mg/6000mg)의 80% 이상
+3. 대장균군 : 음성</STDR_STND>
+    <DISPOS>고유의 향미가 있고 이미, 이취가 없는 연노랑의 분말</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진에 도움을 줄 수 있음②피로개선에 도움을 줄 수 있음③혈소판 응집 억제를 통한 혈액흐름에 도움을 줄 수 있음④기억력 개선에 도움을 줄 수 있음⑤항산화에 도움을 줄 수 있음
+ ⑥갱년기 여성의 건강에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 24개월</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회, 1회 2g씩 물에 희석하여 섭취하십시요.</NTK_MTHD>
+    <RAWMTRL_NM>홍삼분말(홍삼성분 20mg/g이상)(진세노사이드 Rg1과 Rb1 및 Rg3의 합 0.8%)</RAWMTRL_NM>
+  </row>
+  <row id="79">
+    <PRDLST_REPORT_NO>200600151446</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20060529</PRMS_DT>
+    <LAST_UPDT_DTM>20220107</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>과립</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20060015144</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>홍삼차골드</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>1. 당뇨치료제 및 혈액항응고제 복용 시 섭취에 주의
+2. 알레르기 체질 등은 개인에 따라 과민반응을 나타낼 수 있음
+3. 이상사례 발생 시 섭취를 중단하고 전문가와 상담할 것
+4. 티백의 모서리에 손이 다치지 않도록 주의하십시오.
+본 제품은 건강기능식품으로 질병의 예방 및 치료를 위한 의약품이 아닙니다.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>포천인삼영농조합법인</BSSH_NM>
+    <STDR_STND>1. 성상 : 고유의 향미가 있고 이미, 이취가 없는 흐린 황갈색의 과립상
+2. 진세노사이드 Rg1과 Rb1 및 Rg3의 합 : 표시량(9mg/9000mg)의 80% 이상
+3. 대장균군 : 음성</STDR_STND>
+    <DISPOS>고유의 향미가 있고 이미, 이취가 없는 흐린 황갈색의 과립상</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진에 도움을 줄 수 있음②피로개선에 도움을 줄 수 있음③혈소판 응집 억제를 통한 혈액흐름에 도움을 줄 수 있음④기억력 개선에 도움을 줄 수 있음⑤항산화에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 36개월</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회, 1회 1포(3g)씩 물에 희석하여 섭취하십시요</NTK_MTHD>
+    <RAWMTRL_NM>홍삼농축액(홍삼성분함량 70mg/g이상)(진세노사이드 Rg1과 Rb1 및 Rg3의 합 0.67%),무수결정포도당,유당</RAWMTRL_NM>
+  </row>
+  <row id="80">
+    <PRDLST_REPORT_NO>2004001503967</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20060607</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015039</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>고려홍삼분말</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>① 알레르기 체질이신 경우 성분을 확인 하신 후 섭취. ② 제품 개봉 또는 섭취 시 포장재에 의해 상처를 입을 수 있으니 주의. ③ 제품의 섭취 시 섭취량 및 섭취방법을 확인하고 섭취하여 주십시오.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>고려인삼과학주식회사</BSSH_NM>
+    <STDR_STND>1.성상: 미황색의 분말으로서 이미 이취가 없어야 함&#xD;
+2. 진세노사이드 Rg1, Rb1 및 Rg3의 합: 표시량 16mg/ 4g의 80~150%&#xD;
+3. 대장균군:음성</STDR_STND>
+    <DISPOS>미황색 분말</DISPOS>
+    <PRIMARY_FNCLTY>[홍삼제품]①면역력 증진에 도움을 줄 수 있음②피로개선에 도움을 줄 수 있음③혈소판 응집 억제를 통한 혈액흐름에 도움을 줄 수 있음④기억력 개선에 도움을 줄 수 있음⑤항산화에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 36개월</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 서늘한 곳에 보관·유통.</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회, 1회 2스푼(1g/1스푼)씩 식전 또는 식후에 섭취하십시오.</NTK_MTHD>
+    <RAWMTRL_NM>홍삼분말(진세노사이드 Rg1과 Rb1및 Rg3의 합 4mg/g)</RAWMTRL_NM>
+  </row>
+  <row id="81">
+    <PRDLST_REPORT_NO>200600151449</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20060713</PRMS_DT>
+    <LAST_UPDT_DTM>20161115</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20060015144</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>홍삼농축액캅셀골드</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>1) 알레르기 체질이신 경우 성분을 확인한 후 섭취여부를 결정하시기 바랍니다.
+2) 임산부나 12세 이하의 경우 의사와 상담한 후 섭취하시기 바랍니다.
+3) 제품 개봉시 포장재에 의해 상처를 입을 수 있사오니 주의하십시오.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>포천인삼영농조합법인</BSSH_NM>
+    <STDR_STND>1. 성상 : 갈색의 점조성 액상을 함유한 짙은 밤색의 연질캅셀
+2. 진세노사이드 Rg1과 Rb1 및 Rg3의 합 : 표시량(8.7mg/3300mg)의 80% 이상
+3. 대장균군 : 음성
+4. 붕해도 : 건강기능식품공전 III.2.1 붕해도시험의 캅셀시험법에 따라 20분내 붕해</STDR_STND>
+    <DISPOS>갈색의 점조한 액상을 함유한 짙은 밤색의 연질캅셀</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진에 도움을 줄 수 있음②피로개선에 도움을 줄 수 있음③혈소판 응집 억제를 통한 혈액흐름에 도움을 줄 수 있음④기억력 개선에 도움을 줄 수 있음⑤항산화에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 24개월</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회, 1회 2캅셀을 물과 함께 섭취하십시오.</NTK_MTHD>
+    <RAWMTRL_NM>홍삼(진세노사이드 Rg1과 Rb1 및 Rg3의 합 0.75%),젤라틴,글리세린,디-솔비톨액,이산화티타늄,에틸바닐린,식용색소 황색 제5호,식용색소 적색 제40호,식용색소 청색 제1호,식용색소황색 제4호,대두유,포도씨유,팜유,밀납,비타민E(dl-알파-토코페롤),대두레시틴,비타민B2(리보플라빈)</RAWMTRL_NM>
+  </row>
+  <row id="82">
+    <PRDLST_REPORT_NO>2006001514410</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20060713</PRMS_DT>
+    <LAST_UPDT_DTM>20221121</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>환</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20060015144</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>홍삼정환골드</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>1. 당뇨치료제 및 혈액항응고제 복용 시 섭취에 주의
+2. 알레르기 체질 등은 개인에 따라 과민반응을 나타낼 수 있음
+3. 이상사례 발생 시 섭취를 중단하고 전문가와 상담할 것
+4. 포장재의 모서리에 손이 다치지 않도록 주의하십시오.
+본 제품은 건강기능식품으로 질병의 예방 및 치료를 위한 의약품이 아닙니다.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>포천인삼영농조합법인</BSSH_NM>
+    <STDR_STND>1. 성상 : 진갈색의 환제
+2. 진세노사이드 Rg1과 Rb1 및 Rg3의 합 : 표시량(18mg/4320mg)의 80% 이상
+3. 대장균군 : 음성
+4. 붕해도 : 건강기능식품공전 III.2.1 붕해도시험의 환시험법에 따라 60분내 붕해</STDR_STND>
+    <DISPOS>진갈색의 환제</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진에 도움을 줄 수 있음②피로개선에 도움을 줄 수 있음③혈소판 응집 억제를 통한 혈액흐름에 도움을 줄 수 있음④기억력 개선에 도움을 줄 수 있음⑤항산화에 도움을 줄 수 있음&#xD;
+①면역력 증진②피로회복③혈소판 응집 억제를 통한 혈액흐름에 도움</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 24개월</POG_DAYCNT>
+    <CSTDY_MTHD />
+    <NTK_MTHD>1일 3회, 1회 8환씩 물과 함께 섭취하십시요.</NTK_MTHD>
+    <RAWMTRL_NM>홍삼분말 (홍삼성분 20mg/g이상)(진세노사이드 Rg1과 Rb1 및 Rg3의 합 0.8%),홍삼농축액(홍삼성분함량 70mg/g이상)(진세노사이드 Rg1과 Rb1 및 Rg3의 합 0.5%),벌꿀,이소말토올리고당,찹쌀분말</RAWMTRL_NM>
+  </row>
+  <row id="83">
+    <PRDLST_REPORT_NO>20040015107128</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20060720</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>과립</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015107</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>콘탑에프골드식이섬유</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>-제품의 내용물은 물에 타면 단시간내 걸쭉해지므로, 충분한 물로 내용물을 완전히 부풀린 후 섭취할 것
+-찬물이나 찬 음료에 타서 섭취하시는 것이 좋습니다.
+-입에 직접 털어 먹지 마십시오-질병을 치료 중이거나 알레르기 체질인 경우 의사와 상담 후 섭취여부를 결정.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)유유헬스케어</BSSH_NM>
+    <STDR_STND>1)성상 : 엷은 갈색의 과립으로 고유의 색택이나 향미를 가지며 이미, 이취가 없어야 함
+2)대장균군 : 음성
+3)식이섬유 : 차전자피로서(8g/8g)의 80~120%
+4)붕해도 : 적합 (건강기능식품공전 III.2 붕해도 시험의 캅셀제품 시험법에 따라 30분내에 붕해)</STDR_STND>
+    <DISPOS>엷은 갈색과립</DISPOS>
+    <PRIMARY_FNCLTY>1. 콜레스테롤 개선  2. 배변활동 원활</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 24개월</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하고 서늘한 곳에 보관</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회, 1회, 1포을 물과 함께 섭취.</NTK_MTHD>
+    <RAWMTRL_NM>차전자피분말(식이섬유함량 98%)</RAWMTRL_NM>
+  </row>
+  <row id="84">
+    <PRDLST_REPORT_NO>20040015107135</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20060920</PRMS_DT>
+    <LAST_UPDT_DTM>20170123</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>정</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015107</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>칼슘골드 오리지널</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기 체질인 경우 성분을 확인 한 후 섭취여부를 결정.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)유유헬스케어</BSSH_NM>
+    <STDR_STND>1. 성상 : 백색의 정제로 이미.이취가 없어야함
+2.칼슘  :표시량(250.25mg/1.3g)의 80~150%
+3. 납(mg/kg) : 3.0 이하(우골분, 패각분 등 소성칼슘을 사용한 경우)
+4. 대장균군  :음성
+5. 붕해도 : 적합  (건강기능식품공전 III.2 붕해도 시험의 정제제품 시험법에 따라 30분내에 붕해)</STDR_STND>
+    <DISPOS>이미 이취가 없고 특유의 향미가 있는 백색 정제</DISPOS>
+    <PRIMARY_FNCLTY>①뼈와 치아 형성에 필요②신경과 근육 기능 유지에 필요③정상적인 혈액응고에 필요④청년기 이전에 적절한 운동과 건강한 식습관을 유지하면서 충분한 칼슘을 섭취하면 향후 골다공증발생의 위험을 감소시킬 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 24개월</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하고 서늘한 곳에 보관.</CSTDY_MTHD>
+    <NTK_MTHD>1일 1회, 1회 2정씩 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>난각칼슘(Ca 35% 이상),녹색입홍합분말,상어연골분말,전분,포도당,유단백가수분해물(CPP 12% 이상),스테아린산마그네슘,자당지방산에스테르</RAWMTRL_NM>
+  </row>
+  <row id="85">
+    <PRDLST_REPORT_NO>20040015107137</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20060928</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015107</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>식이섬유화이버플러스</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>-제품의 내용물은 물에 타면 단시간내 걸쭉해지므로, 충분한 물로 내용물을 완전히 부풀린후 섭취할 것
+-찬물이나 찬 음료에 타서 섭취하시는 것이 좋습니다.
+-입에 직접 털어 먹지 마십시오-알레르기 체질인 경우 성분을 확인 한 후 섭취여부를 결정.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)유유헬스케어</BSSH_NM>
+    <STDR_STND>1)성상 : 엷은 갈색의 분말로 고유의 색택과 향미를 가지며 이미, 이취가 없어야 함
+2)대장균군 : 음성
+3)식이섬유 : 차전자피로서(8.4g/12g)의 80~120%</STDR_STND>
+    <DISPOS>이미,이취가 없고 특유의 향미가 있는 엷은 갈색의 분말</DISPOS>
+    <PRIMARY_FNCLTY>1. 콜레스테롤 개선  2. 배변활동 원활</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 24개월</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하고 서늘한 곳에 보관.</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회, 1회 1스푼을 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>차전자피분말 (식이섬유함량 85%),포도당,구연산</RAWMTRL_NM>
+  </row>
+  <row id="86">
+    <PRDLST_REPORT_NO>20040015107142</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20061017</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>과립</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015107</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>식이섬유화이버립</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>-제품의 내용물은 물에 타면 단시간내 걸쭉해지므로, 충분한 물로 내용물을 완전히 부풀린 후 섭취할 것
+-찬물이나 찬 음료에 타서 섭취하시는것이 좋습니다.
+-입에 직접 털어 먹지 마십시오-알레르기 체질인 경우 성분을 확인 한 후 섭취여부를 결정.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)유유헬스케어</BSSH_NM>
+    <STDR_STND>1)성상 : 엷은 갈색의 과립으로 고유의 색택과 향미를 가지며 이미, 이취가 없어야함
+2)대장균군 : 음성
+3)식이섬유 : 차전자피로서(8g/8g)의 80~120%
+4)붕해도 : 적합(건강기능식품공전 III.2 붕해도 시험의 과립제품 시험법에 따라 30분내에 붕해)</STDR_STND>
+    <DISPOS>이미,이취가 없고 특유의 향미가 있는 엷은 갈색과립</DISPOS>
+    <PRIMARY_FNCLTY>1. 콜레스테롤 개선  2. 배변활동 원활</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 24개월</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하고 서늘한 곳에 보관.</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회, 1회 1포를 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>차전자피분말 (식이섬유함량 85%)</RAWMTRL_NM>
+  </row>
+  <row id="87">
+    <PRDLST_REPORT_NO>20040015107143</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20061017</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>분말</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015107</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>식이섬유화이버올</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>-제품의 내용물은 물에 타면 단시간내 걸쭉해지므로, 충분한 물로 내용물을 완전히 부풀린 후 섭취할 것
+-찬물이나 찬 음료에 타서 섭취하시는 것이 좋습니다.
+-입에 직접 털어 먹지 마십시오-알레르기 체질인 경우 성분을 확인 한 후 섭취여부를 결정.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)유유헬스케어</BSSH_NM>
+    <STDR_STND>1)성상 : 엷은 갈색의 분말로 고유의 색택과 향미를 가지며 이미, 이취가 없어야 함&#xD;
+2)대장균군 : 음성&#xD;
+3)식이섬유 : 차전자피로서(12g/12g)의 80% 이상</STDR_STND>
+    <DISPOS>이미,이취가 없고 특유의 향미가 있는 엷은 갈색의 분말</DISPOS>
+    <PRIMARY_FNCLTY>1. 콜레스테롤 개선  2. 배변활동 원활</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 24개월</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하고 서늘한 곳에 보관.</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회, 1회 1스푼을 찬음료에 타서 저은 후 즉시 섭취</NTK_MTHD>
+    <RAWMTRL_NM>차전자피분말 (식이섬유함량 85%)</RAWMTRL_NM>
+  </row>
+  <row id="88">
+    <PRDLST_REPORT_NO>20040015107144</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20061017</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015107</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>키토올리고당100</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>임산부, 수유부, 환자, 영유아, 알레르기체질은 의사와 상담 후 섭취.게 또는 새우에 알레르기를 나타내는 사람은 섭취에 주의 추가</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)유유헬스케어</BSSH_NM>
+    <STDR_STND>1. 성상 : 황색분말을 내용물로 한 미황색의 경질캅셀로 고유의 색택과 향미를 가지며 이미. 이취가 없어야 함
+2. 키토산 또는 키토올리고당 : 표시량(1.5g/3g)의 80~120%
+(3) 중금속
+    (가) 납(mg/kg) : 3.0 이하
+    (나) 카드뮴(mg/kg) : 1.0 이하
+    (다) 총수은(mg/kg) : 1.0 이하
+4. 대장균군 : 음성
+5. 붕해도 : 적합(건강기능식품공전 III.2 붕해도 시험법에 따라 20분내에 붕해)</STDR_STND>
+    <DISPOS>이미 이취가 없고 특유의 향미가 있는 황색분말을 내용물로 한 미황색 경질캅셀</DISPOS>
+    <PRIMARY_FNCLTY>①콜레스테롤 개선</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 24개월</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 서늘한 곳에 보관
+제품의 향미에 영향을 줄 수 있는 다른 식품 또는 첨가물과 분리하여 섭취</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회, 1회 4캅셀을 물과 함께 섭취.</NTK_MTHD>
+    <RAWMTRL_NM>키토올리고당분말(키토올리고당함량 50%이상) ,젤라틴 ,이산화티타늄 ,식용색소황색4호 ,글리세린 ,빙초산</RAWMTRL_NM>
+  </row>
+  <row id="89">
+    <PRDLST_REPORT_NO>20040015107147</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20061107</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015107</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>오메가-3 EPA DHA 함유제품</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>임산부, 수유부, 환자, 영유아, 알레르기체질은 의사와 상담 후 섭취.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)유유헬스케어</BSSH_NM>
+    <STDR_STND>1. 성상 : 투명한 타원형 연질캅셀로 고유의 색택과 향미를 가지며 이미, 이취가 없어야 함
+2. EPA 및 DHA : 표시량(534.6mg/4.5g)이상
+                      (EPA6%, DHA6%,) 이상
+3. 대장균군 : 음성
+
+4. 중금속
+    (가) 납(mg/kg) : 3.0 이하
+    (나) 카드뮴(mg/kg) : 1.0 이하
+    (다) 총수은(mg/kg) : 0.5 이하
+5. 붕해도 : 적합(건강기능식품공전 III.2 붕해도 시험법에 따라 20분내에 붕해</STDR_STND>
+    <DISPOS>투명한 타원형 연질캅셀</DISPOS>
+    <PRIMARY_FNCLTY>①혈중 중성지질 개선②혈행개선</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 24개월</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 서늘한 곳에 보관
+제품의 향미에 영향을 줄 수 있는 다른 식품 또는 첨가물과 분리하여 섭취</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회, 1회 3캅셀</NTK_MTHD>
+    <RAWMTRL_NM>하프물범유(EPA 6%이상, DHA 6%이상) ,젤라틴 ,글리세린 ,혼합말티톨시럽 ,구연산 ,에틸바닐린(착향제) ,d-a-토코페롤 ,대두레시틴</RAWMTRL_NM>
+  </row>
+  <row id="90">
+    <PRDLST_REPORT_NO>20040015107154</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20061123</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015107</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>감마리놀렌산100</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>임산부, 수유부, 환자, 영유아, 알레르기체질은 의사와 상담 후 섭취.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)유유헬스케어</BSSH_NM>
+    <STDR_STND>1. 성상 : 황색 유동액을 내용물로한 황색 연질캅셀로 고유의 색택과 향미를 가지며 이미, 이취가 없어야 함&#xD;
+2. 감마리놀렌산 : 표시량(270mg/3g)이상 80~120%&#xD;
+3. 대장균군 : 음성&#xD;
+4. 붕해도 : 적합(건강기능식품공전 III.2 붕해도 시험의 캅셀제품 시험법에 따라 20분내에 붕해)</STDR_STND>
+    <DISPOS>이미 이취가 없는 황색 유동액을 내용물로 한 황색 연질캅셀</DISPOS>
+    <PRIMARY_FNCLTY>1. 콜레스테롤 개선  2. 혈행개선</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 24개월</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 서늘한 곳에 보관
+제품의 향미에 영향을 줄 수 있는 다른 식품 또는 첨가물과 분리하여 섭취</CSTDY_MTHD>
+    <NTK_MTHD>500mg 경우 : 1일 3회, 1회 2캅셀을 물과 함께 섭취하십시오.
+1000mg 경우 : 1일 3회, 1회 1캅셀을 물과 함께 섭취하십시오.</NTK_MTHD>
+    <RAWMTRL_NM>달맞이꽃종자유 (감마리놀렌산 4.75%이상) ,젤라틴 ,글리세린 ,D-소르비톨액</RAWMTRL_NM>
+  </row>
+  <row id="91">
+    <PRDLST_REPORT_NO>20040015107168</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20061226</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015107</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>콘탑캅셀식이섬유</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>-제품의 내용물은 물에 타면 단시간내 걸쭉해지므로, 충분한 물로 내용물을 완전히 부풀린후 섭취할 것
+-찬물이나 찬 음료에 타서 섭취하시는 것이 좋습니다.
+-입에 직접 털어 먹지 마십시오-임산부, 수유부, 환자, 영유아, 알레르기체질은 의사와 상담 후 섭취.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)유유헬스케어</BSSH_NM>
+    <STDR_STND>1)성상 : 엷은 갈색의 분말이 내용물을 함유한 투명 경질캅셀로 고유의 색택과 향미를 가지며 이미, 이취가 없어야 함
+2)대장균군 : 음성
+3)식이섬유 : 표시량(5.76g/6g)의 80~120%
+4)붕해도 : 적합(건강기능식품공전 III.2 붕해도 시험의 캅셀제품 시험법에 따라 20분내에 붕해)</STDR_STND>
+    <DISPOS>이미이취가 없고 고유의 향미가 있는 엷은갈색분말을 내용물로 한 투명경질캅셀</DISPOS>
+    <PRIMARY_FNCLTY>1. 콜레스테롤 개선  2. 배변활동 원활</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 24개월</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 서늘한 곳에 보관
+제품의 향미에 영향을 줄 수 있는 다른 식품 또는 첨가물과 분리하여 섭취</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회, 1회 6캅셀을 물과 함께 섭취.</NTK_MTHD>
+    <RAWMTRL_NM>차전자피분말(식이섬유함량 85%),젤라틴,자당지방산에스테르,빙초산,정제수,글루코만난</RAWMTRL_NM>
+  </row>
+  <row id="92">
+    <PRDLST_REPORT_NO>200500153683</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20070109</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20050015368</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>웰칼슘</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>① 알레르기 체질이신 경우 성분을 확인 한 후 섭취여부를 결정하여야 함.
+② 섭취시 목에 걸리거나 불편할 수 있으므로 반드시 물과 함께 섭취함.
+③ 섭취시 위장장애, 소화불량의 증상이 있을 경우 섭취를 중단함.
+④ 제품 개봉시 포장재에 의해 상처를 입을 수 있으니 주의함.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(재)춘천바이오산업진흥원</BSSH_NM>
+    <STDR_STND>(1) 성상 : 흰색의 분말을 함유한 베이지색의 경질캅셀
+(2) 칼슘 : 표시량 ( 132mg/0.84g- 1회 분량당)의 80~150%
+(3) 대장균군 : 음성
+(4) 붕해도 : 건강기능식품공전 III.2.1 붕해도시험법의 캅셀제품시험법에 따라 20분 내에 붕해</STDR_STND>
+    <DISPOS>흰색의 분말을 함유한 베이지색의 경질캅셀</DISPOS>
+    <PRIMARY_FNCLTY>①뼈와 치아 형성에 필요②신경과 근육 기능 유지에 필요③정상적인 혈액응고에 필요④청년기 이전에 적절한 운동과 건강한 식습관을 유지하면서 충분한 칼슘을 섭취하면 향후 골다공증발생의 위험을 감소시킬 수 있음&#xD;
+①뼈와 치아 형성에 필요②신경과 근육 기능 유지에 필요③정상적인 혈액응고에 필요④청년기 이전에 적절한 운동과 건강한 식습관을 유지하면서 충분한 칼슘을 섭취하면 향후 골다공증발생의 위험을 감소시킬 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>2년</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하고 서늘한 곳에 보관</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회, 1회 2캅셀을 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>유청칼슘(칼슘-25%),해조칼슘(칼슘-32%),젤라틴,아세트산,글리세린,이산화티타늄,황색4호,스테아린산마그네슘,비타민D3(비타민D3-0.275%, 디엘-알파토코페롤-0.0275%, 아카시아검-22%, 수크로오즈-36%, 옥수수전분-27%, 제3인산칼슘-0.5%, 식물성오일(코코넛오일)-10.6975%, 정제수-3.5%),결정셀룰로오즈,유당,말토덱스트린,유단백가수분해물</RAWMTRL_NM>
+  </row>
+  <row id="93">
+    <PRDLST_REPORT_NO>20040015107173</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20070117</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>과립</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015107</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>콘솔에프식이섬유</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>제품의 내용물은 물에 타면 단시간내 걸쭉해지므로, 충분한 물로 내용물을 완전히 부풀린 후 섭취할 것
+찬물이나 찬 음료에 타서 섭취하시는 것이 좋습니다.
+입에 직접 털어 먹지 마십시오임산부, 수유부, 환자, 영유아, 알레르기체질은 의사와 상담 후 섭취.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)유유헬스케어</BSSH_NM>
+    <STDR_STND>1)성상 : 갈색과립으로 이미, 이취가 없어야 함
+2)대장균군 : 음성
+3)식이섬유 : 차전자피로서(8g/8g)의 80~120%
+4)붕해도 : 적합(건강기능식품공전 III.2 붕해도 시험의 과립제품 시험법에 따라 30분내에 붕해)</STDR_STND>
+    <DISPOS>이미 이취가 없고 고유의 향미가 있는 갈색 과립</DISPOS>
+    <PRIMARY_FNCLTY>1. 콜레스테롤 개선  2. 배변활동 원활</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 24개월</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 서늘한 곳에 보관
+제품의 향미에 영향을 줄 수 있는 다른 식품 또는 첨가물과 분리하여 섭취</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회, 1회 1포를 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>차전자피분말(식이섬유함량 85%)</RAWMTRL_NM>
+  </row>
+  <row id="94">
+    <PRDLST_REPORT_NO>2004001503973</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20070122</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015039</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>해포린골드비타민(HEPOLIN GOLD VITAMIN, 전량수출용)</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>섭취시 위장장애, 소화불량, 이상반응 등의 증상이 있을 경우 섭취를 중단한다. PTP 개봉시 다칠 염려가 있으므로 주의하십시오.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>고려인삼과학주식회사</BSSH_NM>
+    <STDR_STND>1.성상: 황색유동액을 내용물로 한 갈색연질캅셀 으로서 이미,이취가 없어야 함
+2.비타민B1: 표시량 9.72mg/1,620mg의 80~180%
+3. 대장균군:음성
+4. 붕해도: 건강기능식품공전 III.2. 붕해도 시험의 캅셀제품 시험법에 따라 20분내에 붕해</STDR_STND>
+    <DISPOS>이미, 이취가 없고 고유의 향미가 있는 황색 유동액을 내용물로 한 노란색/적색의 연질캅셀</DISPOS>
+    <PRIMARY_FNCLTY>①탄수화물과 에너지 대사에 필요</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터36개월</POG_DAYCNT>
+    <CSTDY_MTHD>연질캅셀은 수분, 열에 의한 영향에 민감하므로 열원이나 직사광선을 피해 서늘한 곳에 보관 한다. 어린이의 손이 닿지 않는 곳에 보관한다.</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회, 1회1캅셀(810mg/1캅셀) 물과 함께 섭취하세요</NTK_MTHD>
+    <RAWMTRL_NM>비타민B1질산염(비타민B1으로81.0 %),젤라틴,글리세린,소르비톨,에틸바닐린,이산화티타늄,식용색소황색4호,식용색소적색3호,식용색소적색40호,식용색소청색1호,대두유,밀크씨슬추출물분말,황납,대두레시틴,판토텐산칼슘, 니코틴산아미드(나이아신으로97.0%),비타민B2(Ribofavin 98.0%이상),비타민B6염산염(비타민B6로서 82.0 %),비타민B12</RAWMTRL_NM>
+  </row>
+  <row id="95">
+    <PRDLST_REPORT_NO>2004001509454</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20070129</PRMS_DT>
+    <LAST_UPDT_DTM>20190903</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>과립</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015094</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>고려천인삼차</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>의약품과 함께 섭취금지.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)화인내츄럴</BSSH_NM>
+    <STDR_STND>1. 성상: 고유의 색택과 향미를 가지며 이미,이취가 없어야 함&#xD;
+2. 진세노사이드 Rg1과 Rb1의 합:표시량(4.05mg/9g)의 80~150%&#xD;
+3. 대장균군:음성</STDR_STND>
+    <DISPOS>연한갈색의 과립.</DISPOS>
+    <PRIMARY_FNCLTY>①면역력 증진②피로회복</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터3년까지</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 건냉암소에 보관.</CSTDY_MTHD>
+    <NTK_MTHD>1일3회, 1회1포(3g)을 온수나 냉수에 넣어 잘 저은 후 음용함</NTK_MTHD>
+    <RAWMTRL_NM>인삼농축액(진세노사이드 Rg1과 Rb1의 합: 0.45%),포도당,혼합유당(유당95%, 텍스트린5%)</RAWMTRL_NM>
+  </row>
+  <row id="96">
+    <PRDLST_REPORT_NO>2004001509453</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20070129</PRMS_DT>
+    <LAST_UPDT_DTM>20230201</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>과립</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015094</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>고려천홍삼차</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>당뇨치료제 및 혈액항응고제 복용 시 섭취에 주의
+알레르기 체질 등은 개인에 따라 과민반응을 나타낼 수 있음
+이상사례 발생 시 섭취를 중단하고 전문가와 상담할 것</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)화인내츄럴</BSSH_NM>
+    <STDR_STND>1. 성상: 고유의 색택과 향미를 가지며 이미,이취가 없어야 함&#xD;
+2. 진세노사이드 Rg1과 Rb1 및 Rg3의 합:표시량(3.6mg/9g)의 80~150%&#xD;
+3. 대장균군:음성</STDR_STND>
+    <DISPOS>연한갈색의 과립.</DISPOS>
+    <PRIMARY_FNCLTY>[홍삼제품]①면역력 증진에 도움을 줄 수 있음②피로개선에 도움을 줄 수 있음③혈소판 응집 억제를 통한 혈액흐름에 도움을 줄 수 있음④기억력 개선에 도움을 줄 수 있음⑤항산화에 도움을 줄 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 3년까지</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 건냉암소 보관하십시오.</CSTDY_MTHD>
+    <NTK_MTHD>1일3회, 1회1포(3g)을 온수나 냉수에 넣어 잘 저은 후 음용함</NTK_MTHD>
+    <RAWMTRL_NM>홍삼농축액(진세노사이드 Rg1과 Rb1 및 Rg3의 합: 0.4%),혼합유당(유당95%, 텍스트린5%),포도당,대추엑기스(고형분60%)</RAWMTRL_NM>
+  </row>
+  <row id="97">
+    <PRDLST_REPORT_NO>2004001516229</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20070207</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>정</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015162</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>정클로렐라</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기가 있으신 분은 섭취시 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)허브큐어</BSSH_NM>
+    <STDR_STND>1. 성상 : 진녹색의 원형정제로서 이미, 이취가 없어야 함.
+2.  총엽록소 :  표시량(10mg/1000mg)의 80~120%
+3. 납(mg/kg) : 3.0이하
+4.카드뮴(mg/kg) : 1.0이하
+5.총수은(mg/kg) : 0.5이하
+6.총 페오포르바이드(mg/kg) : 1,000이하
+7. 대장균군 : 음성
+8. 붕해도 : 건강기능식품공전 III.2 정제제품시험법에 따라 30분내에 붕해</STDR_STND>
+    <DISPOS>진녹색의 원형정제</DISPOS>
+    <PRIMARY_FNCLTY>1. 피부건강에 도움  2. 항산화작용</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>고온 다습, 직사광선을 피하고 건냉소에 보관한다.</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회 1회 5정 물과 함께 섭취</NTK_MTHD>
+    <RAWMTRL_NM>클로렐라원말(총 엽록소 10mg/g 이상)</RAWMTRL_NM>
+  </row>
+  <row id="98">
+    <PRDLST_REPORT_NO>2004001516230</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20070207</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>정</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015162</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>츄어블해조칼슘</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>알레르기가 있으신 분은 섭취시 주의</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)허브큐어</BSSH_NM>
+    <STDR_STND>1. 성상 : 백색의 원형정제로서 이미,이취가 없어야 함.
+2. 칼슘 : 표시량(220mg/2g)의 80~150%
+3. 대장균군 : 음성</STDR_STND>
+    <DISPOS>백색의 원형 정제</DISPOS>
+    <PRIMARY_FNCLTY>①뼈와 치아 형성에 필요②신경과 근육 기능 유지에 필요③정상적인 혈액응고에 필요④청년기 이전에 적절한 운동과 건강한 식습관을 유지하면서 충분한 칼슘을 섭취하면 향후 골다공증발생의 위험을 감소시킬 수 있음</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 2년</POG_DAYCNT>
+    <CSTDY_MTHD>고온 다습, 직사광선을 피하고 건냉소에 보관한다.</CSTDY_MTHD>
+    <NTK_MTHD>1일 2회 1회 4정 씹어서 섭취</NTK_MTHD>
+    <RAWMTRL_NM>해조칼슘분말(칼슘함량30%이상),요구르트혼합분말(농후발효유50%, 백설탕 29.5%, 말토덱스트린10%, 정제가공유지10%, 글리세린지방산에스테르0.5%),솔비톨,매실추출분말(매실추출액(고형분8%)95%,덱스트린5%),누룽지향분말[(옥수수향키베이스{(에스테르류(에틸아세테이트, 에틸미리스테이트)8.3%, 케톤류(아세토인, 메틸싸이클로펜텐올론)1.1%, 알데히드류(벤즈일데하이드, 바닐린)0.1%, 치오알콜류(  ,아스파탐,구연산,스테아린산마그네슘,비타민D3(비타민D3(2.5mg/g)0.25% DL-a-토코페롤0.2%, 중쇄지방산7.5%, 아라비아검38%, 자당38%, 옥수수전분16.05%),누룽지분말,프락토올리고당,자일리톨,말토덱스트린,산화마그네슘,결정셀룰로오스</RAWMTRL_NM>
+  </row>
+  <row id="99">
+    <PRDLST_REPORT_NO>20040015107187</PRDLST_REPORT_NO>
+    <SHAP />
+    <PRMS_DT>20070302</PRMS_DT>
+    <LAST_UPDT_DTM>20150522</LAST_UPDT_DTM>
+    <PRDT_SHAP_CD_NM>캡슐</PRDT_SHAP_CD_NM>
+    <LCNS_NO>20040015107</LCNS_NO>
+    <CRET_DTM>20150522</CRET_DTM>
+    <PRDLST_NM>그린웨이브 감마리놀렌산</PRDLST_NM>
+    <IFTKN_ATNT_MATR_CN>임산부, 수유부, 환자, 영유아, 알레르기체질은 의사와 상담 후 섭취.</IFTKN_ATNT_MATR_CN>
+    <BSSH_NM>(주)유유헬스케어</BSSH_NM>
+    <STDR_STND>1. 성상 : 분홍색 투명한 유동액을 내용물로 한 암적색 연질캅셀로 고유의 색택과 향미를 가지며 이미. 이취가 없어야 함
+2. 감마리놀렌산 : 표시량(259.2mg/4.8g)이상 80~120%
+3. 대장균군 : 음성
+4. 붕해도 : 적합(건강기능식품공전 III.2 붕해도 시험법에 따라 20분내에 붕해)</STDR_STND>
+    <DISPOS>이미 이취가 없는 분홍색투명한 유동액을 내용물로 한 암적색 연질캅셀</DISPOS>
+    <PRIMARY_FNCLTY>1. 콜레스테롤 개선  2. 혈행개선</PRIMARY_FNCLTY>
+    <POG_DAYCNT>제조일로부터 24개월</POG_DAYCNT>
+    <CSTDY_MTHD>직사광선을 피하여 서늘한 곳에 보관
+제품의 향미에 영향을 줄 수 있는 다른 식품 또는 첨가물과 분리하여 섭취</CSTDY_MTHD>
+    <NTK_MTHD>1일 3회, 1회 4캅셀을 물과 함께 섭취.</NTK_MTHD>
+    <RAWMTRL_NM>달맞이꽃종자유(감마리놀렌산 4.75% 이상) ,구연산 ,에틸바닐린 ,식용색소적색 40호 ,식용색소청색 1호 ,이산화티타늄 ,글리세린 ,폴리글리시톨시럽 ,젤라틴 ,대두유 ,황납 ,석류추출분말 ,d-a-토코페롤 ,대두발효추출분말 ,대두경황유 ,대두레시틴</RAWMTRL_NM>
+  </row>
+</C003>

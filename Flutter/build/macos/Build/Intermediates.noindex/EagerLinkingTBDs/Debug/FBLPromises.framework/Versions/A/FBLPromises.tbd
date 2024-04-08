@@ -1,0 +1,18 @@
+--- !tapi-tbd
+tbd-version:     4
+targets:         [ arm64-macos ]
+flags:           [ not_app_extension_safe ]
+install-name:    '@rpath/FBLPromises.framework/Versions/A/FBLPromises'
+exports:
+  - targets:         [ arm64-macos ]
+    symbols:         [ _FBLIncludeAllCategory, _FBLIncludeAlwaysCategory, _FBLIncludeAnyCategory, 
+                       _FBLIncludeAsyncCategory, _FBLIncludeAwaitCategory, _FBLIncludeCatchCategory, 
+                       _FBLIncludeDelayCategory, _FBLIncludeDoCategory, _FBLIncludeRaceCategory, 
+                       _FBLIncludeRecoverCategory, _FBLIncludeReduceCategory, _FBLIncludeRetryCategory, 
+                       _FBLIncludeTestingCategory, _FBLIncludeThenCategory, _FBLIncludeTimeoutCategory, 
+                       _FBLIncludeValidateCategory, _FBLIncludeWrapCategory, _FBLPromiseAwait, 
+                       _FBLPromiseErrorDomain, _FBLPromiseRetryDefaultAttemptsCount, 
+                       _FBLPromiseRetryDefaultDelayInterval, _FBLPromisesVersionNumber, 
+                       _FBLPromisesVersionString, _FBLWaitForPromisesWithTimeout ]
+    objc-classes:    [ FBLPromise, PodsDummy_PromisesObjC ]
+...

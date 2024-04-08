@@ -1,0 +1,405 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.example.third"
+4    android:versionCode="1"
+5    android:versionName="1.0.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+8-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml
+9        android:targetSdkVersion="33" />
+9-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml
+10
+11    <uses-permission android:name="android.permission.INTERNET" />
+11-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:2:5-66
+11-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:2:22-64
+12    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+12-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-81
+12-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:9:22-78
+13    <uses-permission android:name="android.permission.VIBRATE" />
+13-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:10:5-66
+13-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:10:22-63
+14    <uses-permission android:name="android.permission.USE_FULL_SCREEN_INTENT" />
+14-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:11:5-81
+14-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:11:22-78
+15    <uses-permission android:name="android.permission.SCHEDULE_EXACT_ALARM" />
+15-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:12:5-79
+15-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:12:22-76
+16    <uses-permission android:name="android.permission.POST_NOTIFICATIONS" />
+16-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:13:5-77
+16-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:13:22-74
+17
+18    <queries>
+18-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:9:5-24:15
+19        <package android:name="com.kakao.talk" />
+19-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-50
+19-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:10:18-47
+20        <package android:name="com.kakao.talk.alpha" />
+20-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:11:9-56
+20-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:11:18-53
+21        <package android:name="com.kakao.talk.sandbox" />
+21-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:12:9-58
+21-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:12:18-55
+22        <package android:name="com.kakao.onetalk" />
+22-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:13:9-53
+22-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:13:18-50
+23        <package android:name="com.locnall.KimGiSa" />
+23-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:14:9-55
+23-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:14:18-52
+24        <package android:name="com.lguplus.navi" />
+24-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:15:9-52
+24-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:15:18-49
+25
+26        <intent>
+26-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:17:9-23:18
+27            <action android:name="android.intent.action.VIEW" />
+27-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:13:17-69
+27-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:13:25-66
+28
+29            <category android:name="android.intent.category.BROWSABLE" />
+29-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:15:17-78
+29-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:15:27-75
+30
+31            <data android:scheme="https" />
+31-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:19:17-100
+31-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:19:23-77
+32        </intent>
+33        <!-- Needs to be explicitly declared on Android R+ -->
+34        <package android:name="com.google.android.apps.maps" />
+34-->[com.google.android.gms:play-services-maps:18.2.0] /Users/ljh/.gradle/caches/transforms-3/f28601ec52cdc08a62127ccabebcca44/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:33:9-64
+34-->[com.google.android.gms:play-services-maps:18.2.0] /Users/ljh/.gradle/caches/transforms-3/f28601ec52cdc08a62127ccabebcca44/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:33:18-61
+35    </queries>
+36
+37    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+37-->[com.google.firebase:firebase-auth:22.3.0] /Users/ljh/.gradle/caches/transforms-3/59c3375fd9e11c827922abb91b461128/transformed/jetified-firebase-auth-22.3.0/AndroidManifest.xml:26:5-79
+37-->[com.google.firebase:firebase-auth:22.3.0] /Users/ljh/.gradle/caches/transforms-3/59c3375fd9e11c827922abb91b461128/transformed/jetified-firebase-auth-22.3.0/AndroidManifest.xml:26:22-76
+38
+39    <uses-feature
+39-->[com.google.android.gms:play-services-maps:18.2.0] /Users/ljh/.gradle/caches/transforms-3/f28601ec52cdc08a62127ccabebcca44/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:26:5-28:35
+40        android:glEsVersion="0x00020000"
+40-->[com.google.android.gms:play-services-maps:18.2.0] /Users/ljh/.gradle/caches/transforms-3/f28601ec52cdc08a62127ccabebcca44/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:27:9-41
+41        android:required="true" />
+41-->[com.google.android.gms:play-services-maps:18.2.0] /Users/ljh/.gradle/caches/transforms-3/f28601ec52cdc08a62127ccabebcca44/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:28:9-32
+42
+43    <permission
+43-->[androidx.core:core:1.10.1] /Users/ljh/.gradle/caches/transforms-3/d2bdb852b4afb82627ab30e2565a0334/transformed/core-1.10.1/AndroidManifest.xml:22:5-24:47
+44        android:name="com.example.third.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION"
+44-->[androidx.core:core:1.10.1] /Users/ljh/.gradle/caches/transforms-3/d2bdb852b4afb82627ab30e2565a0334/transformed/core-1.10.1/AndroidManifest.xml:23:9-81
+45        android:protectionLevel="signature" />
+45-->[androidx.core:core:1.10.1] /Users/ljh/.gradle/caches/transforms-3/d2bdb852b4afb82627ab30e2565a0334/transformed/core-1.10.1/AndroidManifest.xml:24:9-44
+46
+47    <uses-permission android:name="com.example.third.DYNAMIC_RECEIVER_NOT_EXPORTED_PERMISSION" />
+47-->[androidx.core:core:1.10.1] /Users/ljh/.gradle/caches/transforms-3/d2bdb852b4afb82627ab30e2565a0334/transformed/core-1.10.1/AndroidManifest.xml:26:5-97
+47-->[androidx.core:core:1.10.1] /Users/ljh/.gradle/caches/transforms-3/d2bdb852b4afb82627ab30e2565a0334/transformed/core-1.10.1/AndroidManifest.xml:26:22-94
+48
+49    <application
+50        android:name="android.app.Application"
+50-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:6:9-42
+51        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+51-->[androidx.core:core:1.10.1] /Users/ljh/.gradle/caches/transforms-3/d2bdb852b4afb82627ab30e2565a0334/transformed/core-1.10.1/AndroidManifest.xml:28:18-86
+52        android:icon="@mipmap/ic_launcher"
+52-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:7:9-43
+53        android:label="third" >
+53-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:5:9-30
+54
+55        <!-- 카카오 로그인 커스텀 URL 스킴 설정 -->
+56        <activity
+56-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:9:9-21:20
+57            android:name="com.kakao.sdk.flutter.AuthCodeCustomTabsActivity"
+57-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:10:13-76
+58            android:exported="true"
+58-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:11:13-36
+59            android:launchMode="singleTask"
+59-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:36:13-44
+60            android:theme="@style/TransparentCompat" >
+60-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:37:13-53
+61            <intent-filter android:label="flutter_web_auth" >
+61-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:12:13-20:29
+61-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:12:28-60
+62                <action android:name="android.intent.action.VIEW" />
+62-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:13:17-69
+62-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:13:25-66
+63
+64                <category android:name="android.intent.category.DEFAULT" />
+64-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:14:17-76
+64-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:14:27-73
+65                <category android:name="android.intent.category.BROWSABLE" />
+65-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:15:17-78
+65-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:15:27-75
+66
+67                <!-- "kakao${YOUR_NATIVE_APP_KEY}://oauth" 형식의 앱 실행 스킴 설정 -->
+68                <!-- 카카오 로그인 Redirect URI -->
+69                <data
+69-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:19:17-100
+70                    android:host="oauth"
+70-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:19:78-98
+71                    android:scheme="kakao008e71896ceeac90f9ca92aabd609f32" />
+71-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:19:23-77
+72            </intent-filter>
+73        </activity>
+74        <activity
+74-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:24:9-44:20
+75            android:name="com.example.third.MainActivity"
+75-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:25:13-41
+76            android:configChanges="orientation|keyboardHidden|keyboard|screenSize|smallestScreenSize|locale|layoutDirection|fontScale|screenLayout|density|uiMode"
+76-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:29:13-163
+77            android:exported="true"
+77-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:26:13-36
+78            android:hardwareAccelerated="true"
+78-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:30:13-47
+79            android:launchMode="singleTop"
+79-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:27:13-43
+80            android:theme="@style/LaunchTheme"
+80-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:28:13-47
+81            android:windowSoftInputMode="adjustResize" >
+81-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:31:13-55
+82
+83            <!--
+84                 Specifies an Android theme to apply to this Activity as soon as
+85                 the Android process has started. This theme is visible to the user
+86                 while the Flutter UI initializes. After that, this theme continues
+87                 to determine the Window background behind the Flutter UI.
+88            -->
+89            <meta-data
+89-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:36:13-39:17
+90                android:name="io.flutter.embedding.android.NormalTheme"
+90-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:37:15-70
+91                android:resource="@style/NormalTheme" />
+91-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:38:15-52
+92
+93            <intent-filter>
+93-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:40:13-43:29
+94                <action android:name="android.intent.action.MAIN" />
+94-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:41:17-68
+94-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:41:25-66
+95
+96                <category android:name="android.intent.category.LAUNCHER" />
+96-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:42:17-76
+96-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:42:27-74
+97            </intent-filter>
+98        </activity>
+99        <!--
+100             Don't delete the meta-data below.
+101             This is used by the Flutter tool to generate GeneratedPluginRegistrant.java
+102        -->
+103        <meta-data
+103-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:47:9-49:33
+104            android:name="flutterEmbedding"
+104-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:48:13-44
+105            android:value="2" />
+105-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:49:13-30
+106        <meta-data
+106-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:51:9-53:71
+107            android:name="com.google.android.geo.API_KEY"
+107-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:52:13-58
+108            android:value="AIzaSyD02hCqsu2Yvux2CWAIkBZE_dmEQzzJ0L0" />
+108-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:53:13-68
+109
+110        <service
+110-->[:firebase_auth] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-14:19
+111            android:name="com.google.firebase.components.ComponentDiscoveryService"
+111-->[:firebase_auth] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:10:18-89
+112            android:directBootAware="true"
+112-->[com.google.firebase:firebase-common:20.4.2] /Users/ljh/.gradle/caches/transforms-3/b29de336eedfa9390b65176ca920839a/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:32:13-43
+113            android:exported="false" >
+113-->[com.google.firebase:firebase-auth:22.3.0] /Users/ljh/.gradle/caches/transforms-3/59c3375fd9e11c827922abb91b461128/transformed/jetified-firebase-auth-22.3.0/AndroidManifest.xml:68:13-37
+114            <meta-data
+114-->[:firebase_auth] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
+115                android:name="com.google.firebase.components:io.flutter.plugins.firebase.auth.FlutterFirebaseAuthRegistrar"
+115-->[:firebase_auth] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-124
+116                android:value="com.google.firebase.components.ComponentRegistrar" />
+116-->[:firebase_auth] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/firebase_auth/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
+117            <meta-data
+117-->[:firebase_core] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-13:85
+118                android:name="com.google.firebase.components:io.flutter.plugins.firebase.core.FlutterFirebaseCoreRegistrar"
+118-->[:firebase_core] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:12:17-124
+119                android:value="com.google.firebase.components.ComponentRegistrar" />
+119-->[:firebase_core] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/firebase_core/intermediates/merged_manifest/release/AndroidManifest.xml:13:17-82
+120            <meta-data
+120-->[com.google.firebase:firebase-auth:22.3.0] /Users/ljh/.gradle/caches/transforms-3/59c3375fd9e11c827922abb91b461128/transformed/jetified-firebase-auth-22.3.0/AndroidManifest.xml:69:13-71:85
+121                android:name="com.google.firebase.components:com.google.firebase.auth.FirebaseAuthRegistrar"
+121-->[com.google.firebase:firebase-auth:22.3.0] /Users/ljh/.gradle/caches/transforms-3/59c3375fd9e11c827922abb91b461128/transformed/jetified-firebase-auth-22.3.0/AndroidManifest.xml:70:17-109
+122                android:value="com.google.firebase.components.ComponentRegistrar" />
+122-->[com.google.firebase:firebase-auth:22.3.0] /Users/ljh/.gradle/caches/transforms-3/59c3375fd9e11c827922abb91b461128/transformed/jetified-firebase-auth-22.3.0/AndroidManifest.xml:71:17-82
+123            <meta-data
+123-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/ljh/.gradle/caches/transforms-3/5cf447b53140afab14b56a97eba55473/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:12:13-14:85
+124                android:name="com.google.firebase.components:com.google.firebase.ktx.FirebaseCommonLegacyRegistrar"
+124-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/ljh/.gradle/caches/transforms-3/5cf447b53140afab14b56a97eba55473/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:13:17-116
+125                android:value="com.google.firebase.components.ComponentRegistrar" />
+125-->[com.google.firebase:firebase-common-ktx:20.4.2] /Users/ljh/.gradle/caches/transforms-3/5cf447b53140afab14b56a97eba55473/transformed/jetified-firebase-common-ktx-20.4.2/AndroidManifest.xml:14:17-82
+126            <meta-data
+126-->[com.google.firebase:firebase-common:20.4.2] /Users/ljh/.gradle/caches/transforms-3/b29de336eedfa9390b65176ca920839a/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:35:13-37:85
+127                android:name="com.google.firebase.components:com.google.firebase.FirebaseCommonKtxRegistrar"
+127-->[com.google.firebase:firebase-common:20.4.2] /Users/ljh/.gradle/caches/transforms-3/b29de336eedfa9390b65176ca920839a/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:36:17-109
+128                android:value="com.google.firebase.components.ComponentRegistrar" />
+128-->[com.google.firebase:firebase-common:20.4.2] /Users/ljh/.gradle/caches/transforms-3/b29de336eedfa9390b65176ca920839a/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:37:17-82
+129        </service>
+130
+131        <receiver
+131-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:16:9-18:40
+132            android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationReceiver"
+132-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:17:13-97
+133            android:exported="false" />
+133-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:18:13-37
+134        <receiver
+134-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:19:9-28:20
+135            android:name="com.dexterous.flutterlocalnotifications.ScheduledNotificationBootReceiver"
+135-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:20:13-101
+136            android:exported="false" >
+136-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:21:13-37
+137            <intent-filter>
+137-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:22:13-27:29
+138                <action android:name="android.intent.action.BOOT_COMPLETED" />
+138-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:23:17-79
+138-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:23:25-76
+139                <action android:name="android.intent.action.MY_PACKAGE_REPLACED" />
+139-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:24:17-84
+139-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:24:25-81
+140                <action android:name="android.intent.action.QUICKBOOT_POWERON" />
+140-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:25:17-82
+140-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:25:25-79
+141                <action android:name="com.htc.intent.action.QUICKBOOT_POWERON" />
+141-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:26:17-82
+141-->[:flutter_local_notifications] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/flutter_local_notifications/intermediates/merged_manifest/release/AndroidManifest.xml:26:25-79
+142            </intent-filter>
+143        </receiver>
+144
+145        <activity
+145-->[:url_launcher_android] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:10:9-13:74
+146            android:name="io.flutter.plugins.urllauncher.WebViewActivity"
+146-->[:url_launcher_android] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:11:13-74
+147            android:exported="false"
+147-->[:url_launcher_android] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:12:13-37
+148            android:theme="@android:style/Theme.NoTitleBar.Fullscreen" />
+148-->[:url_launcher_android] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/url_launcher_android/intermediates/merged_manifest/release/AndroidManifest.xml:13:13-71
+149        <activity
+149-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:27:9-32:56
+150            android:name="com.kakao.sdk.flutter.TalkAuthCodeActivity"
+150-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:28:13-70
+151            android:configChanges="orientation|screenSize|keyboardHidden|uiMode"
+151-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:29:13-81
+152            android:exported="false"
+152-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:30:13-37
+153            android:launchMode="singleTask"
+153-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:31:13-44
+154            android:theme="@style/TransparentCompat" />
+154-->[:kakao_flutter_sdk_common] /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/kakao_flutter_sdk_common/intermediates/merged_manifest/release/AndroidManifest.xml:32:13-53
+155        <activity
+155-->[com.google.firebase:firebase-auth:22.3.0] /Users/ljh/.gradle/caches/transforms-3/59c3375fd9e11c827922abb91b461128/transformed/jetified-firebase-auth-22.3.0/AndroidManifest.xml:29:9-46:20
+156            android:name="com.google.firebase.auth.internal.GenericIdpActivity"
+156-->[com.google.firebase:firebase-auth:22.3.0] /Users/ljh/.gradle/caches/transforms-3/59c3375fd9e11c827922abb91b461128/transformed/jetified-firebase-auth-22.3.0/AndroidManifest.xml:30:13-80
+157            android:excludeFromRecents="true"
+157-->[com.google.firebase:firebase-auth:22.3.0] /Users/ljh/.gradle/caches/transforms-3/59c3375fd9e11c827922abb91b461128/transformed/jetified-firebase-auth-22.3.0/AndroidManifest.xml:31:13-46
+158            android:exported="true"
+158-->[com.google.firebase:firebase-auth:22.3.0] /Users/ljh/.gradle/caches/transforms-3/59c3375fd9e11c827922abb91b461128/transformed/jetified-firebase-auth-22.3.0/AndroidManifest.xml:32:13-36
+159            android:launchMode="singleTask"
+159-->[com.google.firebase:firebase-auth:22.3.0] /Users/ljh/.gradle/caches/transforms-3/59c3375fd9e11c827922abb91b461128/transformed/jetified-firebase-auth-22.3.0/AndroidManifest.xml:33:13-44
+160            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+160-->[com.google.firebase:firebase-auth:22.3.0] /Users/ljh/.gradle/caches/transforms-3/59c3375fd9e11c827922abb91b461128/transformed/jetified-firebase-auth-22.3.0/AndroidManifest.xml:34:13-72
+161            <intent-filter>
+161-->[com.google.firebase:firebase-auth:22.3.0] /Users/ljh/.gradle/caches/transforms-3/59c3375fd9e11c827922abb91b461128/transformed/jetified-firebase-auth-22.3.0/AndroidManifest.xml:35:13-45:29
+162                <action android:name="android.intent.action.VIEW" />
+162-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:13:17-69
+162-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:13:25-66
+163
+164                <category android:name="android.intent.category.DEFAULT" />
+164-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:14:17-76
+164-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:14:27-73
+165                <category android:name="android.intent.category.BROWSABLE" />
+165-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:15:17-78
+165-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:15:27-75
+166
+167                <data
+167-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:19:17-100
+168                    android:host="firebase.auth"
+168-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:19:78-98
+169                    android:path="/"
+170                    android:scheme="genericidp" />
+170-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:19:23-77
+171            </intent-filter>
+172        </activity>
+173        <activity
+173-->[com.google.firebase:firebase-auth:22.3.0] /Users/ljh/.gradle/caches/transforms-3/59c3375fd9e11c827922abb91b461128/transformed/jetified-firebase-auth-22.3.0/AndroidManifest.xml:47:9-64:20
+174            android:name="com.google.firebase.auth.internal.RecaptchaActivity"
+174-->[com.google.firebase:firebase-auth:22.3.0] /Users/ljh/.gradle/caches/transforms-3/59c3375fd9e11c827922abb91b461128/transformed/jetified-firebase-auth-22.3.0/AndroidManifest.xml:48:13-79
+175            android:excludeFromRecents="true"
+175-->[com.google.firebase:firebase-auth:22.3.0] /Users/ljh/.gradle/caches/transforms-3/59c3375fd9e11c827922abb91b461128/transformed/jetified-firebase-auth-22.3.0/AndroidManifest.xml:49:13-46
+176            android:exported="true"
+176-->[com.google.firebase:firebase-auth:22.3.0] /Users/ljh/.gradle/caches/transforms-3/59c3375fd9e11c827922abb91b461128/transformed/jetified-firebase-auth-22.3.0/AndroidManifest.xml:50:13-36
+177            android:launchMode="singleTask"
+177-->[com.google.firebase:firebase-auth:22.3.0] /Users/ljh/.gradle/caches/transforms-3/59c3375fd9e11c827922abb91b461128/transformed/jetified-firebase-auth-22.3.0/AndroidManifest.xml:51:13-44
+178            android:theme="@android:style/Theme.Translucent.NoTitleBar" >
+178-->[com.google.firebase:firebase-auth:22.3.0] /Users/ljh/.gradle/caches/transforms-3/59c3375fd9e11c827922abb91b461128/transformed/jetified-firebase-auth-22.3.0/AndroidManifest.xml:52:13-72
+179            <intent-filter>
+179-->[com.google.firebase:firebase-auth:22.3.0] /Users/ljh/.gradle/caches/transforms-3/59c3375fd9e11c827922abb91b461128/transformed/jetified-firebase-auth-22.3.0/AndroidManifest.xml:53:13-63:29
+180                <action android:name="android.intent.action.VIEW" />
+180-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:13:17-69
+180-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:13:25-66
+181
+182                <category android:name="android.intent.category.DEFAULT" />
+182-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:14:17-76
+182-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:14:27-73
+183                <category android:name="android.intent.category.BROWSABLE" />
+183-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:15:17-78
+183-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:15:27-75
+184
+185                <data
+185-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:19:17-100
+186                    android:host="firebase.auth"
+186-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:19:78-98
+187                    android:path="/"
+188                    android:scheme="recaptcha" />
+188-->/Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/android/app/src/main/AndroidManifest.xml:19:23-77
+189            </intent-filter>
+190        </activity>
+191
+192        <provider
+192-->[com.google.firebase:firebase-common:20.4.2] /Users/ljh/.gradle/caches/transforms-3/b29de336eedfa9390b65176ca920839a/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:23:9-28:39
+193            android:name="com.google.firebase.provider.FirebaseInitProvider"
+193-->[com.google.firebase:firebase-common:20.4.2] /Users/ljh/.gradle/caches/transforms-3/b29de336eedfa9390b65176ca920839a/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:24:13-77
+194            android:authorities="com.example.third.firebaseinitprovider"
+194-->[com.google.firebase:firebase-common:20.4.2] /Users/ljh/.gradle/caches/transforms-3/b29de336eedfa9390b65176ca920839a/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:25:13-72
+195            android:directBootAware="true"
+195-->[com.google.firebase:firebase-common:20.4.2] /Users/ljh/.gradle/caches/transforms-3/b29de336eedfa9390b65176ca920839a/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:26:13-43
+196            android:exported="false"
+196-->[com.google.firebase:firebase-common:20.4.2] /Users/ljh/.gradle/caches/transforms-3/b29de336eedfa9390b65176ca920839a/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:27:13-37
+197            android:initOrder="100" />
+197-->[com.google.firebase:firebase-common:20.4.2] /Users/ljh/.gradle/caches/transforms-3/b29de336eedfa9390b65176ca920839a/transformed/jetified-firebase-common-20.4.2/AndroidManifest.xml:28:13-36
+198
+199        <uses-library
+199-->[androidx.window:window:1.0.0-beta04] /Users/ljh/.gradle/caches/transforms-3/18aed9bf87fc054bde2369bbce815f68/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:25:9-27:40
+200            android:name="androidx.window.extensions"
+200-->[androidx.window:window:1.0.0-beta04] /Users/ljh/.gradle/caches/transforms-3/18aed9bf87fc054bde2369bbce815f68/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:26:13-54
+201            android:required="false" />
+201-->[androidx.window:window:1.0.0-beta04] /Users/ljh/.gradle/caches/transforms-3/18aed9bf87fc054bde2369bbce815f68/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:27:13-37
+202        <uses-library
+202-->[androidx.window:window:1.0.0-beta04] /Users/ljh/.gradle/caches/transforms-3/18aed9bf87fc054bde2369bbce815f68/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:28:9-30:40
+203            android:name="androidx.window.sidecar"
+203-->[androidx.window:window:1.0.0-beta04] /Users/ljh/.gradle/caches/transforms-3/18aed9bf87fc054bde2369bbce815f68/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:29:13-51
+204            android:required="false" /> <!-- Needs to be explicitly declared on P+ -->
+204-->[androidx.window:window:1.0.0-beta04] /Users/ljh/.gradle/caches/transforms-3/18aed9bf87fc054bde2369bbce815f68/transformed/jetified-window-1.0.0-beta04/AndroidManifest.xml:30:13-37
+205        <uses-library
+205-->[com.google.android.gms:play-services-maps:18.2.0] /Users/ljh/.gradle/caches/transforms-3/f28601ec52cdc08a62127ccabebcca44/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:39:9-41:40
+206            android:name="org.apache.http.legacy"
+206-->[com.google.android.gms:play-services-maps:18.2.0] /Users/ljh/.gradle/caches/transforms-3/f28601ec52cdc08a62127ccabebcca44/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:40:13-50
+207            android:required="false" />
+207-->[com.google.android.gms:play-services-maps:18.2.0] /Users/ljh/.gradle/caches/transforms-3/f28601ec52cdc08a62127ccabebcca44/transformed/jetified-play-services-maps-18.2.0/AndroidManifest.xml:41:13-37
+208
+209        <activity
+209-->[com.google.android.gms:play-services-base:18.0.1] /Users/ljh/.gradle/caches/transforms-3/f46872f19fc48f4d97e8ffc9ee9d6807/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+210            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+210-->[com.google.android.gms:play-services-base:18.0.1] /Users/ljh/.gradle/caches/transforms-3/f46872f19fc48f4d97e8ffc9ee9d6807/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+211            android:exported="false"
+211-->[com.google.android.gms:play-services-base:18.0.1] /Users/ljh/.gradle/caches/transforms-3/f46872f19fc48f4d97e8ffc9ee9d6807/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+212            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+212-->[com.google.android.gms:play-services-base:18.0.1] /Users/ljh/.gradle/caches/transforms-3/f46872f19fc48f4d97e8ffc9ee9d6807/transformed/jetified-play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+213
+214        <meta-data
+214-->[com.google.android.gms:play-services-basement:18.1.0] /Users/ljh/.gradle/caches/transforms-3/98537e5ec70bbb9b95a3c4905239e936/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:21:9-23:69
+215            android:name="com.google.android.gms.version"
+215-->[com.google.android.gms:play-services-basement:18.1.0] /Users/ljh/.gradle/caches/transforms-3/98537e5ec70bbb9b95a3c4905239e936/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:22:13-58
+216            android:value="@integer/google_play_services_version" />
+216-->[com.google.android.gms:play-services-basement:18.1.0] /Users/ljh/.gradle/caches/transforms-3/98537e5ec70bbb9b95a3c4905239e936/transformed/jetified-play-services-basement-18.1.0/AndroidManifest.xml:23:13-66
+217    </application>
+218
+219</manifest>

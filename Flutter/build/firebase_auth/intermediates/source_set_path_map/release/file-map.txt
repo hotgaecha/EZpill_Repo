@@ -1,0 +1,17 @@
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-1.0.0-beta04-0 /Users/ljh/.gradle/caches/transforms-3/18aed9bf87fc054bde2369bbce815f68/transformed/jetified-window-1.0.0-beta04/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-annotation-experimental-1.1.0-1 /Users/ljh/.gradle/caches/transforms-3/33edf3ee0517c86776bd6cb7682045f3/transformed/jetified-annotation-experimental-1.1.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-browser-1.4.0-2 /Users/ljh/.gradle/caches/transforms-3/3d4b5db11bf2fad537013066bd937ed1/transformed/browser-1.4.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-basement-18.1.0-3 /Users/ljh/.gradle/caches/transforms-3/98537e5ec70bbb9b95a3c4905239e936/transformed/jetified-play-services-basement-18.1.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-firebase-common-20.4.2-4 /Users/ljh/.gradle/caches/transforms-3/b29de336eedfa9390b65176ca920839a/transformed/jetified-firebase-common-20.4.2/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-window-java-1.0.0-beta04-5 /Users/ljh/.gradle/caches/transforms-3/c432125e31208403c91c32696aef3709/transformed/jetified-window-java-1.0.0-beta04/res
+io.flutter.plugins.firebase.auth.firebase_auth-core-1.6.0-6 /Users/ljh/.gradle/caches/transforms-3/cfb1b99aff7ad9cf4c1b8532c6075063/transformed/core-1.6.0/res
+io.flutter.plugins.firebase.auth.firebase_auth-jetified-play-services-base-18.0.1-7 /Users/ljh/.gradle/caches/transforms-3/f46872f19fc48f4d97e8ffc9ee9d6807/transformed/jetified-play-services-base-18.0.1/res
+io.flutter.plugins.firebase.auth.firebase_auth-main-8 /Users/ljh/.pub-cache/hosted/pub.dev/firebase_auth-4.14.1/android/src/main/res
+io.flutter.plugins.firebase.auth.firebase_auth-release-9 /Users/ljh/.pub-cache/hosted/pub.dev/firebase_auth-4.14.1/android/src/release/res
+io.flutter.plugins.firebase.auth.firebase_auth-pngs-10 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/firebase_auth/generated/res/pngs/release
+io.flutter.plugins.firebase.auth.firebase_auth-resValues-11 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/firebase_auth/generated/res/resValues/release
+io.flutter.plugins.firebase.auth.firebase_auth-rs-12 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/firebase_auth/generated/res/rs/release
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-13 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/firebase_auth/intermediates/incremental/release/mergeReleaseResources/merged.dir
+io.flutter.plugins.firebase.auth.firebase_auth-mergeReleaseResources-14 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/firebase_auth/intermediates/incremental/release/mergeReleaseResources/stripped.dir
+io.flutter.plugins.firebase.auth.firebase_auth-merged_res-15 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/firebase_auth/intermediates/merged_res/release
+io.flutter.plugins.firebase.auth.firebase_auth-packaged_res-16 /Users/ljh/Desktop/AWS/kakao/gaza 3 2 3 2/build/firebase_core/intermediates/packaged_res/release

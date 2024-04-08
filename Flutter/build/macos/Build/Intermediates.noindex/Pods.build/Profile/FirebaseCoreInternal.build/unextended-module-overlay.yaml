@@ -1,0 +1,23 @@
+{
+  'version': 0,
+  'use-external-names': 'false',
+  'case-sensitive': 'false',
+  'roots': [{
+    'type': 'directory',
+    'name': "/Users/ljh/Desktop/AWS/kakao/ezpill/build/macos/Build/Products/Profile/FirebaseCoreInternal/FirebaseCoreInternal.framework/Modules"
+    'contents': [{
+      'type': 'file',
+      'name': "module.modulemap",
+      'external-contents': "/Users/ljh/Desktop/AWS/kakao/ezpill/build/macos/Build/Intermediates.noindex/Pods.build/Profile/FirebaseCoreInternal.build/unextended-module.modulemap",
+    }]
+    },
+    {
+    'type': 'directory',
+    'name': "/Users/ljh/Desktop/AWS/kakao/ezpill/build/macos/Build/Products/Profile/FirebaseCoreInternal/FirebaseCoreInternal.framework/Headers"
+    'contents': [{
+      'type': 'file',
+      'name': "FirebaseCoreInternal-Swift.h",
+      'external-contents': "/Users/ljh/Desktop/AWS/kakao/ezpill/build/macos/Build/Intermediates.noindex/Pods.build/Profile/FirebaseCoreInternal.build/unextended-interface-header.h",
+    }]
+    }]
+}

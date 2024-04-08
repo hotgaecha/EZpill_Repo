@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.8.1 (swiftlang-5.8.0.124.5 clang-1403.0.22.11.100)"
+options: "c566987a3f3879e9a516bf9ca3853ee129e6e10e7a9a9f282c8bb506312916d3"
+build_start_time: [1702028643, 229351000]
+build_end_time: [1702028650, 688239000]
+inputs:
+  "/Users/ljh/Desktop/AWS/kakao/ezpill/macos/Flutter/GeneratedPluginRegistrant.swift": [1702028556, 331548175]
+  "/Users/ljh/Desktop/AWS/kakao/ezpill/macos/Runner/AppDelegate.swift": [1699183518, 0]
+  "/Users/ljh/Desktop/AWS/kakao/ezpill/macos/Runner/MainFlutterWindow.swift": [1699183518, 0]

@@ -1,0 +1,81 @@
+Target dependency graph (18 targets)
+PromisesObjC in Pods, no dependencies
+FMDB in Pods, no dependencies
+FirebaseAppCheckInterop in Pods, no dependencies
+GoogleUtilities in Pods, depends on:
+PromisesObjC in Pods (explicit)
+FirebaseCoreInternal in Pods, depends on:
+GoogleUtilities in Pods (explicit)
+FirebaseCore in Pods, depends on:
+FirebaseCoreInternal in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+GTMSessionFetcher in Pods, no dependencies
+FirebaseAuth in Pods, depends on:
+FirebaseAppCheckInterop in Pods (explicit)
+FirebaseCore in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+Firebase in Pods, depends on:
+FirebaseAuth in Pods (explicit)
+FirebaseCore in Pods (explicit)
+FlutterMacOS in Pods, no dependencies
+firebase_core in Pods, depends on:
+Firebase in Pods (explicit)
+FlutterMacOS in Pods (explicit)
+firebase_auth in Pods, depends on:
+Firebase in Pods (explicit)
+FlutterMacOS in Pods (explicit)
+firebase_core in Pods (explicit)
+shared_preferences_foundation in Pods, depends on:
+FlutterMacOS in Pods (explicit)
+sqflite in Pods, depends on:
+FMDB in Pods (explicit)
+FlutterMacOS in Pods (explicit)
+url_launcher_macos in Pods, depends on:
+FlutterMacOS in Pods (explicit)
+Flutter Assemble in Runner, depends on:
+PromisesObjC in Pods (implicit dependency via options '-framework FBLPromises' in build setting 'OTHER_LDFLAGS')
+FMDB in Pods (implicit dependency via options '-framework FMDB' in build setting 'OTHER_LDFLAGS')
+FirebaseAppCheckInterop in Pods (implicit dependency via options '-framework FirebaseAppCheckInterop' in build setting 'OTHER_LDFLAGS')
+FirebaseAuth in Pods (implicit dependency via options '-framework FirebaseAuth' in build setting 'OTHER_LDFLAGS')
+FirebaseCore in Pods (implicit dependency via options '-framework FirebaseCore' in build setting 'OTHER_LDFLAGS')
+FirebaseCoreInternal in Pods (implicit dependency via options '-framework FirebaseCoreInternal' in build setting 'OTHER_LDFLAGS')
+GTMSessionFetcher in Pods (implicit dependency via options '-framework GTMSessionFetcher' in build setting 'OTHER_LDFLAGS')
+GoogleUtilities in Pods (implicit dependency via options '-framework GoogleUtilities' in build setting 'OTHER_LDFLAGS')
+firebase_auth in Pods (implicit dependency via options '-framework firebase_auth' in build setting 'OTHER_LDFLAGS')
+firebase_core in Pods (implicit dependency via options '-framework firebase_core' in build setting 'OTHER_LDFLAGS')
+shared_preferences_foundation in Pods (implicit dependency via options '-framework shared_preferences_foundation' in build setting 'OTHER_LDFLAGS')
+sqflite in Pods (implicit dependency via options '-framework sqflite' in build setting 'OTHER_LDFLAGS')
+url_launcher_macos in Pods (implicit dependency via options '-framework url_launcher_macos' in build setting 'OTHER_LDFLAGS')
+Pods-Runner in Pods, depends on:
+FMDB in Pods (explicit)
+Firebase in Pods (explicit)
+FirebaseAppCheckInterop in Pods (explicit)
+FirebaseAuth in Pods (explicit)
+FirebaseCore in Pods (explicit)
+FirebaseCoreInternal in Pods (explicit)
+FlutterMacOS in Pods (explicit)
+GTMSessionFetcher in Pods (explicit)
+GoogleUtilities in Pods (explicit)
+PromisesObjC in Pods (explicit)
+firebase_auth in Pods (explicit)
+firebase_core in Pods (explicit)
+shared_preferences_foundation in Pods (explicit)
+sqflite in Pods (explicit)
+url_launcher_macos in Pods (explicit)
+Runner in Runner, depends on:
+Flutter Assemble in Runner (explicit)
+Pods-Runner in Pods (implicit dependency via file 'Pods_Runner.framework' in build phase 'Link Binary')
+PromisesObjC in Pods (implicit dependency via options '-framework FBLPromises' in build setting 'OTHER_LDFLAGS')
+FMDB in Pods (implicit dependency via options '-framework FMDB' in build setting 'OTHER_LDFLAGS')
+FirebaseAppCheckInterop in Pods (implicit dependency via options '-framework FirebaseAppCheckInterop' in build setting 'OTHER_LDFLAGS')
+FirebaseAuth in Pods (implicit dependency via options '-framework FirebaseAuth' in build setting 'OTHER_LDFLAGS')
+FirebaseCore in Pods (implicit dependency via options '-framework FirebaseCore' in build setting 'OTHER_LDFLAGS')
+FirebaseCoreInternal in Pods (implicit dependency via options '-framework FirebaseCoreInternal' in build setting 'OTHER_LDFLAGS')
+GTMSessionFetcher in Pods (implicit dependency via options '-framework GTMSessionFetcher' in build setting 'OTHER_LDFLAGS')
+GoogleUtilities in Pods (implicit dependency via options '-framework GoogleUtilities' in build setting 'OTHER_LDFLAGS')
+firebase_auth in Pods (implicit dependency via options '-framework firebase_auth' in build setting 'OTHER_LDFLAGS')
+firebase_core in Pods (implicit dependency via options '-framework firebase_core' in build setting 'OTHER_LDFLAGS')
+shared_preferences_foundation in Pods (implicit dependency via options '-framework shared_preferences_foundation' in build setting 'OTHER_LDFLAGS')
+sqflite in Pods (implicit dependency via options '-framework sqflite' in build setting 'OTHER_LDFLAGS')
+url_launcher_macos in Pods (implicit dependency via options '-framework url_launcher_macos' in build setting 'OTHER_LDFLAGS')
