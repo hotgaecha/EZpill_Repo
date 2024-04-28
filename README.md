@@ -1,9 +1,9 @@
-# EZpill_Repo
+
 # <img src = 'https://github.com/hotgaecha/EZpill/assets/100944467/0e5aee4d-be79-4f65-9fa0-1d80c9d524ff' width = '50px'> EZpill 
 
 ### EZpill은 영양제를 사용자에 맞게 조합하고, 약국에서 주는 약봉지처럼 소분합니다.
 ### 또한 사용자가 쉽게 영양제를 섭취할 수 있도록 정기배송해 주는 서비스입니다.
-### 타깃층을 좁히기 위해 임산부에 맞게 설계되었으며, 추후에 모든 사람을 고려하여 개발될 예정입니다.
+### 임산부에 맞게 설계되었으며, 추후에 모든 사람을 고려하여 개발될 예정입니다.
 
 🔗 Link
 - EZpill.apk 👉🏻 https://drive.google.com/file/d/15kgZZmHJlFffYjFFtgmqhTuqsAx9Pu8e/view?usp=sharing
@@ -175,39 +175,6 @@ ___
     -   `AWS RDS(Mysql)`
  
 ## 5. 프로젝트 설계
-
-
-<details>
-  <summary> Server </summary> 
-  
-  ### 설명
-      설명
-</details>
-
-
-<details>
-  <summary> Back </summary> 
-  
-  ### 크롤링
-      모든 제품은 아이허브에 등록된 제품으로 제품에 대한 정보를 주기적으로 크롤링하여 상품에 반영합니다.
-      크롤링은 파이썬의 '셀리니움' 라이브러리를 사용합니다.
-</details>
-
-<details>
-  <summary> Front </summary> 
-  
-  ### 설명
-      설명
-</details>
-
-<details>
-  <summary> DB </summary> 
-  
-  ### 설명
-      설명
-</details>
-
-<br>
 
 
 ### 아키텍쳐
