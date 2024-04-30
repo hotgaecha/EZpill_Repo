@@ -168,11 +168,11 @@ ___
 -   Server
     -   `AWS(EC2,Lambda)`
 -   Back
-    -   `Django`,`python`
+    -   `Django`,`python`,`Langchain`
 -   Front
-    -   `Flutter`
+    -   `Flutter`, `Figma`
 -   DB
-    -   `AWS RDS(Mysql)`
+    -   `AWS RDS(Mysql)`, `AWS S3`
  
 ## 5. 프로젝트 설계
 
