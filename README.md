@@ -147,8 +147,8 @@
 
 ### 1. 메인 기능 ( 영양제 조합 추천 ) / 2. 서브 기능 ( AI 챗봇 고민 상담 ) / 3. 부가 기능 ( 주변 제휴 약국 찾기 )
  
-<img src="https://github.com/hotgaecha/EZpill_Repo/assets/100944467/cb78fec6-76d9-4bbf-a3d0-7cc4bf219a77" alt="EZpill 영양제 조합 추천" width="30%">
-<img src="https://github.com/hotgaecha/EZpill_Repo/assets/100944467/9f7b5ba1-1895-4ef5-bd94-7e7a86e91b24" alt="EZpill 랭체인 챗봇" width="30%">
+<img src="https://github.com/hotgaecha/EZpill_Repo/assets/100944467/cb78fec6-76d9-4bbf-a3d0-7cc4bf219a77" alt="EZpill 영양제 조합 추천" width="30%"> --
+<img src="https://github.com/hotgaecha/EZpill_Repo/assets/100944467/9f7b5ba1-1895-4ef5-bd94-7e7a86e91b24" alt="EZpill 랭체인 챗봇" width="30%"> --
 <img src="https://github.com/hotgaecha/EZpill_Repo/assets/100944467/5ab98caa-1034-46af-a518-85242bcaa777" alt="EZpill 주변약국" width="30%">
 
 ### 1. 메인 기능 ( 영양제 조합 추천 )
