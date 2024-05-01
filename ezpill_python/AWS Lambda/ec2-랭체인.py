@@ -55,7 +55,7 @@ def process_input(user_input):
     vectorestore = get_vectorstore(text_chunks)
 
     # ChatOpenAI 모델과 대화 체인을 생성합니다.
-    openai_api_key = "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"
+    openai_api_key = ""
     conversation = get_conversation_chain(vectorestore, openai_api_key)
 
     # 플러터 앱에서 받은 user_input을 대화 체인에 전달하여 결과를 얻습니다.
