@@ -199,3 +199,6 @@ ___
 
 ### 유저 플로우
 <img width="948" alt="image" src="https://github.com/hotgaecha/EZpill/assets/100944467/2c190ae9-d3a6-4339-992e-cdf69d05aed4">
+
+
+<br>
