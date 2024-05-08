@@ -51,7 +51,7 @@ def main():
     pdf_files = [f for f in os.listdir(pdf_folder) if f.endswith('.pdf')]
     pdf_files = [os.path.join(pdf_folder, f) for f in pdf_files]
 
-    openai_api_key = "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"
+    openai_api_key = "api"
 
     # 모든 PDF 파일의 텍스트를 하나로 합칩니다.
     all_documents = []
